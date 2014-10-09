@@ -4,8 +4,8 @@ title: TIGRlab
 description: "The Kimel Family Translatonal Imaging Genetics Research Laboratory"
 logo: 120x120.gif
 teaser: 400x250.gif
-locale: en_US
-url: //mmistakes.github.io/skinny-bones-jekyll
+locale: en_CA
+url: tigrlab.github.io
 
 # Jekyll configuration
 
@@ -21,16 +21,16 @@ gems:
 
 # Site owner
 owner:
-  name: Michael Rose
-  web: http://mademistakes.com
-  email: michael@mademistakes.com
-  twitter: mmistakes
-  bio: "Just another boring, tattooed, time traveling designer."
+  name: Joseph D Viviano
+  web: http://josephdviviano.com
+  email: joseph@viviano.ca
+  twitter: josephdviviano
+  bio: "Data Analyst, Scientist."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
-    plus: +MichaelRoseDesign
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 3049671934
+    plus:
+    ad-client:
+    ad-slot:
   disqus-shortname:
 
 
