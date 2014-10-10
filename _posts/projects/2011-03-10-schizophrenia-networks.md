@@ -5,8 +5,11 @@ categories: projects
 modified: 2014-08-27T11:57:41-04:00
 tags: [sample]
 toc: true
-comments: true
-ads: true
+comments: false
+image:
+  feature: projects.dti-aging.large.jpg
+  teaser: projects.dti-aging.small.jpg
+ads: false
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.

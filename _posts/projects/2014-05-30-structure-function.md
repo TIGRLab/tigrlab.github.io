@@ -6,10 +6,10 @@ modified:
 categories: projects
 excerpt: "Identifying how brain connections predict brain activity (by combining brain imaging and transcranial magnetic stimulation(TMS))."
 tags: []
-ads: true
 image:
-  feature:
-  teaser:
+  feature: projects.dti-aging.large.jpg
+  teaser: projects.dti-aging.small.jpg
+ads: false
 ---
 
 This is a post to test image grids.

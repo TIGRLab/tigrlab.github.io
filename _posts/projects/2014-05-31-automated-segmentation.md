@@ -6,10 +6,10 @@ modified:
 categories: projects
 excerpt: "Identifying how repetitive TMS causes positive brain change, and the genetic predictors of such change."
 tags: [video]
-ads: true
 image:
-  feature:
-  teaser:
+  feature: projects.dti-aging.large.jpg
+  teaser: projects.dti-aging.small.jpg
+ads: false
 ---
 
 Here's a sample video to test FitVid.js

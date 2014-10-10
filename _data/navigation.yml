@@ -3,23 +3,24 @@
 - title: Members
   url: /members/
   excerpt: "Our team, past and present."
-  image: 400x250.gif
+  image: projects.dti-aging.small.jpg
 
 - title: Projects
   url: /projects/
   excerpt: "Ongoing projects."
-  image: 400x250.gif
+  image: projects.dti-aging.small.jpg
 
 - title: Publications
   url: /publications/
   excerpt: "Completed projects."
-  image: 400x250.gif
+  image: projects.dti-aging.small.jpg
 
 - title: Software
   url: /software/
   excerpt: "Software generated."
+  image: projects.dti-aging.small.jpg
 
 - title: About
   url: /about/
   excerpt: "All about us."
-  image: 400x250.gif
+  image: projects.dti-aging.small.jpg

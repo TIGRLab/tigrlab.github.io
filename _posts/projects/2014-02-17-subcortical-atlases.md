@@ -4,7 +4,10 @@ title:  "High-resolution in vivo atlas' of subcortical structures."
 categories: projects
 modified: 2014-02-19
 share: false
-ads: true
+image:
+  feature: projects.dti-aging.large.jpg
+  teaser: projects.dti-aging.small.jpg
+ads: false
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
