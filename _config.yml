@@ -5,8 +5,7 @@ description: "The Kimel Family Translatonal Imaging Genetics Research Laboratory
 logo: 120x120.gif
 teaser: projects.dti-aging.small.jpg
 locale: en_CA
-#url: //tigrlab.github.io/tigrlab.github.io
-
+url: //tigrlab.github.io
 # Jekyll configuration
 
 sass:
@@ -22,16 +21,8 @@ gems:
 # Site owner
 owner:
   name: Joseph D Viviano
-  web: http://josephdviviano.com
+  web: http://viviano.ca
   email: joseph@viviano.ca
-  twitter: josephdviviano
-  bio: "Data Analyst, Scientist."
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  google:
-    plus:
-    ad-client:
-    ad-slot:
-  disqus-shortname:
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

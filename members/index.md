@@ -52,11 +52,15 @@ Dr. Arash Nazeri, M.D.
 	<a href="/images/jon.pipitone.img.jpeg"><img src="/images/jon.pipitone.img.jpeg"></a>
 </figure>
 
-Dr. Nick Neufeld, M.D.
+Dr. Nick Neufeld, M.D., M.Sc.
 ----------------------
 <figure>
 	<a href="/images/nick.neufeld.img.jpg"><img src="/images/nick.neufeld.img.jpg"></a>
 </figure>
+
+Nick is a psychiatry resident with research interests in stroke and stroke recovery, neurocognitive disorders, major depressive disorder with psychotic features, and transdiagnostic approaches to psychotic disorders. He’s particularly interested in the use of neuroimaging in the context of brain stimulation for basic neuroscience and translational studies.
+
+[ResearchGate](http://www.researchgate.net/profile/Nick_Neufeld) - [Academia.edu](https://utoronto.academia.edu/NicholasNeufeld) - [Frontiers](http://community.frontiersin.org/people/nicholasneufeld/18293)
 
 Tina Roostaei, M.Sc
 -------------------
@@ -69,6 +73,8 @@ Nikhil Bhagwat, M.Sc
 <figure>
 	<a href="/images/nikhil.bhagwat.img.jpg"><img src="/images/nikhil.bhagwat.img.jpg"></a>
 </figure>
+
+Currently I am working on developing novel biomakers and diagnostic applications for neurodegenerative disorders using machine-learning techniques. My research interest include, computational neuroscience, machine-learning, signal processing and related areas.
 
 
 Tina Behdinan, B.Sc
@@ -99,7 +105,7 @@ Julie Winterburn, B.Sc
 
 Julie is a student in the second year of her Master's degree with the Institute of Biomaterials and Biomedical Engineering at the University of Toronto. Her thesis focuses on comparing machine learning techniques reported in the magnetic resonance imaging literature for schizophrenia/control classification. Her previous work includes atlasing the hippocampus on high-resolution magnetic resonance images. Julie has been with the Kimel Family lab group since 2012. In her spare time, she can be found baking delicious treats, eating said baking, or out rowing on Lake Ontario.
 
-[Download CV.](/files/julie.winterburn.cv.pdf)
+[Download CV](/files/julie.winterburn.cv.pdf)
 
 David Rotenberg, M.Sc
 ---------------------
@@ -123,11 +129,17 @@ Joseph Viviano, M.Sc
 	<a href="/images/joseph.viviano.img.jpg"><img src="/images/joseph.viviano.img.jpg"></a>
 </figure>
 
-I get excited about the interdisciplinary themes in science and the links between these academic pursuits and real-world problems. Diverse complex systems have similar organizations: ant colonies provide insight into the workings of the mind, the climate helps us understand the prerequisites for a healthy economy, and market research techniques help us understand how to predict disease.
+I function as both a system administrator and methods developer at the TIGRlab. Scientifically, I get excited about cross-disiplinary work that can be adapted to improve clinical outcomes. I'm particularly interested in ways of using dynamic network models to quantify the differences between diseased and normally-functioning brains, and using this approach to develop novel disease subtypes that should provide important information for the application of personalizeed treatments.
 
-I'm particularly interested in the commonalities of network structures across systems, and the transfer of information between model systems of vastly different scales. Most scientific enterprises are plagued by a problem of scale: instrumentation limitations often restrict fields of study to very specific resolutions of analysis. Recent advances in the studies of complex systems suggest that, regardless of the participants, systems of significant scale all behave in roughly similar ways. If this proves to be true, the transfer of findings across technical disciplines could revolutionize every field integral to modern society. I'm interested in contributing to this cause, and using these models to designing better systems and techniques for manipulating these systems. Further, I'm interested in developing tools can robustly classify these systems in common states or types, with a focus on the messy signals we typically obtain from biological systems.
+[Download CV](https://github.com/josephdviviano/resume/blob/master/cv.pdf?raw=true) - [Download Resume](https://github.com/josephdviviano/resume/blob/master/resume.pdf?raw=true) - [Personal Website](http://www.viviano.ca)
 
-[Download CV.](https://github.com/josephdviviano/resume/blob/master/cv.pdf?raw=true)
+Laura Stefanik, ?.??
+--------------------
+<figure>
+	<a href="/images/jon.pipitone.img.jpeg"><img src="/images/jon.pipitone.img.jpeg"></a>
+</figure>
+
+Research analyst extraordinaire. 
 
 Mikko Mason, B.Sc
 -----------------
@@ -146,12 +158,30 @@ Alumni
 
 Dr. Mallar Chakravarty, Ph.D
 ----------------------------
+<figure>
+	<a href="/images/mallar.chakravarty.img.jpg"><img src="/images/mallar.chakravarty.img.jpg"></a>
+</figure>
+
+Magnetic resonance imaging (MRI) is one of the tools of choice for the analysis of the brain in normally functioning and diseased states. Different MRI acquisition protocols provide excellent contrast and resolution and can be analyzed using automated techniques. The goal of Dr. Chakravarty’s work is to develop and use computational neuroanatomical techniques to understand how the structure of the brain is altered in psychiatric disorders. These techniques include the automated identification of structures and computational metrics that quantify their shape.  He is currently working on adding information from diffusion tensor imaging in order to describe inter-structural connectivity.  Many of these techniques can be used to elucidate phenotypes that can help describe how known risk genes may be affecting brain anatomy and ultimately increasing susceptibility to psychiatric illness.  This work will aid in the early identification and treatment of those at high-risk of developing severe forms of mental illness.
+
+Dr. Chakravarty now heads the [CoBrA Lab](http://cobralab.ca/) at the [Douglas Institute, Montreal](http://www.douglas.qc.ca/?locale=en). 
 
 Dr. Tristram Lett, Ph.D
 -----------------------
+<figure>
+	<a href="/images/tristram.lett.img.jpg"><img src="/images/tristram.lett.img.jpg"></a>
+</figure>
 
-Robert Shawn, B.Sc
+Robert S.C. Amaral, B.Sc
 ------------------
+<figure>
+	<a href="/images/robert.amaral.img.jpeg"><img src="/images/robert.amaral.img.jpeg"></a>
+</figure>
+Robert was heavily involved in the development of the hippocampal atlas, and now is pursuing graduate studies at the [CoBrA Lab](http://cobralab.ca/) at the [Douglas Institute, Montreal](http://www.douglas.qc.ca/?locale=en). 
 
 Matt Park, B.Sc
 ---------------
+<figure>
+	<a href="/images/matt.park.img.jpg"><img src="/images/matt.park.img.jpg"></a>
+</figure>
+Process the world. Matt is now pursuing his MD at the [Schulich School of Medicine & Dentistry](http://www.schulich.uwo.ca/). 

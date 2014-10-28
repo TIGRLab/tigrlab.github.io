@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "Identifying how brain connections predict brain activity (by combining brain imaging and transcranial magnetic stimulation(TMS))"
+title: "Identifying how brain connections predict brain activity (by combining brain imaging and transcranial magnetic stimulation(TMS)"
 date: 2014-05-30T11:51:25-04:00
 modified:
 categories: projects
-excerpt: "Identifying how brain connections predict brain activity (by combining brain imaging and transcranial magnetic stimulation(TMS))."
+excerpt: "Identifying how brain connections predict brain activity (by combining brain imaging and transcranial magnetic stimulation(TMS)."
 tags: []
 image:
   feature: projects.dti-aging.large.jpg
