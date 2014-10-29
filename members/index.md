@@ -65,7 +65,7 @@ Nick is a psychiatry resident with research interests in stroke and stroke recov
 Tina Roostaei, M.Sc
 -------------------
 <figure>
-	<a href="/images/jon.pipitone.img.jpeg"><img src="/images/jon.pipitone.img.jpeg"></a>
+	<a href="/images/tina.roostaei.img.jpg"><img src="/images/tina.roostaei.img.jpg"></a>
 </figure>
 
 Nikhil Bhagwat, M.Sc
