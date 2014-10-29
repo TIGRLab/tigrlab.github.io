@@ -49,7 +49,7 @@ Dr. Mélissa Lévesque, Ph.D
 Dr. Arash Nazeri, M.D.
 ----------------------
 <figure>
-	<a href="/images/jon.pipitone.img.jpeg"><img src="/images/jon.pipitone.img.jpeg"></a>
+	<a href="/images/arash.nazeri.img.jpg"><img src="/images/arash.nazeri.img.jpg"></a>
 </figure>
 
 Dr. Nick Neufeld, M.D., M.Sc.
@@ -129,7 +129,7 @@ Joseph Viviano, M.Sc
 	<a href="/images/joseph.viviano.img.jpg"><img src="/images/joseph.viviano.img.jpg"></a>
 </figure>
 
-I function as both a system administrator and methods developer at the TIGRlab. Scientifically, I get excited about cross-disiplinary work that can be adapted to improve clinical outcomes. I'm particularly interested in ways of using dynamic network models to quantify the differences between diseased and normally-functioning brains, and using this approach to develop novel disease subtypes that should provide important information for the application of personalizeed treatments.
+I function as both a system administrator and methods developer at the TIGRlab. I get excited about cross-disiplinary work that can be adapted to improve clinical outcomes. I'm particularly interested in ways of using dynamic network models to quantify the differences between diseased and normally-functioning brains, and using this approach to develop novel disease subtypes that should provide important information for the application of personalizeed treatments.
 
 [Download CV](https://github.com/josephdviviano/resume/blob/master/cv.pdf?raw=true) - [Download Resume](https://github.com/josephdviviano/resume/blob/master/resume.pdf?raw=true) - [Personal Website](http://www.viviano.ca)
 
