@@ -86,7 +86,7 @@ Tina Behdinan, B.Sc
 Vincent Man, M.Sc
 -----------------
 <figure>
-	<a href="/images/jon.pipitone.img.jpeg"><img src="/images/jon.pipitone.img.jpeg"></a>
+	<a href="/images/vincent.man.img.jpg"><img src="/images/vincent.man.img.jpg"></a>
 </figure>
 
 Daniel Felsky, M.Sc
