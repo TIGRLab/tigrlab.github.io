@@ -151,7 +151,8 @@ Laura Stefanik, B.A.H
 	<a href="/images/jon.pipitone.img.jpeg"><img src="/images/jon.pipitone.img.jpeg"></a>
 </figure>
 
-I am a research analyst with the Kimel Family Translational Imaging Genetics lab and the Temerty Centre for Therapeutic Brain Intervention.  Currently I coordinate a clinical trial exploring the efficacy of repetitive transcranial magnetic stimulation (rTMS) for the treatment of working memory deficits in schizophrenia and effects on brain structure and function.  My previous work focused on examining neurocognitive variance in functioning in schizophrenia using eye tracking technology. I am very passionate about understanding the role of neurocognitive impairments in psychosis and the potential for brain stimulation as a treatment to improve quality of life in clients with mood and psychotic disorders.
+I am a research analyst with the Kimel Family Translational Imaging Genetics lab and the Temerty Centre for Therapeutic Brain Intervention.  Currently I coordinate a clinical trial exploring the efficacy of repetitive transcranial magnetic stimulation (rTMS) for the treatment of working memory deficits in schizophrenia and effects on brain structure and function (funded by CIHR).  My previous work focused on examining neurocognitive variance in functioning in schizophrenia using eye tracking technology. I am very passionate about understanding the role of neurocognitive impairments in psychosis and the potential for brain stimulation as a treatment to improve quality of life in clients with mood and psychotic disorders.
+
 
 Mikko Mason, B.Sc
 -----------------
