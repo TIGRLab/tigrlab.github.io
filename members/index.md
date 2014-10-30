@@ -46,6 +46,12 @@ Dr. Mélissa Lévesque, Ph.D
 	<a href="/images/melissa.levesque.img.jpg"><img src="/images/melissa.levesque.img.jpg"></a>
 </figure>
 
+Melissa did a BSc in Psychology at McGill University, followed by an MSc in Neuroscience, also at McGill. During her Master’s degree she studied the function of the serotonin 1A receptor following acute administration of fluoxetine, using positron emission tomography (PET) with [18F]MPPF in healthy populations of both rats and humans. Then, during her PhD in Biomedical Sciences in the Department of Psychiatry at the University of Montreal, she studied the long-term impacts of prenatal and early postnatal adversity on brain development using MRI and fMRI, and epigenetic mechanisms, specifically DNA methylation, in a cohort of adolescent monozygotic twins followed since birth. 
+
+At CAMH, she is now working on testing the accelerated aging hypothesis of schizophrenia using both DTI and peripheral markers in young and old schizophrenia patients and controls. Her interests lie in uncovering the biomarkers of vulnerability for mental illness using a combination of neuroimaging and molecular strategies.
+
+[Download CV](/files/melissa.levesque.cv.pdf)
+
 Dr. Arash Nazeri, M.D.
 ----------------------
 <figure>
@@ -95,7 +101,13 @@ Daniel Felsky, M.Sc
 	<a href="/images/daniel.felsky.img.jpg"><img src="/images/daniel.felsky.img.jpg"></a>
 </figure>
 
-I'm excellent at Tony Hawk.
+My active studies are primarily focused on both the independent effects of multiple Alzheimer’s risk genes as well as the way in which genetic risk factors may interact to influence brain susceptibility for dementia. I am currently involved in a collaborative study of structural brain changes due to mutations in a gene involved in brain inflammation (called TSPO), and have found that a single variant within this gene may confer protection against the development of Alzheimer’s-associated brain pathology that is roughly equivalent to a six-year reduction in age. Importantly, this study has implications for characterizing the genetic roots of other complex mental illnesses (such as schizophrenia and multiple sclerosis) that are also known to have immunological components. These studies are in collaboration with field-leading scientists at Rush University in Chicago, Il (Dr. David Bennett), and Harvard Medical School in Boston, MA (Dr. Philip L. De Jager).
+
+Building on work I have completed during my graduate training, I will be pursuing additional investigations of genes that may predict depressive symptoms (which are highly prevalent in late-life dementia), as well as cognitive decline in younger individuals with schizophrenia. I expect that my future work on the interactive relationships between risk genes in disease-related pathways, as well the as effect of lifestyle and environment on the activity of these pathways, will yield a new understanding of why and how diseases such as Alzheimer’s and schizophrenia develop, leading to novel biologically-informed and individually-tailored intervention strategies.
+
+My plan as a researcher is to pursue post-doctoral training following the defence of my PhD, as I believe that the accelerating pace of mental health research, facilitated largely by the availability of new collaborative large-scale datasets, promises many exciting breakthroughs in the coming years. My ambition is to make critical contributions to this progress by expanding our knowledge of genetic systems, brain structure, and early risk for cognitive decline, with the ultimate goal of nullifying the growing burden of mental illness in Canada and around the world.
+
+[Download CV](/files/daniel.felsky.cv.pdf)
 
 Julie Winterburn, B.Sc
 ----------------------
@@ -133,13 +145,13 @@ I function as both a system administrator and methods developer at the TIGRlab. 
 
 [Download CV](https://github.com/josephdviviano/resume/blob/master/cv.pdf?raw=true) - [Download Resume](https://github.com/josephdviviano/resume/blob/master/resume.pdf?raw=true) - [Personal Website](http://www.viviano.ca)
 
-Laura Stefanik, ?.??
+Laura Stefanik, B.A.H
 --------------------
 <figure>
 	<a href="/images/jon.pipitone.img.jpeg"><img src="/images/jon.pipitone.img.jpeg"></a>
 </figure>
 
-Research analyst extraordinaire. 
+I am a research analyst with the Kimel Family Translational Imaging Genetics lab and the Temerty Centre for Therapeutic Brain Intervention.  Currently I coordinate a clinical trial exploring the efficacy of repetitive transcranial magnetic stimulation (rTMS) for the treatment of working memory deficits in schizophrenia and effects on brain structure and function.  My previous work focused on examining neurocognitive variance in functioning in schizophrenia using eye tracking technology. I am very passionate about understanding the role of neurocognitive impairments in psychosis and the potential for brain stimulation as a treatment to improve quality of life in clients with mood and psychotic disorders.
 
 Mikko Mason, B.Sc
 -----------------
