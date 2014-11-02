@@ -68,11 +68,13 @@ Nick is a psychiatry resident with research interests in stroke and stroke recov
 
 [ResearchGate](http://www.researchgate.net/profile/Nick_Neufeld) - [Academia.edu](https://utoronto.academia.edu/NicholasNeufeld) - [Frontiers](http://community.frontiersin.org/people/nicholasneufeld/18293)
 
-Tina Roostaei, M.Sc
+Tina Roostaei, M.D., M.P.H.
 -------------------
 <figure>
 	<a href="/images/tina.roostaei.img.jpg"><img src="/images/tina.roostaei.img.jpg"></a>
 </figure>
+
+Tina is a medical graduate from Iran and a postdoctoral fellow working under the supervision of Dr. Voineskos. She is extremely interested in translational and neuroimaging research in neuropsychiatric disorders.
 
 Nikhil Bhagwat, M.Sc
 ---------------------
