@@ -162,6 +162,10 @@ Mikko Mason, B.Sc
 	<a href="/images/mikko.mason.img.jpeg"><img src="/images/mikko.mason.img.jpg"></a>
 </figure>
 
+As a relatively new member of the Kimel Lab, I am excited to work with so many bright, engaged individuals. My role as a study RA challenges me to apply my psychometric experience to a research setting, and I am constantly amazed by the resilience with which our patients meet mental health challenges. I plan to further my education and combine research, clinical work, and teaching in the future. 
+
+On a more personal level, I feel like a Finn when in Canada and a Canadian when in Finland. I have a soft spot for old novels and the CBC. I believe in free time the way I believe in unicorns, but find sanctuary in wild places. I am happiest in woods or water or on a bike.
+
 Dielle Miranda, B.Sc
 --------------------
 <figure>
