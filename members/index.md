@@ -34,6 +34,12 @@ Dr. Anne Wheeler, Ph.D
 	<a href="/images/anne.wheeler.img.jpg"><img src="/images/anne.wheeler.img.jpg"></a>
 </figure>
 
+Anne is a postdoctoral fellow working in the TIGR lab since 2012. Her research aims to identify cortical circuits associated with cognitive impairment in schizophrenia by applying network-based analyses. She completed her PhD in the Institute of Medical Science at the University of Toronto where she used brain-imaging techniques to examine mouse models of learning and addiction. She is funded by CIHR and the Brain and Behavior Research Foundation (NARSAD).
+
+[ResearchGate](
+https://www.researchgate.net/profile/Anne_Wheeler2?ev=prf_highl)
+
+
 Dr. Colin Hawko, Ph.D
 ---------------------
 <figure>
