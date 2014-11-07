@@ -172,6 +172,12 @@ As a relatively new member of the Kimel Lab, I am excited to work with so many b
 
 On a more personal level, I feel like a Finn when in Canada and a Canadian when in Finland. I have a soft spot for old novels and the CBC. I believe in free time the way I believe in unicorns, but find sanctuary in wild places. I am happiest in woods or water or on a bike.
 
+Judy Kwan, B.Sc.
+----------------
+<figure>
+        <a href="/images/jon.pipitone.img.jpeg"><img src="/images/jon.pipitone.img.jpeg"></a>
+</figure>
+
 Dielle Miranda, B.Sc
 --------------------
 <figure>
