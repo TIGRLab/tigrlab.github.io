@@ -141,9 +141,7 @@ Jon Pipitone, M.Sc
 	<a href="/images/jon.pipitone.img.jpeg"><img src="/images/jon.pipitone.img.jpeg"></a>
 </figure>
 
-I sleep once a week; when I do sleep, I sleep in a chair. While on vacation in Canada, I successfully negotiated with a group of terrorists who had seized a small bakery. I balance, I weave, I dodge, I frolic, and my bills are all paid. 
-
-On weekends, to let off steam, I participate in full-contact origami. Years ago I discovered the meaning of life but forgot to write it down. I have made extraordinary four course meals using only a mouli and a toaster oven. I breed prize-winning clams. I have won bullfights in San Juan, cliff-diving competitions in Sri Lanka, and spelling bees at the Kremlin.
+I help make the machines go, help other people make the machines go, and also make new toys for the machines and people to do science with. I have a penchant for putting things under version control, and writing `README` files. 
 
 Joseph Viviano, M.Sc
 --------------------
