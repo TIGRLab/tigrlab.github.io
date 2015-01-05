@@ -64,6 +64,8 @@ Dr. Arash Nazeri, M.D.
 	<a href="/images/arash.nazeri.img.jpg"><img src="/images/arash.nazeri.img.jpg"></a>
 </figure>
 
+I'm a recipient of a CAMH Fellowship award for 2014.
+
 Dr. Nick Neufeld, M.D., M.Sc.
 ----------------------
 <figure>
@@ -130,7 +132,7 @@ Julie is a student in the second year of her Master's degree with the Institute 
 David Rotenberg, M.Sc
 ---------------------
 <figure>
-	<a href="/images/jon.pipitone.img.jpeg"><img src="/images/jon.pipitone.img.jpeg"></a>
+	<a href="/images/david.rotenberg.jpg"><img src="/images/david.rotenberg.jpg"></a>
 </figure>
 
 Jon Pipitone, M.Sc
