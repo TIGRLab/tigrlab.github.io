@@ -12,9 +12,6 @@ image:
 
 Please visit [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=voineskos+a) for a full list of our publications.
 
-Publication List
-----------------
-
 1: Voineskos AN. Genetic underpinnings of white matter 'connectivity':
 Heritability, risk, and heterogeneity in schizophrenia. Schizophr Res. 2015
 Jan;161(1):50-60. doi: 10.1016/j.schres.2014.03.034. Epub 2014 Jun 2. Review.
