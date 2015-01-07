@@ -10,9 +10,9 @@ image:
   teaser: projects.dti-aging.small.jpg
 ---
 
-Given a set of labelled MR images (atlases) and unlabelled images (subjects), MAGeT produces a segmentation for each subject using a multi-atlas voting procedure based on a template library made up of images from the subject set.
+Given a set of labeled MR images (atlases) and unlabeled images (subjects), MAGeT produces a segmentation for each subject using a multi-atlas voting procedure based on a template library made up of images from the subject set.
 
-The major difference is that, in MAGeT brain, segmentations from each atlas (typically manually delineated) are propogated via image registration to a subset of the subject images (known as the 'template library') before being propogated to each subject image and fused. It is our hypothesis that by propogating labels to a template library, we are able to make use of the neuroanatomical variability of the subjects in order to 'fine tune' each individual subject's segmentation.
+The major difference is that, in MAGeT brain, segmentations from each atlas (typically manually delineated) are propagated via image registration to a subset of the subject images (known as the 'template library') before being propagated to each subject image and fused. It is our hypothesis that by propagating labels to a template library, we are able to make use of the neuro-anatomical variability of the subjects in order to 'fine tune' each individual subject's segmentation.
 
 [See the CoBrA lab website for more](http://cobralab.ca)
 [See the CoBrA lab GitHub for software](https://github.com/CobraLab/MAGeTbrain)

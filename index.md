@@ -23,8 +23,6 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Contact Us</h2>
-  <p class="post-excerpt">For more information, please contact this poor soul who volunteers :-).</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
