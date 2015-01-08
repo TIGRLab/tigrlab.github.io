@@ -115,7 +115,7 @@ My active studies are primarily focused on both the independent effects of multi
 
 Building on work I have completed during my graduate training, I will be pursuing additional investigations of genes that may predict depressive symptoms (which are highly prevalent in late-life dementia), as well as cognitive decline in younger individuals with schizophrenia. I expect that my future work on the interactive relationships between risk genes in disease-related pathways, as well the as effect of lifestyle and environment on the activity of these pathways, will yield a new understanding of why and how diseases such as Alzheimer’s and schizophrenia develop, leading to novel biologically-informed and individually-tailored intervention strategies.
 
-My plan as a researcher is to pursue post-doctoral training following the defence of my PhD, as I believe that the accelerating pace of mental health research, facilitated largely by the availability of new collaborative large-scale datasets, promises many exciting breakthroughs in the coming years. My ambition is to make critical contributions to this progress by expanding our knowledge of genetic systems, brain structure, and early risk for cognitive decline, with the ultimate goal of nullifying the growing burden of mental illness in Canada and around the world.
+My plan as a researcher is to pursue post-doctoral training following the defense of my PhD, as I believe that the accelerating pace of mental health research, facilitated largely by the availability of new collaborative large-scale datasets, promises many exciting breakthroughs in the coming years. My ambition is to make critical contributions to this progress by expanding our knowledge of genetic systems, brain structure, and early risk for cognitive decline, with the ultimate goal of nullifying the growing burden of mental illness in Canada and around the world.
 
 [Download CV](/files/daniel.felsky.cv.pdf)
 
@@ -149,7 +149,7 @@ Joseph Viviano, M.Sc
 	<a href="/images/ppl.j.viviano.jpg"><img src="/images/ppl.j.viviano.jpg"></a>
 </figure>
 
-I function as both a system administrator and methods developer at the TIGRlab. I get excited about cross-disiplinary work that can be adapted to improve clinical outcomes. I'm particularly interested in ways of using dynamic network models to quantify the differences between diseased and normally-functioning brains, and using this approach to develop novel disease subtypes that should provide important information for the application of personalizeed treatments.
+I function as both a system administrator and methods developer at the TIGRlab. I get excited about cross-disciplinary work that can be adapted to improve clinical outcomes. I'm particularly interested in ways of using dynamic network models to quantify the differences between diseased and normally-functioning brains, and using this approach to develop novel disease subtypes that should provide important information for the application of personalized treatments.
 
 [Download CV](https://github.com/josephdviviano/resume/blob/master/cv.pdf?raw=true) - [Personal Website](http://www.viviano.ca)
 
