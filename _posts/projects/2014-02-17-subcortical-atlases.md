@@ -13,6 +13,7 @@ toc: true
 redirect_from:
   - /index.php/Hippocampus/
   - /index.php/Cerebellum/
+  - /cerebellum/
 ---
 
 Hippocampus Atlas
