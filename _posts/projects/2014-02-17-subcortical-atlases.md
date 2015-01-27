@@ -10,7 +10,9 @@ image:
   teaser: projects.winterburn-atlas.small.jpg
 ads: false
 toc: true
-
+redirect_from:
+  - /index.php/Hippocampus
+  - /index.php/Cerebellum
 ---
 
 Hippocampus Atlas
