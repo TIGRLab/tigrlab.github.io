@@ -11,8 +11,8 @@ image:
 ads: false
 toc: true
 redirect_from:
-  - /index.php/Hippocampus
-  - /index.php/Cerebellum
+  - /index.php/Hippocampus/
+  - /index.php/Cerebellum/
 ---
 
 Hippocampus Atlas
