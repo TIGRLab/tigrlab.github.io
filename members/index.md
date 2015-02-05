@@ -153,7 +153,7 @@ Joseph Viviano, M.Sc
 
 I function as both a system administrator and methods developer at the TIGRlab. I get excited about cross-disciplinary work that can be adapted to improve clinical outcomes. I'm particularly interested in ways of using dynamic network models to quantify the differences between diseased and normally-functioning brains, and using this approach to develop novel disease subtypes that should provide important information for the application of personalized treatments.
 
-[Download CV](https://github.com/josephdviviano/resume/blob/master/cv.pdf?raw=true) - [Personal Website](http://www.viviano.ca)
+[Download CV](https://github.com/josephdviviano/resume/blob/master/jdv-cv.pdf?raw=true) - [Personal Website](http://www.viviano.ca)
 
 Laura Stefanik, B.A.H
 --------------------
