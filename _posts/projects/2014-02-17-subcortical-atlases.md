@@ -94,4 +94,4 @@ In accessing the materials, documents and content, you agree to the following te
 
 Contact: mtpark89@gmail.com; mallar@cobralab.ca
 
-[MINC-CerebellumAtlas.zip](https://docs.google.com/a/cobralab.ca/forms/d/1TceLn3MBTAFdKoi7-L_Vi7tKh2fIus8VTsGTWTpXLAI/viewform)
+[MINC Cerebellum Atlas](https://docs.google.com/a/cobralab.ca/forms/d/1TceLn3MBTAFdKoi7-L_Vi7tKh2fIus8VTsGTWTpXLAI/viewform)
