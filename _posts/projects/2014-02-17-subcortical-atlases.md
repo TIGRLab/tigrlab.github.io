@@ -48,27 +48,18 @@ In accessing the materials, documents and content, you agree to the following te
 9. You agree to indemnify CAMH and its officers, employees, students, other researchers and agents (together, the "Indemnitees") and hold the Indemnitees harmless from and against any and all claims, damages and liabilities asserted by third parties (including claims for negligence) which arise directly or indirectly from the use of the Materials or the sale of any products based on the Materials.
 10. To maintain the protection of human subjects you undertake not to use the Materials so as to attempt in any way to discover the identity of or make contact with any individual from whom the information originated.
 
-Contact: winterburn.julie@gmail.com
+Contact: [winterburn.julie@gmail.com](mailto:winterburn.julie@gmail.com)
 
-Last updated: 11 October, 2012
+Publication: [A novel in vivo atlas of human hippocampal subfields using high-resolution 3 T magnetic resonance imaging.](http://www.sciencedirect.com/science/article/pii/S1053811913001237)
 
-Publication
-===========
+[MINC Hippocampal Atlas](https://docs.google.com/forms/d/1dXcUdrQMxDY8f4qKIAJAEATb8Jn1Hz5m1cy7PwdBR_s/viewform)
 
-[A novel in vivo atlas of human hippocampal subfields using high-resolution 3 T magnetic resonance imaging.](http://www.sciencedirect.com/science/article/pii/S1053811913001237)
+[NIFTI Hippocampal Atlas](https://docs.google.com/forms/d/1dXcUdrQMxDY8f4qKIAJAEATb8Jn1Hz5m1cy7PwdBR_s/viewform)
 
-Downloads
-=========
-
-Note: Corrections made to NIfTI label files and README on 22 March, 2013. For more information contact [winterburn.julie@gmail.com](mailto:winterburn.julie@gmail.com).
-
-[MINC-HippocampalAtlas.zip](http://imaging-genetics.camh.ca/data/WinterburnHippocampalAtlas_MINC_v2.zip) -- Updated March 22, 2013.
-
-[NIFTI-HippocampalAtlas.zip](http://imaging-genetics.camh.ca/data/WinterburnHippocampalAtlas_NIfTI_v2_Apr.18.zip) -- Updated March 22, 2013.
-
+Note: Corrections made to NIfTI label files and README on 22 March, 2013.
 
 Cerebellum Atlas
------------------
+----------------
 
 LICENSE AGREEMENT
 Copyright Centre for Addiction and Mental Health ("CAMH"), 2014.
@@ -101,8 +92,6 @@ In accessing the materials, documents and content, you agree to the following te
 10. You agree to indemnify CAMH and its officers, employees, students, other researchers and agents (together, the "Indemnitees") and hold the Indemnitees harmless from and against any and all claims, damages and liabilities asserted by third parties (including claims for negligence) which arise directly or indirectly from the use of the Materials or the sale of any products based on the Materials.
 11. To maintain the protection of human subjects you undertake not to use the Materials so as to attempt in any way to discover the identity of or make contact with any individual from whom the information originated.
 
-Downloads
----------
-[MINC-CerebellumAtlas.zip](http://imaging-genetics.camh.ca/data/Cerebellum_Atlases_2014-05-27.zip)
+Contact: mtpark89@gmail.com; mallar@cobralab.ca
 
-Contact: mtpark89@gmail.com; mallar.chakravarty@camh.ca
+[MINC-CerebellumAtlas.zip](https://docs.google.com/a/cobralab.ca/forms/d/1TceLn3MBTAFdKoi7-L_Vi7tKh2fIus8VTsGTWTpXLAI/viewform)
