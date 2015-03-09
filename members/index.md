@@ -151,7 +151,7 @@ Joseph Viviano, M.Sc
 	<a href="/images/ppl.j.viviano.jpg"><img src="/images/ppl.j.viviano.jpg"></a>
 </figure>
 
-I function as both a system administrator and methods developer at the TIGRlab. I get excited about cross-disciplinary work that can be adapted to improve clinical outcomes. I'm particularly interested in ways of using dynamic network models to quantify the differences between diseased and normally-functioning brains, and using this approach to develop novel disease subtypes that should provide important information for the application of personalized treatments.
+I function as a system administrator, data analyst, and methods developer at the TIGRlab. On the systems front, I spend most of my time working on ways of efficiently managing multi-site imaging data for basic research and clinical trials, and standardizing their analysis to facilitate reproducibility. I also support the ongoing projects led by other researchers. On the scientific side, I get excited about importing concepts and methods from other scientific frontiers to improve clinical outcomes. Right now I'm particularly interested in developing ways to understand the short-term dynamics of brain network function in diseased and normally-functioning brains. I'm also interested in using this and other approaches to develop novel disease subtypes that may inform personalized treatments.
 
 [Download CV](https://github.com/josephdviviano/resume/blob/master/jdv-cv.pdf?raw=true) - [Personal Website](http://www.viviano.ca)
 
