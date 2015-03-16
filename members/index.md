@@ -158,7 +158,7 @@ I function as a system administrator, data analyst, and methods developer at the
 Laura Stefanik, B.A.H
 --------------------
 <figure>
-	<a href="/images/ppl.j.pipitone.jpeg"><img src="/images/ppl.j.pipitone.jpeg"></a>
+	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
 </figure>
 
 I am a research analyst with the Kimel Family Translational Imaging Genetics lab and the Temerty Centre for Therapeutic Brain Intervention.  Currently I coordinate a clinical trial exploring the efficacy of repetitive transcranial magnetic stimulation (rTMS) for the treatment of working memory deficits in schizophrenia and effects on brain structure and function (funded by CIHR).  My previous work focused on examining neurocognitive variance in functioning in schizophrenia using eye tracking technology. I am very passionate about understanding the role of neurocognitive impairments in psychosis and the potential for brain stimulation as a treatment to improve quality of life in clients with mood and psychotic disorders.
@@ -177,13 +177,13 @@ On a more personal level, I feel like a Finn when in Canada and a Canadian when 
 Judy Kwan, B.Sc.
 ----------------
 <figure>
-        <a href="/images/ppl.j.pipitone.jpeg"><img src="/images/ppl.j.pipitone.jpeg"></a>
+        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
 </figure>
 
 Dielle Miranda, B.Sc
 --------------------
 <figure>
-	<a href="/images/ppl.j.pipitone.jpeg"><img src="/images/ppl.j.pipitone.jpeg"></a>
+	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
 </figure>
 
 Alumni
