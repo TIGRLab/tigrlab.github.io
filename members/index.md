@@ -180,7 +180,7 @@ Judy Kwan, B.Sc.
         <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
 </figure>
 
-Dielle Miranda, B.Sc
+Dielle Miranda, MA (Clin Psy)
 --------------------
 <figure>
 	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
