@@ -66,7 +66,9 @@ Dr. Arash Nazeri, M.D.
 	<a href="/images/ppl.a.nazeri.jpg"><img src="/images/ppl.a.nazeri.jpg"></a>
 </figure>
 
-I'm a recipient of a CAMH Fellowship award for 2014.
+Arash is a postdoctoral fellow working at the Kimel Family Translational Imaging Genetics Research (TIGR) Lab since 2013. He completed his medical education at Tehran University of Medical Sciences, Tehran, Iran. His main research interests are implementing novel methods for diffusion-weighted MRI analysis and integration of imaging data with genetics. Arash is funded by Centre for Addiction and Mental Health Fellowship.
+
+[Download CV](/files/arash.nazeri.cv.pdf)
 
 Dr. Nick Neufeld, M.D., M.Sc.
 ----------------------
