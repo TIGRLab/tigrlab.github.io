@@ -23,6 +23,8 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
+  <h2 class="post-title">Data Management</h2>
+  <p class="post-excerpt">We are experts in the management and analysis of multi-site imaging data.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
