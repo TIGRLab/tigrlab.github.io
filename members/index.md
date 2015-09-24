@@ -54,9 +54,9 @@ Dr. Arash Nazeri, M.D.
 	<a href="/images/ppl.a.nazeri.jpg"><img src="/images/ppl.a.nazeri.jpg"></a>
 </figure>
 
-Arash is a postdoctoral fellow working at the Kimel Family Translational Imaging Genetics Research (TIGR) Lab since 2013. He completed his medical education at Tehran University of Medical Sciences, Tehran, Iran. His main research interests are implementing novel methods for diffusion-weighted MRI analysis and integration of imaging data with genetics. Arash is funded by Centre for Addiction and Mental Health Fellowship.
+Arash is a postdoctoral fellow working at the Kimel Family Translational Imaging Genetics Research (TIGR) Lab since 2013. He completed his medical education at Tehran University of Medical Sciences, Tehran, Iran. His main research interests are implementing novel methods for multi-shell diffusion-weighted MRI analysis and integration of imaging data with genetics in aging and neuropsychiatric disorders. Arash is funded by the Centre for Addiction and Mental Health and the Canadian Institutes of Health Research fellowship awards.
 
-[Download CV](/files/arash.nazeri.cv.pdf)
+[Download CV](/files/arash.nazeri.cv.pdf) -- [Github](https://github.com/arash-n/) -- [ORCiD](http://orcid.org/0000-0001-6983-0641)
 
 Dr. Nick Neufeld, M.D., M.Sc.
 ----------------------
