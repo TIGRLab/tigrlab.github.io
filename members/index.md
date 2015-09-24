@@ -28,18 +28,6 @@ Dr. Voineskos’s work combines multi-modal neuroimaging and genetics approaches
 
 Another area of Dr. Voineskos’s work includes understanding genetic and structural brain determinants of brain function by combining the approaches described above with transcranial magnetic stimulation (TMS). He is also using brain imaging to understand the effects of existing and novel treatments on brain structure and function. 
 
-Dr. Anne Wheeler, Ph.D
-----------------------
-<figure>
-	<a href="/images/ppl.a.wheeler.jpg"><img src="/images/ppl.a.wheeler.jpg"></a>
-</figure>
-
-Anne is a postdoctoral fellow working in the TIGR lab since 2012. Her research aims to identify cortical circuits associated with cognitive impairment in schizophrenia by applying network-based analyses. She completed her PhD in the Institute of Medical Science at the University of Toronto where she used brain-imaging techniques to examine mouse models of learning and addiction. She is funded by CIHR and the Brain and Behavior Research Foundation (NARSAD).
-
-[ResearchGate](
-https://www.researchgate.net/profile/Anne_Wheeler2?ev=prf_highl)
-
-
 Dr. Colin Hawko, Ph.D
 ---------------------
 <figure>
@@ -88,6 +76,14 @@ Tina Roostaei, M.D., M.P.H.
 
 Tina is a medical graduate from Iran and a postdoctoral fellow working under the supervision of Dr. Voineskos. She is extremely interested in translational and neuroimaging research in neuropsychiatric disorders.
 
+Laura Stefanik, B.A.H
+--------------------
+<figure>
+	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+</figure>
+
+I am a research analyst with the Kimel Family Translational Imaging Genetics lab and the Temerty Centre for Therapeutic Brain Intervention.  Currently I coordinate a clinical trial exploring the efficacy of repetitive transcranial magnetic stimulation (rTMS) for the treatment of working memory deficits in schizophrenia and effects on brain structure and function (funded by CIHR).  My previous work focused on examining neurocognitive variance in functioning in schizophrenia using eye tracking technology. I am very passionate about understanding the role of neurocognitive impairments in psychosis and the potential for brain stimulation as a treatment to improve quality of life in clients with mood and psychotic disorders.
+
 Nikhil Bhagwat, M.Sc
 ---------------------
 <figure>
@@ -95,13 +91,6 @@ Nikhil Bhagwat, M.Sc
 </figure>
 
 Currently I am working on developing novel biomakers and diagnostic applications for neurodegenerative disorders using machine-learning techniques. My research interest include, computational neuroscience, machine-learning, signal processing and related areas.
-
-
-Tina Behdinan, B.Sc
--------------------
-<figure>
-	<a href="/images/ppl.t.behdinan.jpg"><img src="/images/ppl.t.behdinan.jpg"></a>
-</figure>
 
 Vincent Man, M.Sc
 -----------------
@@ -157,25 +146,6 @@ I function as a system administrator, data analyst, and methods developer at the
 
 [Download CV](https://github.com/josephdviviano/resume/blob/master/jdv-cv.pdf?raw=true) - [Personal Website](http://www.viviano.ca)
 
-Laura Stefanik, B.A.H
---------------------
-<figure>
-	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
-</figure>
-
-I am a research analyst with the Kimel Family Translational Imaging Genetics lab and the Temerty Centre for Therapeutic Brain Intervention.  Currently I coordinate a clinical trial exploring the efficacy of repetitive transcranial magnetic stimulation (rTMS) for the treatment of working memory deficits in schizophrenia and effects on brain structure and function (funded by CIHR).  My previous work focused on examining neurocognitive variance in functioning in schizophrenia using eye tracking technology. I am very passionate about understanding the role of neurocognitive impairments in psychosis and the potential for brain stimulation as a treatment to improve quality of life in clients with mood and psychotic disorders.
-
-
-Mikko Mason, B.Sc
------------------
-<figure>
-	<a href="/images/ppl.m.mason.jpg"><img src="/images/ppl.m.mason.jpg"></a>
-</figure>
-
-As a relatively new member of the Kimel Lab, I am excited to work with so many bright, engaged individuals. My role as a study RA challenges me to apply my psychometric experience to a research setting, and I am constantly amazed by the resilience with which our patients meet mental health challenges. I plan to further my education and combine research, clinical work, and teaching in the future. 
-
-On a more personal level, I feel like a Finn when in Canada and a Canadian when in Finland. I have a soft spot for old novels and the CBC. I believe in free time the way I believe in unicorns, but find sanctuary in wild places. I am happiest in woods or water or on a bike.
-
 Judy Kwan, B.Sc.
 ----------------
 <figure>
@@ -206,6 +176,34 @@ Dr. Tristram Lett, Ph.D
 <figure>
 	<a href="/images/ppl.t.lett.jpg"><img src="/images/ppl.t.lett.jpg"></a>
 </figure>
+
+Dr. Anne Wheeler, Ph.D
+----------------------
+<figure>
+	<a href="/images/ppl.a.wheeler.jpg"><img src="/images/ppl.a.wheeler.jpg"></a>
+</figure>
+
+Anne is a postdoctoral fellow working in the TIGR lab since 2012. Her research aims to identify cortical circuits associated with cognitive impairment in schizophrenia by applying network-based analyses. She completed her PhD in the Institute of Medical Science at the University of Toronto where she used brain-imaging techniques to examine mouse models of learning and addiction. She is funded by CIHR and the Brain and Behavior Research Foundation (NARSAD).
+
+[ResearchGate](https://www.researchgate.net/profile/Anne_Wheeler2?ev=prf_highl)
+
+Mikko Mason, B.Sc
+-----------------
+<figure>
+	<a href="/images/ppl.m.mason.jpg"><img src="/images/ppl.m.mason.jpg"></a>
+</figure>
+
+As a relatively new member of the Kimel Lab, I am excited to work with so many bright, engaged individuals. My role as a study RA challenges me to apply my psychometric experience to a research setting, and I am constantly amazed by the resilience with which our patients meet mental health challenges. I plan to further my education and combine research, clinical work, and teaching in the future. 
+
+On a more personal level, I feel like a Finn when in Canada and a Canadian when in Finland. I have a soft spot for old novels and the CBC. I believe in free time the way I believe in unicorns, but find sanctuary in wild places. I am happiest in woods or water or on a bike.
+
+Tina Behdinan, MSc
+-------------------
+<figure>
+	<a href="/images/ppl.t.behdinan.jpg"><img src="/images/ppl.t.behdinan.jpg"></a>
+</figure>
+
+Tina is now persuing her MD at the [Schulich School of Medicine & Dentistry](http://www.schulich.uwo.ca/).
 
 Robert S.C. Amaral, B.Sc
 ------------------
