@@ -181,7 +181,7 @@ Dr. Anne Wheeler, Ph.D
 	<a href="/images/ppl.a.wheeler.jpg"><img src="/images/ppl.a.wheeler.jpg"></a>
 </figure>
 
-Anne is a postdoctoral fellow working in the TIGR lab since 2012. Her research aims to identify cortical circuits associated with cognitive impairment in schizophrenia by applying network-based analyses. She completed her PhD in the Institute of Medical Science at the University of Toronto where she used brain-imaging techniques to examine mouse models of learning and addiction. She is funded by CIHR and the Brain and Behavior Research Foundation (NARSAD).
+Anne is a new Catalyst Scholar in traumatic brain injury (TBI) at [SickKids Hospital](https://www.sickkidsfoundation.com/).
 
 [ResearchGate](https://www.researchgate.net/profile/Anne_Wheeler2?ev=prf_highl)
 
