@@ -36,6 +36,8 @@ Dr. Colin Hawko, Ph.D
 
 Colin is a Post-doctoral fellow working with both the Kimmel lab and the Temerity Centre for Therapeutic Brain Intervention with Dr. Jeff Daskalakis. His research speciality is cognitive neuroscience and functional neuroimaging. In the TIGR lab, Colin has been examining relationships between social cognitive abilities and fMRI task activity using a partial least squares approach. Patients with schizophrenia have a noted deficit in social cognition (such as understanding sarcasm, or reading the intentions and emotions of others) which is strongly tied to functional outcomes such as independent living and employment status. We hope to identify neural networks which are related to social cognitive ability, and understand how some of these networks may be disrupted with problems in this area. Such neural networks may provide targets for novel intervention approaches. Additionally, Colin is very interested in neural stimulation using transcranial magnetic stimulation (TMS). As such, he is also involved in an ongoing clinical trial using TMS to improve working memory in schizophrenia, as well as a project involving the use of concurrent TMS and fMRI to probe network connectivity during working memory in people with or without schizophrenia.
 
+[ResearchGate](http://www.researchgate.net/profile/Colin_Hawco)
+
 Dr. Mélissa Lévesque, Ph.D
 --------------------------
 <figure>
