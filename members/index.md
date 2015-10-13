@@ -96,6 +96,16 @@ Nikhil Bhagwat, M.Sc
 
 Currently I am working on developing novel biomakers and diagnostic applications for neurodegenerative disorders using machine-learning techniques. My research interest include, computational neuroscience, machine-learning, signal processing and related areas.
 
+Amy Miles, MA
+-------------
+<figure>
+	<a href="/images/ppl.a.miles.jpg"><img src="/images/ppl.a.miles.jpg"></a>
+</figure>
+
+Amy is a third year PhD student at the Institute for Medical Science, Faculty of Medicine, University of Toronto. Under the supervision of Drs. Allan Kaplan and Aristotle Voineskos, she is exploring the neural correlates of Anorexia Nervosa across underweight and weight-recovered subjects and their unaffected sisters. Inclusion of groups with either shared lifetime disease history or shared genetics may provide insight into and/or help differentiate between the transient effects of acute malnutrition and potential premorbid vulnerabilities.
+
+In her spare time, Amy enjoys watching SportsCentre (the real one, not this silly Canadian rip off) and playing with cats.\
+
 Vincent Man, M.Sc
 -----------------
 <figure>
