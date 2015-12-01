@@ -26,7 +26,7 @@ Dr. Aristotle Voineskos is the Koerner New Scientist, and Head of the Kimel-Fami
 
 Dr. Voineskos’s work combines multi-modal neuroimaging and genetics approaches to map gene effects in the brain with a view to discovering vulnerability pathways for severe mental illness. This will aid in early identification of at-risk individuals and disease prevention. Currently, his neuroimaging approaches include MRI techniques known as diffusion tensor imaging and cortical thickness mapping. Disease populations currently under study include schizophrenia, bipolar disorder and Alzheimer’s disease, as well as studying healthy individuals and healthy aging.
 
-Another area of Dr. Voineskos’s work includes understanding genetic and structural brain determinants of brain function by combining the approaches described above with transcranial magnetic stimulation (TMS). He is also using brain imaging to understand the effects of existing and novel treatments on brain structure and function. 
+Another area of Dr. Voineskos’s work includes understanding genetic and structural brain determinants of brain function by combining the approaches described above with transcranial magnetic stimulation (TMS). He is also using brain imaging to understand the effects of existing and novel treatments on brain structure and function.
 
 Dr. Colin Hawko, Ph.D
 ---------------------
@@ -44,7 +44,7 @@ Dr. Mélissa Lévesque, Ph.D
 	<a href="/images/ppl.m.levesque.jpg"><img src="/images/ppl.m.levesque.jpg"></a>
 </figure>
 
-Melissa did a BSc in Psychology at McGill University, followed by an MSc in Neuroscience, also at McGill. During her Master’s degree she studied the function of the serotonin 1A receptor following acute administration of fluoxetine, using positron emission tomography (PET) with [18F]MPPF in healthy populations of both rats and humans. Then, during her PhD in Biomedical Sciences in the Department of Psychiatry at the University of Montreal, she studied the long-term impacts of prenatal and early postnatal adversity on brain development using MRI and fMRI, and epigenetic mechanisms, specifically DNA methylation, in a cohort of adolescent monozygotic twins followed since birth. 
+Melissa did a BSc in Psychology at McGill University, followed by an MSc in Neuroscience, also at McGill. During her Master’s degree she studied the function of the serotonin 1A receptor following acute administration of fluoxetine, using positron emission tomography (PET) with [18F]MPPF in healthy populations of both rats and humans. Then, during her PhD in Biomedical Sciences in the Department of Psychiatry at the University of Montreal, she studied the long-term impacts of prenatal and early postnatal adversity on brain development using MRI and fMRI, and epigenetic mechanisms, specifically DNA methylation, in a cohort of adolescent monozygotic twins followed since birth.
 
 At CAMH, she is now working on testing the accelerated aging hypothesis of schizophrenia using both DTI and peripheral markers in young and old schizophrenia patients and controls. Her interests lie in uncovering the biomarkers of vulnerability for mental illness using a combination of neuroimaging and molecular strategies.
 
@@ -106,8 +106,8 @@ Amy is a third year PhD student at the Institute for Medical Science, Faculty of
 
 In her spare time, Amy enjoys watching SportsCentre (the real one, not this silly Canadian rip off) and playing with cats.\
 
-Vincent Man, M.Sc
------------------
+Dr. Vincent Man, PhD
+--------------------
 <figure>
 	<a href="/images/ppl.v.man.jpg"><img src="/images/ppl.v.man.jpg"></a>
 </figure>
@@ -142,7 +142,7 @@ Jon Pipitone, M.Sc
 	<a href="/images/ppl.j.pipitone.jpeg"><img src="/images/ppl.j.pipitone.jpeg"></a>
 </figure>
 
-I help make the machines go, help other people make the machines go, and also make new toys for the machines and people to do science with. I have a penchant for putting things under version control, and writing `README` files. 
+I help make the machines go, help other people make the machines go, and also make new toys for the machines and people to do science with. I have a penchant for putting things under version control, and writing `README` files.
 
 Joseph Viviano, M.Sc
 --------------------
@@ -177,7 +177,7 @@ Dr. Mallar Chakravarty, Ph.D
 
 Magnetic resonance imaging (MRI) is one of the tools of choice for the analysis of the brain in normally functioning and diseased states. Different MRI acquisition protocols provide excellent contrast and resolution and can be analyzed using automated techniques. The goal of Dr. Chakravarty’s work is to develop and use computational neuroanatomical techniques to understand how the structure of the brain is altered in psychiatric disorders. These techniques include the automated identification of structures and computational metrics that quantify their shape.  He is currently working on adding information from diffusion tensor imaging in order to describe inter-structural connectivity.  Many of these techniques can be used to elucidate phenotypes that can help describe how known risk genes may be affecting brain anatomy and ultimately increasing susceptibility to psychiatric illness.  This work will aid in the early identification and treatment of those at high-risk of developing severe forms of mental illness.
 
-Dr. Chakravarty now heads the [CoBrA Lab](http://cobralab.ca/) at the [Douglas Institute, Montreal](http://www.douglas.qc.ca/?locale=en). 
+Dr. Chakravarty now heads the [CoBrA Lab](http://cobralab.ca/) at the [Douglas Institute, Montreal](http://www.douglas.qc.ca/?locale=en).
 
 Dr. Tristram Lett, Ph.D
 -----------------------
@@ -209,7 +209,7 @@ Mikko Mason, B.Sc
 	<a href="/images/ppl.m.mason.jpg"><img src="/images/ppl.m.mason.jpg"></a>
 </figure>
 
-As a relatively new member of the Kimel Lab, I am excited to work with so many bright, engaged individuals. My role as a study RA challenges me to apply my psychometric experience to a research setting, and I am constantly amazed by the resilience with which our patients meet mental health challenges. I plan to further my education and combine research, clinical work, and teaching in the future. 
+As a relatively new member of the Kimel Lab, I am excited to work with so many bright, engaged individuals. My role as a study RA challenges me to apply my psychometric experience to a research setting, and I am constantly amazed by the resilience with which our patients meet mental health challenges. I plan to further my education and combine research, clinical work, and teaching in the future.
 
 On a more personal level, I feel like a Finn when in Canada and a Canadian when in Finland. I have a soft spot for old novels and the CBC. I believe in free time the way I believe in unicorns, but find sanctuary in wild places. I am happiest in woods or water or on a bike.
 
@@ -226,11 +226,11 @@ Robert S.C. Amaral, B.Sc
 <figure>
 	<a href="/images/ppl.r.amaral.jpeg"><img src="/images/ppl.r.amaral.jpeg"></a>
 </figure>
-Robert was heavily involved in the development of the hippocampal atlas, and now is pursuing graduate studies at the [CoBrA Lab](http://cobralab.ca/) at the [Douglas Institute, Montreal](http://www.douglas.qc.ca/?locale=en). 
+Robert was heavily involved in the development of the hippocampal atlas, and now is pursuing graduate studies at the [CoBrA Lab](http://cobralab.ca/) at the [Douglas Institute, Montreal](http://www.douglas.qc.ca/?locale=en).
 
 Matt Park, B.Sc
 ---------------
 <figure>
 	<a href="/images/ppl.m.park.jpg"><img src="/images/ppl.m.park.jpg"></a>
 </figure>
-Matt is now pursuing his MD at the [Schulich School of Medicine & Dentistry](http://www.schulich.uwo.ca/). 
+Matt is now pursuing his MD at the [Schulich School of Medicine & Dentistry](http://www.schulich.uwo.ca/).
