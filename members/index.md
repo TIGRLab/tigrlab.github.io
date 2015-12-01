@@ -106,8 +106,8 @@ Amy is a third year PhD student at the Institute for Medical Science, Faculty of
 
 In her spare time, Amy enjoys watching SportsCentre (the real one, not this silly Canadian rip off) and playing with cats.\
 
-Dr. Vincent Man, PhD
---------------------
+Dr. Vincent Man, PhD, JD, MD
+----------------------------
 <figure>
 	<a href="/images/ppl.v.man.jpg"><img src="/images/ppl.v.man.jpg"></a>
 </figure>
