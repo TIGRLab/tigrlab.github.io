@@ -5,8 +5,8 @@ excerpt: "Journal articles associated with the TIGR Lab."
 ads: false
 share: false
 image:
-  feature: projects.dti-aging.large.jpg
-  teaser: projects.dti-aging.small.jpg
+  feature: banner.publications.jpg
+  teaser: teaser.publications.jpg
 ---
 
 Please visit [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=voineskos+a) for list of our publications. Updated on 26th Feb, 2016.
