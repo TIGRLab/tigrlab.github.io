@@ -6,8 +6,8 @@ categories: projects
 modified: 2014-02-19
 share: false
 image:
-  feature: projects.winterburn-atlas.large.jpg
-  teaser: projects.winterburn-atlas.small.jpg
+  feature: banner.winterburn.jpg
+  teaser: teaser.winterburn.jpg
 ads: false
 toc: true
 redirect_from:

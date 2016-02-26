@@ -7,8 +7,8 @@ tags: [sample]
 toc: true
 comments: false
 image:
-  feature: projects.dti-aging.large.jpg
-  teaser: projects.dti-aging.small.jpg
+  feature: banner.projects.jpg
+  teaser: teaser.projects.jpg
 ads: false
 ---
 We are obtaining genetics, neuroimaging and cognitive data to understand shared and unique genetic risk mechanisms on brain structure and function in people with severe mental illness (schizophrenia and bipolar disorder). We are also using a lifespan approach to identify genetically based patterns of healthy vs. pathological aging in the brain.
