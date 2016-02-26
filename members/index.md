@@ -12,9 +12,6 @@ toc: true
 share: false
 ---
 
-Current
-=======
-
 Dr. Aristotle Voineskos, M.D., Ph.D
 -----------------------------------
 <figure>
