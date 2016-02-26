@@ -11,7 +11,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.database.reverse() %}
+{% for post in site.categories.database %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
