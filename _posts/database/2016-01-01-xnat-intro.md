@@ -7,8 +7,8 @@ ads: false
 share: false
 toc: true
 image:
-  feature: projects.xnat.large.jpg
-  teaser: projects.xnat.small.jpg
+  feature: banner.database.jpg
+  teaser: teaser.database.jpg
 ---
 
 Accessing the Database
