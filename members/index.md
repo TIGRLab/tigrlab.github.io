@@ -104,7 +104,7 @@ Amy Miles, MA
 
 Amy is a third year PhD student at the Institute for Medical Science, Faculty of Medicine, University of Toronto. Under the supervision of Drs. Allan Kaplan and Aristotle Voineskos, she is exploring the neural correlates of Anorexia Nervosa across underweight and weight-recovered subjects and their unaffected sisters. Inclusion of groups with either shared lifetime disease history or shared genetics may provide insight into and/or help differentiate between the transient effects of acute malnutrition and potential premorbid vulnerabilities.
 
-In her spare time, Amy enjoys watching SportsCentre (the real one, not this silly Canadian rip off) and playing with cats.\
+In her spare time, Amy enjoys watching SportsCentre (the real one, not this silly Canadian rip off) and playing with cats.
 
 Vincent Man, BSc
 ----------------
@@ -124,7 +124,7 @@ Building on work I have completed during my graduate training, I will be pursuin
 
 My plan as a researcher is to pursue post-doctoral training following the defense of my PhD, as I believe that the accelerating pace of mental health research, facilitated largely by the availability of new collaborative large-scale datasets, promises many exciting breakthroughs in the coming years. My ambition is to make critical contributions to this progress by expanding our knowledge of genetic systems, brain structure, and early risk for cognitive decline, with the ultimate goal of nullifying the growing burden of mental illness in Canada and around the world.
 
-[Download CV](/files/daniel.felsky.cv.pdf)
+[Download CV](/files/daniel.felsky.cv.doc)
 
 Julie Winterburn, B.Sc
 ----------------------
