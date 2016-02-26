@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: article
 title: "Software"
 excerpt: "Software we've written to help us query the brain."
 ads: false
