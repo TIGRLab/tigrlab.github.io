@@ -20,7 +20,7 @@
   excerpt: "Software we've written."
   image: projects.dti-aging.small.jpg
 
-  - title: Database
+- title: Database
   url: /database/
   excerpt: "Our neuroimaging database."
   image: projects.dti-aging.small.jpg
