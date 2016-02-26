@@ -6,9 +6,8 @@ modified:
 excerpt:
 tags: []
 image:
-  feature:
-  teaser:
-  thumb:
+  feature: banner.members.jpg
+  teaser: teaser.members.jpg
 toc: true
 share: false
 ---
