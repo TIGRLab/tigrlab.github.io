@@ -5,8 +5,8 @@ excerpt: "Software we've written to help us query the brain."
 ads: false
 share: false
 image:
-  feature: projects.dti-aging.large.jpg
-  teaser: projects.dti-aging.small.jpg
+  feature: banner.software.jpg
+  teaser: teaser.software.jpg
 ---
 
 MAGeT Brain: Automated Brain Segmentation Using Custom Atlases

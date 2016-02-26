@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: dti-render-3-1920x960.jpg
+  feature: banner.home.jpg
 ---
 
 <div class="tiles">
