@@ -13,7 +13,7 @@ sass:
   style: compressed
 permalink: /:categories/:title/
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
