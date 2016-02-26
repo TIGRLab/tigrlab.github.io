@@ -1,7 +1,6 @@
 ---
 layout: media
 title: "XNAT Introduction"
-categories: programs
 excerpt: "An introduction to our MRI database."
 ads: false
 share: false

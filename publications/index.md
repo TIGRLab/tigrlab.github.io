@@ -1,7 +1,6 @@
 ---
-layout: media
+layout: article
 title: "Publication List"
-categories: publications
 excerpt: "Journal articles associated with the TIGR Lab."
 ads: false
 share: false

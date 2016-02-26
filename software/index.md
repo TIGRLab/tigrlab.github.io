@@ -1,7 +1,6 @@
 ---
 layout: media
 title: "Software"
-categories: programs
 excerpt: "Software we've written to help us query the brain."
 ads: false
 share: false
