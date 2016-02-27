@@ -5,7 +5,7 @@ excerpt: "How to get into our database."
 categories: database
 ads: false
 share: false
-toc: true
+toc: false
 image:
   feature: banner.database.jpg
   teaser: teaser.database.jpg
