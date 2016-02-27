@@ -26,8 +26,8 @@ We also distinguish between human, special human, and non-human phantom data (ob
 
 **Participants**
 
-+ `SPN01_CMH_0009_01_01`
 + `[STUDY]_[SITE]_[SUBJECT]_[SESSION]_[REPEAT]`
++ `SPN01_CMH_0009_01_01`
 + Your **site** is unique to your scanner. See the list of site codes below.
 + In XNAT, there should be exactly one session per subject. To enter a second session, create a new subject with the appropriate name (e.g., `SPN01_CMH_0009_02_01`).
 
@@ -38,12 +38,14 @@ In some studies, special subjects are being acquired (for example, traveling hum
 + P -- human phantom
 + R -- test-retest repeat scan
 
-E.g. `SPN01_CMH_P009_01_01` or `PRE04_ZHH_R3562_01_01`.
++ `[STUDY]_[SITE]_[SUBJECT]_[SESSION]_[REPEAT]`
++ `SPN01_CMH_P009_01_01` 
++ `PRE04_ZHH_R3562_01_01`.
 
 **Non-Human Phantoms**
 
++ `[STUDY]_[SITE]_PHA_[PHANTOM]_[SESSION]`
 + SPN01_CMH_PHA_ADN0001
-+ [STUDY]\_[SITE]\_PHA\_[PHANTOM]\_[SESSION]
 + Phantom scans should be run regularly, and their session names will be numeric ascending.
 + Our web-based data viewing system requires the date fields in the DICOM header be intact.
 
