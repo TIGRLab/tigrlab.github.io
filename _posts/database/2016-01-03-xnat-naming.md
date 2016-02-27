@@ -35,8 +35,10 @@ We also distinguish between human, special human, and non-human phantom data (ob
 
 In some studies, special subjects are being acquired (for example, traveling human phantoms to test scanner reliability between sites, or test-retest repeat scans to assess signal variability within sites). We can mark these by inserting a letter code in front of the subject code:
 
-+ P -- human phantom
-+ R -- test-retest repeat scan
++ `P` -- human phantom
++ `R` -- test-retest repeat scan
+
+Naming is otherwise the same as for normal participants:
 
 + `[STUDY]_[SITE]_[SUBJECT]_[SESSION]_[REPEAT]`
 + `SPN01_CMH_P009_01_01` 
