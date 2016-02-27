@@ -1,7 +1,7 @@
 ---
 layout: media
-title: "Connecting"
-excerpt: "An introduction to our MRI database."
+title: "Downloading"
+excerpt: "How to download DICOMs stored with us."
 categories: database
 ads: false
 share: false

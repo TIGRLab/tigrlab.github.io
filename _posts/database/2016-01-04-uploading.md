@@ -76,3 +76,15 @@ More details follow:
 + Click 'extract files to server'.
 + The above works for all filetypes (e.g., a single .pdf), but .zip is the preferred way of uploading multiple files at once.
 + Ensure the uploaded data is all present in the tree.
+
+
+Uploading using direct DICOM transfer
+-------------------------------------
+
+If your MR unit is set up to send data directly from the scanner over the Internet, you may try sending us your data via this method using the following:
+
++ XNAT Address: da55.pet.utoronto.ca
++ DICOM Port: 8104.
++ Calling & Called Title: XNAT
+
+**If you opt to use this method, please do a test push of your data so we can ensure there are no issues receiving your participant data!**

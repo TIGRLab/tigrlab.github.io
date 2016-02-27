@@ -80,3 +80,24 @@ E.g. SPN01_CMH_P009_01_01 or PRE04_ZHH_R3562_01_01.
 + [STUDY]\_[SITE]\_PHA\_[PHANTOM]\_[SESSION]
 + Phantom scans should be run regularly, and their session names will be numeric ascending.
 + Our web-based data viewing system requires the date fields in the DICOM header be intact.
+
+
+As an example of how the data is organized, see the below:
+
++ Subject 1 (SPN01\_CMH\_0001\_01\_01)
+    + Session 1 (SPN01\_CMH\_0001\_01\_01)
+        + Series 1 (Localizer)
+        + Series 2 (T1)
+        + Series 3 (DTI)
+
+Now see what we would do if a person needed to come back to have a repeat scan done due to a bad acquisition.
+
++ Subject 2 (SPN01\_CMH\_0002\_01\_01)
+    + Session 1 (SPN01\_CMH\_0001\_01\_01)
+        + Series 1 (Localizer)
+        + Series 2 (T1)
+        + Series 3 (DTI -- bad, needs to be redone)
++ Subject 2 (SPN01\_CMH\_0002\_01\_02)
+    + Session 2 (SPN01\_CMH\_0001\_01\_02)
+        + Series 1 (Localizer)
+        + Series 3 (DTI)
