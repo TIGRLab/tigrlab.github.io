@@ -58,7 +58,7 @@ The list at the bottom are all of the series contained within the current sessio
 
 At the side is a set of commands one can use to do manage the data, such as deleting bad files, renaming the subject and/or session, or downloading copies of the data.
 
-Along the top, you can see that we are actually inside the session `SPN01_CMH_PHA_FBN0065` for subject `SPN01_CMH_PHA_FBN0065`. This is because we ask that all session and subject names match. If you click `SUBJECT: SPN01_CMH_PHA_FBN0065`, you should see this:
+Along the top, you can see that we are actually inside the session `SPN01_CMH_PHA_FBN0065` for subject `SPN01_CMH_PHA_FBN0065`. This is because we ask that all session and subject names match. If you click `SUBJECT: SPN01_CMH_PHA_FBN0065` at the top, you should see this:
 
 <figure>
 	<a href="/images/guide.xnat-subject.jpg"><img src="/images/guide.xnat-subject.jpg"></a>
