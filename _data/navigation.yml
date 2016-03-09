@@ -15,10 +15,10 @@
   excerpt: "Completed projects."
   image: teaser.publications.jpg
 
-- title: Software
-  url: /software/
+- title: Tools
+  url: /tools/
   excerpt: "Software we've written."
-  image: teaser.software.jpg
+  image: teaser.tools.jpg
 
 - title: Database
   url: /database/
