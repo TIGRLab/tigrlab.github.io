@@ -57,7 +57,7 @@ Arash is a postdoctoral fellow working at the Kimel Family Translational Imaging
 [Download CV](/files/arash.nazeri.cv.pdf) -- [Github](https://github.com/arash-n/) -- [ORCiD](http://orcid.org/0000-0001-6983-0641)
 
 Dr. Nick Neufeld, M.D., M.Sc.
-----------------------
+-----------------------------
 <figure>
 	<a href="/images/ppl.n.neufeld.jpg"><img src="/images/ppl.n.neufeld.jpg"></a>
 </figure>
@@ -66,8 +66,8 @@ Nick is a psychiatry resident with research interests in stroke and stroke recov
 
 [ResearchGate](http://www.researchgate.net/profile/Nick_Neufeld) - [Academia.edu](https://utoronto.academia.edu/NicholasNeufeld) - [Frontiers](http://community.frontiersin.org/people/nicholasneufeld/18293)
 
-Tina Roostaei, M.D., M.P.H.
--------------------
+Dr. Tina Roostaei, M.D., M.P.H.
+-------------------------------
 <figure>
 	<a href="/images/ppl.t.roostaei.jpg"><img src="/images/ppl.t.roostaei.jpg"></a>
 </figure>
@@ -149,6 +149,14 @@ Joseph Viviano, M.Sc
 I function as a system administrator, data analyst, and methods developer at the TIGRlab. On the systems front, I spend most of my time working on ways of efficiently managing multi-site imaging data for basic research and clinical trials, and standardizing their analysis to facilitate reproducibility. I also support the ongoing projects led by other researchers. On the scientific side, I get excited about importing concepts and methods from other scientific frontiers to improve clinical outcomes. Right now I'm particularly interested in developing ways to understand the short-term dynamics of brain network function in diseased and normally-functioning brains. I'm also interested in using this and other approaches to develop novel disease subtypes that may inform personalized treatments.
 
 [Download CV](https://github.com/josephdviviano/resume/blob/master/jdv-cv.pdf?raw=true) - [Personal Website](http://www.viviano.ca)
+
+Navona Calarco, B.A.H.
+----------------------
+<figure>
+        <a href="/images/ppl.n.calarco.jpg"><img src="/images/ppl.n.calarco.jpg"></a>
+</figure>
+
+I’m a research analyst in the TIGRlab and Virtual Reality lab. I spend a lot of time designing database systems to best capture, store, and share clinical data. I’m most interested in the theory underlying imaging techniques and analyses, and parsing apart what these methods can and cannot tell us about human cognition. I also know exactly where that file you’re looking for can be found.
 
 Judy Kwan, B.Sc.
 ----------------
