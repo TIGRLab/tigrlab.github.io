@@ -41,7 +41,7 @@ In some studies, special subjects are being acquired (for example, traveling hum
 Naming is otherwise the same as for normal participants:
 
 + `[STUDY]_[SITE]_[SUBJECT]_[SESSION]_[REPEAT]`
-+ `SPN01_CMH_P009_01_01` 
++ `SPN01_CMH_P009_01_01`
 + `PRE04_ZHH_R3562_01_01`.
 
 **Non-Human Phantoms**
@@ -102,7 +102,7 @@ The XNAT database will **automatically name your files** correctly so long as yo
 + `(0010,0010)` -- Patient Name (e.g., `PRE01_MRC_021_01_01`).
 + `(0010,0020)` -- Patient ID (e.g., `PRE01_MRC_021_01_01`).
 
-`(0010,0010)` and `(0010,0020)` map onto the subject and session, respectively. During uploads, if these fields are correct, everything will end up in the proper place of the database. 
+`(0010,0010)` and `(0010,0020)` map onto the subject and session, respectively. During uploads, if these fields are correct, everything will end up in the proper place of the database.
 
 Now, the data will be included alongside the DICOM images in future downloads.
 
@@ -116,8 +116,8 @@ Acronyms
 |IWA |U Iowa College of Medicine             |PRE02             |
 |MIN |U Minnesota                            |PRE03             |
 |GRD |Grady Hospital                         |PRE04             |
-|CRY |Cherry Street                          |PRE05             |
-|BRG |Borgess WMU School of Medicine         |PRE06             |
+|BRG |Borgess WMU School of Medicine         |PRE05             |
+|CRY |Cherry Street                          |PRE06             |
 |MAS |U Massachusetts                        |PRE07             |
 |CTN |Creighton U                            |PRE08             |
 |PCE |Peace Health                           |PRE09             |
