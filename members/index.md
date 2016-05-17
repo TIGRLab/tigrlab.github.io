@@ -122,16 +122,6 @@ My plan as a researcher is to pursue post-doctoral training following the defens
 
 [Download CV](/files/daniel.felsky.cv.doc)
 
-Julie Winterburn, B.Sc
-----------------------
-<figure>
-	<a href="/images/ppl.j.winterburn.jpg"><img src="/images/ppl.j.winterburn.jpg"></a>
-</figure>
-
-Julie is a student in the second year of her Master's degree with the Institute of Biomaterials and Biomedical Engineering at the University of Toronto. Her thesis focuses on comparing machine learning techniques reported in the magnetic resonance imaging literature for schizophrenia/control classification. Her previous work includes atlasing the hippocampus on high-resolution magnetic resonance images. Julie has been with the Kimel Family lab group since 2012. In her spare time, she can be found baking delicious treats, eating said baking, or out rowing on Lake Ontario.
-
-[Download CV](/files/julie.winterburn.cv.pdf)
-
 Jon Pipitone, M.Sc
 ------------------
 <figure>
@@ -172,6 +162,16 @@ Dielle Miranda, MA (Clin Psy)
 
 Alumni
 ======
+
+Julie Winterburn, M.Sc
+----------------------
+<figure>
+	<a href="/images/ppl.j.winterburn.jpg"><img src="/images/ppl.j.winterburn.jpg"></a>
+</figure>
+
+Julie is a student in the second year of her Master's degree with the Institute of Biomaterials and Biomedical Engineering at the University of Toronto. Her thesis focuses on comparing machine learning techniques reported in the magnetic resonance imaging literature for schizophrenia/control classification. Her previous work includes atlasing the hippocampus on high-resolution magnetic resonance images. Julie has been with the Kimel Family lab group since 2012. In her spare time, she can be found baking delicious treats, eating said baking, or out rowing on Lake Ontario.
+
+[Download CV](/files/julie.winterburn.cv.pdf)
 
 Dr. Mallar Chakravarty, Ph.D
 ----------------------------
