@@ -46,16 +46,6 @@ At CAMH, she is now working on testing the accelerated aging hypothesis of schiz
 
 [Download CV](/files/melissa.levesque.cv.pdf)
 
-Dr. Arash Nazeri, M.D.
-----------------------
-<figure>
-	<a href="/images/ppl.a.nazeri.jpg"><img src="/images/ppl.a.nazeri.jpg"></a>
-</figure>
-
-Arash is a postdoctoral fellow working at the Kimel Family Translational Imaging Genetics Research (TIGR) Lab since 2013. He completed his medical education at Tehran University of Medical Sciences, Tehran, Iran. His main research interests are implementing novel methods for multi-shell diffusion-weighted MRI analysis and integration of imaging data with genetics in aging and neuropsychiatric disorders. Arash is funded by the Centre for Addiction and Mental Health and the Canadian Institutes of Health Research fellowship awards.
-
-[Download CV](/files/arash.nazeri.cv.pdf) -- [Github](https://github.com/arash-n/) -- [ORCiD](http://orcid.org/0000-0001-6983-0641)
-
 Dr. Nick Neufeld, M.D., M.Sc.
 -----------------------------
 <figure>
@@ -108,19 +98,6 @@ Vincent Man, BSc
 	<a href="/images/ppl.v.man.jpg"><img src="/images/ppl.v.man.jpg"></a>
 </figure>
 
-Daniel Felsky, M.Sc
--------------------
-<figure>
-	<a href="/images/ppl.d.felsky.jpg"><img src="/images/ppl.d.felsky.jpg"></a>
-</figure>
-
-My active studies are primarily focused on both the independent effects of multiple Alzheimer’s risk genes as well as the way in which genetic risk factors may interact to influence brain susceptibility for dementia. I am currently involved in a collaborative study of structural brain changes due to mutations in a gene involved in brain inflammation (called TSPO), and have found that a single variant within this gene may confer protection against the development of Alzheimer’s-associated brain pathology that is roughly equivalent to a six-year reduction in age. Importantly, this study has implications for characterizing the genetic roots of other complex mental illnesses (such as schizophrenia and multiple sclerosis) that are also known to have immunological components. These studies are in collaboration with field-leading scientists at Rush University in Chicago, Il (Dr. David Bennett), and Harvard Medical School in Boston, MA (Dr. Philip L. De Jager).
-
-Building on work I have completed during my graduate training, I will be pursuing additional investigations of genes that may predict depressive symptoms (which are highly prevalent in late-life dementia), as well as cognitive decline in younger individuals with schizophrenia. I expect that my future work on the interactive relationships between risk genes in disease-related pathways, as well the as effect of lifestyle and environment on the activity of these pathways, will yield a new understanding of why and how diseases such as Alzheimer’s and schizophrenia develop, leading to novel biologically-informed and individually-tailored intervention strategies.
-
-My plan as a researcher is to pursue post-doctoral training following the defense of my PhD, as I believe that the accelerating pace of mental health research, facilitated largely by the availability of new collaborative large-scale datasets, promises many exciting breakthroughs in the coming years. My ambition is to make critical contributions to this progress by expanding our knowledge of genetic systems, brain structure, and early risk for cognitive decline, with the ultimate goal of nullifying the growing burden of mental illness in Canada and around the world.
-
-[Download CV](/files/daniel.felsky.cv.doc)
 
 Jon Pipitone, M.Sc
 ------------------
@@ -162,6 +139,30 @@ Dielle Miranda, MA (Clin Psy)
 
 Alumni
 ======
+
+Daniel Felsky, Ph.D
+-------------------
+<figure>
+	<a href="/images/ppl.d.felsky.jpg"><img src="/images/ppl.d.felsky.jpg"></a>
+</figure>
+
+My active studies are primarily focused on both the independent effects of multiple Alzheimer’s risk genes as well as the way in which genetic risk factors may interact to influence brain susceptibility for dementia. I am currently involved in a collaborative study of structural brain changes due to mutations in a gene involved in brain inflammation (called TSPO), and have found that a single variant within this gene may confer protection against the development of Alzheimer’s-associated brain pathology that is roughly equivalent to a six-year reduction in age. Importantly, this study has implications for characterizing the genetic roots of other complex mental illnesses (such as schizophrenia and multiple sclerosis) that are also known to have immunological components. These studies are in collaboration with field-leading scientists at Rush University in Chicago, Il (Dr. David Bennett), and Harvard Medical School in Boston, MA (Dr. Philip L. De Jager).
+
+Building on work I have completed during my graduate training, I will be pursuing additional investigations of genes that may predict depressive symptoms (which are highly prevalent in late-life dementia), as well as cognitive decline in younger individuals with schizophrenia. I expect that my future work on the interactive relationships between risk genes in disease-related pathways, as well the as effect of lifestyle and environment on the activity of these pathways, will yield a new understanding of why and how diseases such as Alzheimer’s and schizophrenia develop, leading to novel biologically-informed and individually-tailored intervention strategies.
+
+My plan as a researcher is to pursue post-doctoral training following the defense of my PhD, as I believe that the accelerating pace of mental health research, facilitated largely by the availability of new collaborative large-scale datasets, promises many exciting breakthroughs in the coming years. My ambition is to make critical contributions to this progress by expanding our knowledge of genetic systems, brain structure, and early risk for cognitive decline, with the ultimate goal of nullifying the growing burden of mental illness in Canada and around the world.
+
+[Download CV](/files/daniel.felsky.cv.doc)
+
+Dr. Arash Nazeri, M.D.
+----------------------
+<figure>
+	<a href="/images/ppl.a.nazeri.jpg"><img src="/images/ppl.a.nazeri.jpg"></a>
+</figure>
+
+Arash is a postdoctoral fellow working at the Kimel Family Translational Imaging Genetics Research (TIGR) Lab since 2013. He completed his medical education at Tehran University of Medical Sciences, Tehran, Iran. His main research interests are implementing novel methods for multi-shell diffusion-weighted MRI analysis and integration of imaging data with genetics in aging and neuropsychiatric disorders. Arash is funded by the Centre for Addiction and Mental Health and the Canadian Institutes of Health Research fellowship awards.
+
+[Download CV](/files/arash.nazeri.cv.pdf) -- [Github](https://github.com/arash-n/) -- [ORCiD](http://orcid.org/0000-0001-6983-0641)
 
 Julie Winterburn, M.Sc
 ----------------------
