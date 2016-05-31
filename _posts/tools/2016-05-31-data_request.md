@@ -10,4 +10,4 @@ image:
   teaser: teaser.tools.jpg
 ---
 
-**To obtain data from our lab, please fill out a <u>[Data Request Form](https://edc.camhx.ca/redcap/surveys/?s=YF4MLAJLYR)</u>**
+**To obtain data from our lab, please fill out a [Data Request Form](https://edc.camhx.ca/redcap/surveys/?s=YF4MLAJLYR)**
