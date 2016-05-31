@@ -10,4 +10,4 @@ image:
   teaser: teaser.tools.jpg
 ---
 
-**To obtain data from our lab, please fill out a <font color = "blue">[Data Request Form](https://edc.camhx.ca/redcap/surveys/?s=YF4MLAJLYR)</font>**
+**To obtain data from our lab, please fill out a <font color = "blue">[Data Request Form](https://edc.camhx.ca/redcap/surveys/?s=YF4MLAJLYR)**
