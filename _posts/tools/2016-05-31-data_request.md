@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Data Requests"
-excerpt: "File a data request here"
+excerpt: "File a data request here."
 categories: tools
 ads: false
 share: false
