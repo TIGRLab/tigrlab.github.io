@@ -24,7 +24,7 @@ Dr. Voineskos’s work combines multi-modal neuroimaging and genetics approaches
 
 Another area of Dr. Voineskos’s work includes understanding genetic and structural brain determinants of brain function by combining the approaches described above with transcranial magnetic stimulation (TMS). He is also using brain imaging to understand the effects of existing and novel treatments on brain structure and function.
 
-Dr. Colin Hawko, Ph.D
+Dr. Colin Hawco, Ph.D
 ---------------------
 <figure>
 	<a href="/images/ppl.c.hawco.jpg"><img src="/images/ppl.c.hawco.jpg"></a>
