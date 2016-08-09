@@ -13,7 +13,7 @@ image:
 
 **Web-Based**
 
-Our XNAT database can be accessed using your web browser at [http://da55.pet.utoronto.ca:5004](http://da55.pet.utoronto.ca:5004).
+Our XNAT database can be accessed using your web browser at [https://xnat.imaging-genetics.camh.ca](https://xnat.imaging-genetics.camh.ca).
 
 If you do not yet have a username and password, please contact [tigrlab@camh.ca](mailto:tigrlab@camh.ca).
 
