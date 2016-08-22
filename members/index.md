@@ -62,7 +62,7 @@ Dr. Tina Roostaei, M.D., M.P.H.
 	<a href="/images/ppl.t.roostaei.jpg"><img src="/images/ppl.t.roostaei.jpg"></a>
 </figure>
 
-Tina is a medical graduate from Iran and a postdoctoral fellow working under the supervision of Dr. Voineskos. She is extremely interested in translational and neuroimaging research in neuropsychiatric disorders.
+Tina received her MD from Tehran University of Medical Sciences, Iran in 2013, and joined the Kimel lab as a postdoctoral research fellow in 2014. Her work at CAMH has been focused on determining the genetic modifiers of risk and progression for Alzheimer’s disease. She combines data from multiple modalities, including clinical, behavioral, neuroimaging, neuropathology, and body fluid biomarkers with genetic data with the aim to identify the mechanisms underlying risk and progression in age-related cognitive decline and Alzheimer’s dementia. She is currently funded by the Alzheimer Society of Canada Isabel Johnson Biomedical Postdoctoral Award.
 
 Laura Stefanik, B.A.H
 --------------------
