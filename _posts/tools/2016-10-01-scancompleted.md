@@ -24,9 +24,12 @@ You might be keeping overlapping information about your scans for your own recor
 __2. Defining your content.__ 
 The existing survey has the minimal essential information we need to manage and QC your data. However, we can add to it to better capture whatever you're interested in. For example, you might want a unique field to indicate if a participant reported being nervous or claustrophobic. Or, you might want a section for detailed qualitative notes for all tasked-based acquisitions. If you want to add items relevant to the QC and analysis of your data, let us know and we will accommodate.
 
-__4. Email notifications.__ 
+__3. Email notifications.__ 
 Perhaps you want to let your manager or PI know every time a scan is completed, or each time a scan meets certain conditions (e.g., a session is missing a given acquisition), or send a facsimile of your entire report. Let us know who should be emailed under what circumstances, and we can set up automatic notifications.
 
-__2. Offline survey completion.__ 
+__4. Offline survey completion.__ 
 Wireless access is sometimes spotty in the MRI Centre. If you want to reliably complete the survey live, you can use the REDCap Mobile App for offline data collection on a tablet or cellphone. Your data is synced back to the server when your connection is re-established. You'll need a [REDCap account](https://edc.camhx.ca/redcap/surveys/?s=DWETLY4P4J), and we'll help you set up the App on your device.
 
+
+
+__Questions? Email tigrlab@camh.ca__
