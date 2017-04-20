@@ -59,7 +59,7 @@ To overcome the limited availability of post-mortem specimens and expertise in s
 
 [Winterburn et al. A novel in vivo atlas of human hippocampal subfields using high-resolution 3T magnetic resonance imaging. NeuroImage 2013](http://dx.doi.org/10.1016/j.neuroimage.2013.02.003).
 
-For more information and downloads, see the [CoBrAlab website](http://cobralab.ca/atlases/Hippocampus-subfields.html).
+For more information and downloads, see the [CoBrAlab website](http://cobralab.ca/atlases/Hippocampus-subfields/).
 
 **Cerebellum Atlas**
 
