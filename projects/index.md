@@ -59,13 +59,13 @@ To overcome the limited availability of post-mortem specimens and expertise in s
 
 [Winterburn et al. A novel in vivo atlas of human hippocampal subfields using high-resolution 3T magnetic resonance imaging. NeuroImage 2013](http://dx.doi.org/10.1016/j.neuroimage.2013.02.003).
 
-For more information and downloads, see the [CoBrAlab website](http://cobralab.ca/atlases/Hippocampus.html).
+For more information and downloads, see the [CoBrAlab website](http://cobralab.ca/atlases/Hippocampus-subfields.html).
 
 **Cerebellum Atlas**
 
 We present a novel set of high-resolution in vivo atlases of the cerebellum developed by pairing MR imaging with a carefully validated manual segmentation protocol.
 
-The cerebellum has classically been linked to motor learning and coordination. However, there is renewed interest in the role of the cerebellum in non-motor functions such as cognition and in the context of different neuropsychiatric disorders. The contribution of neuroimaging studies to advancing understanding of cerebellar structure and function has been limited, partly due to the cerebellum being understudied as a result of contrast and resolution limitations of standard structural magnetic resonance images (MRI). These limitations inhibit proper visualization of the highly compact and detailed cerebellar foliations. 
+The cerebellum has classically been linked to motor learning and coordination. However, there is renewed interest in the role of the cerebellum in non-motor functions such as cognition and in the context of different neuropsychiatric disorders. The contribution of neuroimaging studies to advancing understanding of cerebellar structure and function has been limited, partly due to the cerebellum being understudied as a result of contrast and resolution limitations of standard structural magnetic resonance images (MRI). These limitations inhibit proper visualization of the highly compact and detailed cerebellar foliations.
 
 [Park et al. Derivation of high-resolution MRI atlases of the human cerebellum at 3 T and segmentation using multiple automatically generated templates. NeuroImage 2014](http://dx.doi.org/10.1016/j.neuroimage.2014.03.037).
 
