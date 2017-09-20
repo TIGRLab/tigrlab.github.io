@@ -7,8 +7,8 @@ ads: false
 share: false
 toc: true
 image:
-  feature: decor.rock.jpg
-  teaser: cover.seed-corr.jpg
+  feature: banner.guides.jpg
+  teaser: teaser.guides2.jpg
 ---
 
 In clinical neuroscience that deals with multiple psychiatric disorders, the influence of covariates on fMRI statistics can be pretty severe. It is common for things like a 20 year difference in mean age between groups to exist, which is known to create sizable group differences that have nothing to do with the diagnostic in question.

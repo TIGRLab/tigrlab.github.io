@@ -7,8 +7,8 @@ ads: false
 share: false
 toc: true
 image:
-  feature: hpc2015-1600x800.jpg
-  teaser: cover.hpc2015.jpg
+  feature: banner.guides.jpg
+  teaser: teaser.guides2.jpg
 ---
 
 R

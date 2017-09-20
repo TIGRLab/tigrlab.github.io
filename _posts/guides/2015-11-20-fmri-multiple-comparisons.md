@@ -7,8 +7,8 @@ ads: false
 share: false
 toc: true
 image:
-  feature: decor.tower.jpg
-  teaser: cover.multiple.png
+  feature: banner.guides.jpg
+  teaser: teaser.guides2.jpg
 ---
 
 Thanks to an [infamous dead salmon](http://pages.vassar.edu/abigailbaird/files/2014/06/bennett_salmon.pdf), the fMRI community in particular has been under a lot of pressure to manage the multitude of independent tests done in an average experiment with extreme care. For those in fields that don't typically have to think about this, multiple comparison correction deals with the fact that every (frequentist) statistic is associated with some risk that the result found is totally by chance. This is normally very acceptable. Most scientists are willing to accept that there is a 1% chance their results aren't actually real. The problem comes in when you run 10,000 tests, because we know that in this case, we'll get 100 of those 1% false-positives. This is called a Type I error.

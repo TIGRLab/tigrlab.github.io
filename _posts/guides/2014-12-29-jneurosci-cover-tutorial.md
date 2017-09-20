@@ -6,8 +6,8 @@ excerpt: "Because sometimes a correlation matrix isn't enough."
 ads: false
 share: false
 image:
-  feature: 2015jneurosci-1600x800.jpg
-  teaser: cover.2015jneurosci.jpg
+  feature: banner.guides.jpg
+  teaser: teaser.guides2.jpg
 ---
 
 This Christmas break I decided to try to get the cover of my new article (Update: looks like they chose another very cool cover). In essence, that work shows that the thalamic reticular nucleus on each side of the brain shows functional connectivity with the visual nuclei on both side of the brain. My goal was to try to express this through a simple and beautiful graph (final image above).

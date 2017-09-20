@@ -7,8 +7,8 @@ ads: false
 share: false
 toc: true
 image:
-  feature: decor.subway.jpg
-  teaser: cover.hpc2015.jpg
+  feature: banner.guides.jpg
+  teaser: teaser.guides2.jpg
 ---
 
 XNAT is likely the best current database option for neuroimaging data, but the official documentation on it is lacking and potentially insecure. This guide will configure a [XNAT](https://www.xnat.org/) server, which uses [tomcat](http://tomcat.apache.org/) internally, to run via a web-facing [nginx](https://www.nginx.com/resources/wiki/#) proxy server. This will be configured to run using https with [certbot](https://certbot.eff.org/), which auto-manages [let's encrypt](https://letsencrypt.org/) certificates. This guide was written with Ubuntu (14.04) in mind.
