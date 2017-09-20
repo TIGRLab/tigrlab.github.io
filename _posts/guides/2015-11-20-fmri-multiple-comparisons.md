@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "fMRI and multiple comparisons correction"
-categories: writing
+categories: guides
 excerpt: "How to correct correctly."
 ads: false
 share: false

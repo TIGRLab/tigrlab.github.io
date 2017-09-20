@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "epitome + randomize"
-categories: writing
+categories: guides
 excerpt: "How to do 'standard' fMRI analysis with multiple covariates."
 ads: false
 share: false

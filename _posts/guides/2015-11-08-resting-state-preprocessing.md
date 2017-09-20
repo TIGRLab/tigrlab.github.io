@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Notes on resting state fMRI preprocessing"
-categories: writing
+categories: guides
 excerpt: "Reading list of good papers on how to treat your data properly."
 ads: false
 share: false

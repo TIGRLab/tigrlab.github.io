@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "SciNet high performance computing summer school 2015"
-categories: writing
+categories: guides
 excerpt: "Notes from the courses."
 ads: false
 share: false

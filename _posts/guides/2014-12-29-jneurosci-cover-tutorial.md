@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Plotting networks using Python and Gephi"
-categories: writing
+categories: guides
 excerpt: "Because sometimes a correlation matrix isn't enough."
 ads: false
 share: false

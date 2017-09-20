@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Setting up web-facing xnat with nginx and https"
-categories: writing
+categories: guides
 excerpt: "Be safe out there."
 ads: false
 share: false
