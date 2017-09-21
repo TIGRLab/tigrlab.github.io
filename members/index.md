@@ -34,17 +34,22 @@ Colin is a Post-doctoral fellow working with both the Kimmel lab and the Temerit
 
 [ResearchGate](http://www.researchgate.net/profile/Colin_Hawco)
 
-Dr. Mélissa Lévesque, Ph.D
---------------------------
+Dr. Erin W. Dickie, Ph.D
+------------------------
 <figure>
-	<a href="/images/ppl.m.levesque.jpg"><img src="/images/ppl.m.levesque.jpg"></a>
+	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
 </figure>
 
-Melissa did a BSc in Psychology at McGill University, followed by an MSc in Neuroscience, also at McGill. During her Master’s degree she studied the function of the serotonin 1A receptor following acute administration of fluoxetine, using positron emission tomography (PET) with [18F]MPPF in healthy populations of both rats and humans. Then, during her PhD in Biomedical Sciences in the Department of Psychiatry at the University of Montreal, she studied the long-term impacts of prenatal and early postnatal adversity on brain development using MRI and fMRI, and epigenetic mechanisms, specifically DNA methylation, in a cohort of adolescent monozygotic twins followed since birth.
 
-At CAMH, she is now working on testing the accelerated aging hypothesis of schizophrenia using both DTI and peripheral markers in young and old schizophrenia patients and controls. Her interests lie in uncovering the biomarkers of vulnerability for mental illness using a combination of neuroimaging and molecular strategies.
 
-[Download CV](/files/melissa.levesque.cv.pdf)
+Dr. Lindsay Oliver, Ph.D
+------------------------
+<figure>
+        <a href="/images/ppl.l.oliver.jpg"<img src="/images/ppl.l.oliver.jpg"></a>
+</figure>
+
+Lindsay recently joined the lab as a postdoctoral fellow. She completed her MSc in Human Cognitive Neuropsychology at the University of Edinburgh and her PhD in Neuroscience at the University of Western Ontario. Her research is focused on social cognition and emotional processing in clinical and healthy populations. She is particularly interested in function and dysfunction in empathic responding, and delineating and characterizing behavioural and neural correlates of different aspects of social cognition. Currently, she is investigating this across patients with schizophrenia spectrum disorders and healthy controls, using behavioural modeling, and multivariate imaging approaches. Her hope is to elucidate the underlying neurobiology and identify biomarkers of social cognitive impairment in schizophrenia to inform intervention and targeted treatment options for these debilitating symptoms. She is also a recipient of a 2017 CAMH Postdoctoral Fellowship.
+
 
 Dr. Nick Neufeld, M.D., M.Sc.
 -----------------------------
@@ -55,14 +60,6 @@ Dr. Nick Neufeld, M.D., M.Sc.
 Nick is a psychiatry resident with research interests in stroke and stroke recovery, neurocognitive disorders, major depressive disorder with psychotic features, and transdiagnostic approaches to psychotic disorders. He’s particularly interested in the use of neuroimaging in the context of brain stimulation for basic neuroscience and translational studies.
 
 [ResearchGate](http://www.researchgate.net/profile/Nick_Neufeld) - [Academia.edu](https://utoronto.academia.edu/NicholasNeufeld) - [Frontiers](http://community.frontiersin.org/people/nicholasneufeld/18293)
-
-Dr. Tina Roostaei, M.D., M.P.H.
--------------------------------
-<figure>
-	<a href="/images/ppl.t.roostaei.jpg"><img src="/images/ppl.t.roostaei.jpg"></a>
-</figure>
-
-Tina received her MD from Tehran University of Medical Sciences, Iran in 2013, and joined the Kimel lab as a postdoctoral research fellow in 2014. Her work at CAMH has been focused on determining the genetic modifiers of risk and progression for Alzheimer’s disease. She combines data from multiple modalities, including clinical, behavioral, neuroimaging, neuropathology, and body fluid biomarkers with genetic data with the aim to identify the mechanisms underlying risk and progression in age-related cognitive decline and Alzheimer’s dementia. She is currently funded by the Alzheimer Society of Canada Isabel Johnson Biomedical Postdoctoral Award.
 
 Laura Stefanik, B.A.H
 --------------------
@@ -113,15 +110,6 @@ On the systems front, I spend most of my time working on ways of efficiently man
 
 [Download CV](https://github.com/josephdviviano/resume/blob/master/jdv-cv.pdf?raw=true) - [Personal Website](http://www.viviano.ca)
 
-Dr. Arash Nazeri, M.D.
-----------------------
-<figure>
-    <a href="/images/ppl.a.nazeri.jpg"><img src="/images/ppl.a.nazeri.jpg"></a>
-</figure>
-
-Arash is a postdoctoral fellow working at the Kimel Family Translational Imaging Genetics Research (TIGR) Lab since 2013. He completed his medical education at Tehran University of Medical Sciences, Tehran, Iran. His main research interests are implementing novel methods for multi-shell diffusion-weighted MRI analysis and integration of imaging data with genetics in aging and neuropsychiatric disorders. Arash is funded by the Centre for Addiction and Mental Health and the Canadian Institutes of Health Research fellowship awards.
-
-[Download CV](/files/arash.nazeri.cv.pdf) -- [Github](https://github.com/arash-n/) -- [ORCiD](http://orcid.org/0000-0001-6983-0641)
 
 Navona Calarco, B.A.H.
 ----------------------
@@ -239,4 +227,33 @@ Jon Pipitone, M.Sc
 </figure>
 
 Jon is now pursuing his MD at the [Queen's School of Medicine](https://meds.queensu.ca/).
+
+Dr. Mélissa Lévesque, Ph.D
+--------------------------
+<figure>
+	<a href="/images/ppl.m.levesque.jpg"><img src="/images/ppl.m.levesque.jpg"></a>
+</figure>
+
+Melissa did a BSc in Psychology at McGill University, followed by an MSc in Neuroscience, also at McGill. During her Master’s degree she studied the function of the serotonin 1A receptor following acute administration of fluoxetine, using positron emission tomography (PET) with [18F]MPPF in healthy populations of both rats and humans. Then, during her PhD in Biomedical Sciences in the Department of Psychiatry at the University of Montreal, she studied the long-term impacts of prenatal and early postnatal adversity on brain development using MRI and fMRI, and epigenetic mechanisms, specifically DNA methylation, in a cohort of adolescent monozygotic twins followed since birth.
+
+At CAMH, she is now working on testing the accelerated aging hypothesis of schizophrenia using both DTI and peripheral markers in young and old schizophrenia patients and controls. Her interests lie in uncovering the biomarkers of vulnerability for mental illness using a combination of neuroimaging and molecular strategies.
+
+Dr. Arash Nazeri, M.D.
+----------------------
+<figure>
+    <a href="/images/ppl.a.nazeri.jpg"><img src="/images/ppl.a.nazeri.jpg"></a>
+</figure>
+
+Arash is a postdoctoral fellow working at the Kimel Family Translational Imaging Genetics Research (TIGR) Lab since 2013. He completed his medical education at Tehran University of Medical Sciences, Tehran, Iran. His main research interests are implementing novel methods for multi-shell diffusion-weighted MRI analysis and integration of imaging data with genetics in aging and neuropsychiatric disorders. Arash is funded by the Centre for Addiction and Mental Health and the Canadian Institutes of Health Research fellowship awards.
+
+[Download CV](/files/arash.nazeri.cv.pdf) -- [Github](https://github.com/arash-n/) -- [ORCiD](http://orcid.org/0000-0001-6983-0641)
+
+
+Dr. Tina Roostaei, M.D., M.P.H.
+-------------------------------
+<figure>
+	<a href="/images/ppl.t.roostaei.jpg"><img src="/images/ppl.t.roostaei.jpg"></a>
+</figure>
+
+Tina received her MD from Tehran University of Medical Sciences, Iran in 2013, and joined the Kimel lab as a postdoctoral research fellow in 2014. Her work at CAMH has been focused on determining the genetic modifiers of risk and progression for Alzheimer’s disease. She combines data from multiple modalities, including clinical, behavioral, neuroimaging, neuropathology, and body fluid biomarkers with genetic data with the aim to identify the mechanisms underlying risk and progression in age-related cognitive decline and Alzheimer’s dementia. She is currently funded by the Alzheimer Society of Canada Isabel Johnson Biomedical Postdoctoral Award.
 
