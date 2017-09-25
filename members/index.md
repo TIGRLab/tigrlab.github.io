@@ -46,7 +46,7 @@ Dr. Erin Dickie (PhD, Neurological Sciences, McGill University) is a Project Sci
 Dr. Lindsay Oliver, Ph.D
 ------------------------
 <figure>
-        <a href="/images/ppl.l.oliver.jpg"<img src="/images/ppl.l.oliver.jpg"></a>
+        <a href="/images/ppl.l.oliver.jpg"><img src="/images/ppl.l.oliver.jpg"></a>
 </figure>
 
 Dr. Lindsay Oliver (BSc, Neuroscience, University of Toronto; MSc, Human Cognitive Neuropsychology, University of Edinburgh; PhD, Neuroscience, University of Western Ontario) recently joined the lab as a postdoctoral fellow. Oliver’s work focuses on the neural circuitry and behavioural correlates of social cognition across psychiatric and neurologic disorders. Oliver is currently using behavioural modeling to examine the structure of social cognition in individuals with schizophrenia and healthy controls from the SPINS dataset. The goal is to determine whether lower-level (emotion recognition) and higher-level (inferring what someone else is thinking or feeling) social abilities are differentiable, and how they relate to symptom severity and every-day functioning in patients with schizophrenia. Going forward, Oliver hopes to identify biomarkers of social cognitive impairment in schizophrenia to inform intervention and targeted treatment options for these debilitating symptoms.
@@ -81,7 +81,7 @@ Currently I am working on developing novel biomakers and diagnostic applications
 Dawn Smith, B.Sc
 ----------------
 <figure>
-	<a href="/images/ppl.n.bhagwat.jpg"><img src="/images/ppl.n.bhagwat.jpg"></a>
+	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpg"></a>
 </figure>
 
 Dawn Smith (BSc, Psychology, York University; BSc, Computer Science, York University) is a Research Analyst, responsible for improving existing and creating new software to manage MRI data and perform quality control. Smith also works to keep the lab’s technical systems running smoothly in the face of heavy demand and constant change. Smith’s primary interest is in developing and deploying new tools to automate common preprocessing tasks, and make the computational aspects imaging analysis easier for the lab’s scientists. To this end, she has recently worked closely with Dr. Erin Dickie to develop Ciftify, a Python-based tool that allows for the seamless application of others’ tools to our datasets. 
@@ -217,7 +217,7 @@ Dr. Yuliya Nikolova, Ph.D
 -------------------------
 
 <figure>
-	<a href="/images/ppl.l.stefanik.jpg"><img src="/images/ppl.l.stefanik.jpg"></a>
+	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
 </figure>
 
 Dr. Yuliya Nikolova (BA, Psychology, Harvard University; PhD, Psychology & Neuroscience, Duke University) completed her training as a Banting Postdoctoral Fellow in Dr. Etienne Sibille’s Neurobiology of Depression and Aging lab. Throughout her postdoctoral work she collaborated with Dr. Voineskos on projects aiming to accelerate the translation of basic preclinical research to human neuroimaging and clinical applications. In her most recent project, Dr. Nikolova developed a novel transcriptome-based polygenic risk score for depression, which maps onto cognitive brain function and performance, as well as stress-related depressive symptoms. Over the past year, Dr. Nikolova received two prestigious conference travel awards to present her work at the annual meetings of the American College of Neuropsychopharmacology and the Society of Biological Psychiatry. She was recently appointed the next Koerner New Scientist at CAMH and will continue her collaborative work with Dr. Voineskos.
