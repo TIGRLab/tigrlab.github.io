@@ -37,7 +37,7 @@ Dr. Colin Hawco (MSc Psychology, Laurier; PhD, Neuroscience, McGill), is a Proje
 Dr. Erin W. Dickie, Ph.D
 ------------------------
 <figure>
-	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.e.dickie.jpeg"></a>
 </figure>
 
 Dr. Erin Dickie (PhD, Neurological Sciences, McGill University) is a Project Scientist. Dr. Dickie’s research focus is personalized connectomics, or the ability to map brain organization at the level of the individual. Individual mapping of brain function may be a critical first step in the design of targets for stimulation therapy. Dr. Dickie recently submitted a manuscript describing her tool for mapping neurodiversity (PINT), and showed that the brains of those affected by autism and more variable in their organization that those of typically developing controls. This work suggests that personalized brain mapping might be a critical first step for future biomarker discovery. Dr. Dickie also assists with the lab’s data management and analysis system, and builds automated tools for data analysis. In the past year, she has developed a new tool for surface-based analyses (ciftify) that has been publicly available and adopted by international groups.
