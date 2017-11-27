@@ -46,7 +46,7 @@ Dr. Erin Dickie (PhD, Neurological Sciences, McGill University) is a Project Sci
 Dr. Lindsay Oliver, Ph.D
 ------------------------
 <figure>
-        <a href="/images/ppl.l.oliver.jpg"><img src="/images/ppl.l.oliver.jpg"></a>
+        <a href="/images/ppl.l.oliver.jpg"><img src="/images/ppl.l.oliver.jpeg"></a>
 </figure>
 
 Dr. Lindsay Oliver (BSc, Neuroscience, University of Toronto; MSc, Human Cognitive Neuropsychology, University of Edinburgh; PhD, Neuroscience, University of Western Ontario) recently joined the lab as a postdoctoral fellow. Oliver’s work focuses on the neural circuitry and behavioural correlates of social cognition across psychiatric and neurologic disorders. Oliver is currently using behavioural modeling to examine the structure of social cognition in individuals with schizophrenia and healthy controls from the SPINS dataset. The goal is to determine whether lower-level (emotion recognition) and higher-level (inferring what someone else is thinking or feeling) social abilities are differentiable, and how they relate to symptom severity and every-day functioning in patients with schizophrenia. Going forward, Oliver hopes to identify biomarkers of social cognitive impairment in schizophrenia to inform intervention and targeted treatment options for these debilitating symptoms.
@@ -54,7 +54,7 @@ Dr. Lindsay Oliver (BSc, Neuroscience, University of Toronto; MSc, Human Cogniti
 Dr. Neda Rashidi-Ranjbar, M.D., M.Sc
 ------------------------------------
 <figure>
-        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.n.rashidi.jpeg"></a>
 </figure>
 
 Dr. Neda Rashidi-Ranjbar (MSc, Cognitive Science, Trento University; MD, University of Tehran) joined the lab as a doctoral student this year. She has extensive experience working with functional MRI and TMS, and is passionate about developing diagnostic and prognostic biomarkers for psychiatric disorders, especially depression. Rashidi-Ranjbar is primarily working with PACt-MD, a multi-center clinical trial that aims to identify stepwise patterns of disease progression in older participants with depression, mild cognitive impairment, and Alzheimer’s Disease. Specifically, Rashidi-Ranjbar will use the three neuroimaging scans provided by each participant over a span of six months to identify structural and functional brain measures associated with the observed delay or prevention of dementia, as well as investigate the effect of cognitive training and brain stimulation on brain structure and function. The hope is that this large, multi-site clinical trial will offer substantial new insights, guide the improvement of clinical care, and have felt effects for the quality of life of elderly patients.
