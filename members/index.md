@@ -30,7 +30,7 @@ Dr. Colin Hawco, Ph.D
 	<a href="/images/ppl.c.hawco.jpg"><img src="/images/ppl.c.hawco.jpg"></a>
 </figure>
 
-Dr. Colin Hawco (MSc Psychology, Laurier; PhD, Neuroscience, McGill), is a Project Scientist working jointly with the Kimel Lab and the Temerty Centre for Therapeutic Brain Intervention. Dr. Hawco’s work in the Kimel lab has focused on the SPINS project, specifically investigating the brain activity underlying impaired social cognition in Schizophrenia. This year, Dr. Hawco has had five published paper (three as first author), two submitted papers (related to the SPINS project), and four conference poster presentations. Dr. Hawco has also been recently awarded a second NARSAD Young Investigators Award. His work focuses on data-driven approaches to move away from standard analysis methods focused on ‘group averages’ and instead identifying individually meaningful patterns of brain activity which can be used to guide treatment decisions. 
+Dr. Colin Hawco (MSc Psychology, Laurier; PhD, Neuroscience, McGill), is a Project Scientist working jointly with the Kimel Lab and the Temerty Centre for Therapeutic Brain Intervention. Dr. Hawco’s work in the Kimel lab has focused on the SPINS project, specifically investigating the brain activity underlying impaired social cognition in Schizophrenia. This year, Dr. Hawco has had five published paper (three as first author), two submitted papers (related to the SPINS project), and four conference poster presentations. Dr. Hawco has also been recently awarded a second NARSAD Young Investigators Award. His work focuses on data-driven approaches to move away from standard analysis methods focused on ‘group averages’ and instead identifying individually meaningful patterns of brain activity which can be used to guide treatment decisions.
 
 [ResearchGate](http://www.researchgate.net/profile/Colin_Hawco)
 
@@ -84,13 +84,13 @@ Dawn Smith, B.Sc
 	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpg"></a>
 </figure>
 
-Dawn Smith (BSc, Psychology, York University; BSc, Computer Science, York University) is a Research Analyst, responsible for improving existing and creating new software to manage MRI data and perform quality control. Smith also works to keep the lab’s technical systems running smoothly in the face of heavy demand and constant change. Smith’s primary interest is in developing and deploying new tools to automate common preprocessing tasks, and make the computational aspects imaging analysis easier for the lab’s scientists. To this end, she has recently worked closely with Dr. Erin Dickie to develop Ciftify, a Python-based tool that allows for the seamless application of others’ tools to our datasets. 
+Dawn Smith (BSc, Psychology, York University; BSc, Computer Science, York University) is a Research Analyst, responsible for improving existing and creating new software to manage MRI data and perform quality control. Smith also works to keep the lab’s technical systems running smoothly in the face of heavy demand and constant change. Smith’s primary interest is in developing and deploying new tools to automate common preprocessing tasks, and make the computational aspects imaging analysis easier for the lab’s scientists. To this end, she has recently worked closely with Dr. Erin Dickie to develop Ciftify, a Python-based tool that allows for the seamless application of others’ tools to our datasets.
 
 
 Grace Jacobs, B.Sc
 ------------------
 <figure>
-	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+	<a href="/images/ppl.g.jacobs.jpg"><img src="/images/ppl.g.jacobs.jpg"></a>
 </figure>
 
 Grace Jacobs (BSc, Biomedical Science, University of Ottawa) is entering her second year of the MSc program at the Institute of Medical Science under the supervision of Dr. Voineskos. Her work focuses on youth with psychosis spectrum symptoms, and aims to understand the underlying neural mechanisms of symptom development, as well as sex-specific differences. Jacobs uses structural and functional MRI data to characterize connectivity of a circuit involving the striatum, thalamus, and cortical areas to determine if patterns of alterations known in adult chronic schizophrenia are also observable during critical neurodevelopmental periods. The hope is that, if this circuit proves an early biomarker, identifying it and understanding its underlying mechanisms can improve illness risk detection, and allow personalized intervention in a youth population.
@@ -147,14 +147,14 @@ Judy Kwan, B.Sc.
 
 Judy Kwan (BSc., Animal Physiology, University of Toronto) is a Research Analyst working on both SPINS and STOP-PD. For both studies, she takes the lead collecting neuropsychological and social cognitive assessments from research participants, and coordinating shared visits for the sample collection lab and MRI. Kwan is also responsible for providing training to new study staff.
 
-Sinead Ramsaroop 
+Sinead Ramsaroop
 ----------------
 
 <figure>
         <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
 </figure>
 
-Sinead Ramsaroop (BA, Psychology, York University, expected 2017) spends two days each week with the lab to provide administrative support to its students, staff, and Dr. Voineskos. She appreciates that her role affords her an inside view of hospital bureaucracy, academic administration, and the scientific process. Ramsaroop is also very committed to community advocacy, and outside of the lab, runs her own charity called Project Reset, which helps facilitate a psycho-education treatment program for women accessing city shelters.  
+Sinead Ramsaroop (BA, Psychology, York University, expected 2017) spends two days each week with the lab to provide administrative support to its students, staff, and Dr. Voineskos. She appreciates that her role affords her an inside view of hospital bureaucracy, academic administration, and the scientific process. Ramsaroop is also very committed to community advocacy, and outside of the lab, runs her own charity called Project Reset, which helps facilitate a psycho-education treatment program for women accessing city shelters.
 
 
 Dielle Miranda, MA (Clin Psy)
@@ -192,7 +192,7 @@ Dayton Miranda
 	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
 </figure>
 
-Dayton Miranda (BSc Life Sciences, Western University, expected 2020) returned as a summer student for the second year. In collaboration with Dr. Erin Dickie and Saba Sahab, Miranda analyzed structural and functional MRI data from patients with schizophrenia and healthy controls in an effort to identify between-group structural differences in the cortex, which in turn might contribute to an explanation of the functional disconnectivity observed in schizophrenia. Further understanding of the structural features and markers of schizophrenia might allow the illness to be identified and perhaps predicted using structural as opposed to functional scans, which are quicker and therefore cheaper to collect. Miranda is continuing to analyze incoming data for this project, and looks forward to reporting his results in an upcoming paper. 
+Dayton Miranda (BSc Life Sciences, Western University, expected 2020) returned as a summer student for the second year. In collaboration with Dr. Erin Dickie and Saba Sahab, Miranda analyzed structural and functional MRI data from patients with schizophrenia and healthy controls in an effort to identify between-group structural differences in the cortex, which in turn might contribute to an explanation of the functional disconnectivity observed in schizophrenia. Further understanding of the structural features and markers of schizophrenia might allow the illness to be identified and perhaps predicted using structural as opposed to functional scans, which are quicker and therefore cheaper to collect. Miranda is continuing to analyze incoming data for this project, and looks forward to reporting his results in an upcoming paper.
 
 
 Laagi Yoganathan
@@ -229,7 +229,7 @@ Laura Stefanik, M.Sc
 	<a href="/images/ppl.l.stefanik.jpg"><img src="/images/ppl.l.stefanik.jpg"></a>
 </figure>
 
-Laura Stefanik (BA, Psychology, Queen’s University; MSc, Institute of Medical Science, University of Toronto) recently graduated under the supervision of Dr. Voineskos. Stefanik’s work focuses on the application of novel data aggregation algorithms for social cognitive, neurocognitive, and neuroimaging data in an effort to identify impairment-specific markers of illness across adolescents and young adults with autism spectrum, schizophrenia spectrum and bipolar disorder. The goal of this work is to enhance disease subtyping and to identify treatment targets to improve social functioning. During her graduate studies, Stefanik had authorship on five peer reviewed scientific publications and her work was presented at a number of local and international academic conferences. Stefanik recently accepted a Research Analyst position with the Slaight Family Centre for Youth in Transition and Child, Youth and Emerging Adult Programs. 
+Laura Stefanik (BA, Psychology, Queen’s University; MSc, Institute of Medical Science, University of Toronto) recently graduated under the supervision of Dr. Voineskos. Stefanik’s work focuses on the application of novel data aggregation algorithms for social cognitive, neurocognitive, and neuroimaging data in an effort to identify impairment-specific markers of illness across adolescents and young adults with autism spectrum, schizophrenia spectrum and bipolar disorder. The goal of this work is to enhance disease subtyping and to identify treatment targets to improve social functioning. During her graduate studies, Stefanik had authorship on five peer reviewed scientific publications and her work was presented at a number of local and international academic conferences. Stefanik recently accepted a Research Analyst position with the Slaight Family Centre for Youth in Transition and Child, Youth and Emerging Adult Programs.
 
 Saba Shahab, M.Sc
 -----------------
@@ -248,7 +248,7 @@ Dr. Tom Wright, Ph.D
 	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
 </figure>
 
-Dr. Tom Wright (PhD Neurophysiology, Gothenborg University, Sweden) is a Research Methods Specialist, who works mainly on the lab’s MRI quality control metrics. Most notably, Dr. Wright developed an in-house interactive ‘dashboard’ interface that allows staff to easily examine individual participant data, seamlessly observe and track longitudinal trends across participants, sites, and scan types, and communicate issues with relevant parties. Additionally, Dr. Wright regularly consulted with the lab’s students and scientists to support the computational requirements of their projects, and worked with the lab’s staff to strengthen its general computational infrastructure. Dr. Wright recently accepted a position as a Senior Research Associate (Electrophysiology) at the Kensington Vision & Research Centre.  
+Dr. Tom Wright (PhD Neurophysiology, Gothenborg University, Sweden) is a Research Methods Specialist, who works mainly on the lab’s MRI quality control metrics. Most notably, Dr. Wright developed an in-house interactive ‘dashboard’ interface that allows staff to easily examine individual participant data, seamlessly observe and track longitudinal trends across participants, sites, and scan types, and communicate issues with relevant parties. Additionally, Dr. Wright regularly consulted with the lab’s students and scientists to support the computational requirements of their projects, and worked with the lab’s staff to strengthen its general computational infrastructure. Dr. Wright recently accepted a position as a Senior Research Associate (Electrophysiology) at the Kensington Vision & Research Centre.
 
 
 Dawson Overton, M.Sc
