@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: banner.members.jpg
+  feature: KimelLabJuly2018.jpg
   teaser: teaser.members.jpg
 toc: true
 share: false
