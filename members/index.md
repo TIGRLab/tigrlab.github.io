@@ -147,8 +147,6 @@ Mathuvanthi (Mathu) Manogaran
 Manogaran (BSc Computer Science, University of Toronto Scarborough, expected 2021) joined the lab as a co-op student for the January - May term, and enjoyed it so much she stayed for an additional co-op term until August 2018. In collaboration with Dawn Smith and Dr. Erin Dickie, she supported many aspects of the lab’s computational infrastructure and contributed to software development. She is responsible for creating a program that can convert the lab’s native directory structure to a new reproducible data format (BIDS), and created several portable Docker images for Dr. Dickie’s Ciftify program. Manogaran also upgraded DTI processing pipelines and made several contributions to the lab’s quality control interface.
 
 
-
-
 Dr. Nick Neufeld, M.D., M.Sc
 ----------------------------
 <figure>
@@ -209,6 +207,9 @@ Dielle Miranda, MA (Clin Psy)
 <figure>
 	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
 </figure>
+
+
+
 
 
 Alumni
@@ -439,12 +440,34 @@ Dr. Tina Roostaei, M.D., M.P.H.
 Dr. Tina Roostaei (MD, Tehran University of Medical Sciences) completed a postdoctoral fellowship in imaging-genetics in neurodegenerative disorders under the mentorship of Dr. Voineskos in 2016. She has now joined the Center for Translational and Computational Neuroimmunology, Columbia University, New York, as a postdoctoral research scientist. Tina is continuing her studies on the genetic basis of susceptibility and progression of brain neurodegenerative disorders, with focus on the functional genomics of Multiple Sclerosis and Alzheimer’s disease. Her goal is to contribute to the advancement of understanding of the pathophysiology of these brain disorders and to find targets for their treatment and prevention.
 
 
-
-Alumni
-------------------------
 Nikhil Bhagwat, M.Sc
+--------------------
+<figure>
+	<a href="/images/ppl.n.bhagwat.jpg"><img src="/images/ppl.n.bhagwat.jpg"></a>
+</figure>
+
+Currently I am working on developing novel biomakers and diagnostic applications for neurodegenerative disorders using machine-learning techniques. My research interest include, computational neuroscience, machine-learning, signal processing and related areas.
+
 Amy Miles, MA
+-------------
+<figure>
+	<a href="/images/ppl.a.miles.jpg"><img src="/images/ppl.a.miles.jpg"></a>
+</figure>
+
+Amy Miles (BA, Psychology & French Language and Literature, University of Maryland; MA Developmental Psychology, Columbia) is a fifth year PhD candidate under the supervision of Drs. Allan Kaplan and Aristotle Voineskos. She is interested in the neurobiological underpinnings and developmental trajectories of eating disorders and has designed a structural MRI study to explore the neuroanatomical correlates of risk for and manifestation of Anorexia Nervosa (AN). Ultimately, Amy hopes to use this information to identify novel therapeutic targets for AN, the most fatal psychiatric disorder and one for which there are currently no evidence-based treatments.
 
 Vincent Man, BSc
+----------------
+<figure>
+	<a href="/images/ppl.v.man.jpg"><img src="/images/ppl.v.man.jpg"></a>
+</figure>
 
 Joseph Viviano, M.Sc
+--------------------
+<figure>
+	<a href="/images/ppl.j.viviano.jpg"><img src="/images/ppl.j.viviano.jpg"></a>
+</figure>
+
+Joseph Viviano (BA, Psychology, Queens University; MSc, Biology, York University) is responsible for the design and implementation of a data management platform used by researchers in the lab and beyond, as well as the lab’s general computational infrastructure. Viviano’s role also involves the design and implementation of analytic code used by the lab’s scientists, and the development of novel prognostics tools utilizing MRI scans to guide patient-specific treatment. Over the past year, Viviano has worked to develop a fully-automated method for identifying patients with schizophrenia and comorbid severe cognitive impairment, as well as a method for predicting Alzheimer’s onset.
+
+[Download CV](https://github.com/josephdviviano/resume/blob/master/jdv-cv.pdf?raw=true) - [Personal Website](http://www.viviano.ca)
