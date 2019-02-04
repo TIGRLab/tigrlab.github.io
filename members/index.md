@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Our Team"
-date: 2014-06-25T13:57:25-04:00
+date: 2019-01-28T13:57:25-04:00
 modified:
 excerpt:
 tags: []
@@ -11,7 +11,6 @@ image:
 toc: true
 share: false
 ---
-
 Dr. Aristotle Voineskos, M.D., Ph.D
 -----------------------------------
 <figure>
@@ -30,7 +29,7 @@ Dr. Colin Hawco, Ph.D
 	<a href="/images/ppl.c.hawco.jpg"><img src="/images/ppl.c.hawco.jpg"></a>
 </figure>
 
-Dr. Colin Hawco (MSc Psychology, Laurier; PhD, Neuroscience, McGill), is a Project Scientist working jointly with the Kimel Lab and the Temerty Centre for Therapeutic Brain Intervention. Dr. Hawco’s work in the Kimel lab has focused on the SPINS project, specifically investigating the brain activity underlying impaired social cognition in Schizophrenia. This year, Dr. Hawco has had five published paper (three as first author), two submitted papers (related to the SPINS project), and four conference poster presentations. Dr. Hawco has also been recently awarded a second NARSAD Young Investigators Award. His work focuses on data-driven approaches to move away from standard analysis methods focused on ‘group averages’ and instead identifying individually meaningful patterns of brain activity which can be used to guide treatment decisions.
+Dr. Hawco (PhD, Neuroscience, McGill University) is a project scientist. He develops new approaches to uncover meaningful patterns of individual variability in complex neuroimaging data. He hopes this work will lead to better understanding of biological variability in patient samples, and inform personalized medicine approaches in psychiatry. In 2018, Dr. Hawco was appointed to the Department of Psychiatry as an Assistant Professor, published six papers (four as first author) and four conference poster presentations. Dr. Hawco has also submitted his first large project grants as senior investigator to CIHR and the National Institute of Mental Health, developing neuroimaging markers to predict response to brain stimulation therapies.
 
 [ResearchGate](http://www.researchgate.net/profile/Colin_Hawco)
 
@@ -40,7 +39,8 @@ Dr. Erin W. Dickie, Ph.D
 	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.e.dickie.jpeg"></a>
 </figure>
 
-Dr. Erin Dickie (PhD, Neurological Sciences, McGill University) is a Project Scientist. Dr. Dickie’s research focus is personalized connectomics, or the ability to map brain organization at the level of the individual. Individual mapping of brain function may be a critical first step in the design of targets for stimulation therapy. Dr. Dickie recently submitted a manuscript describing her tool for mapping neurodiversity (PINT), and showed that the brains of those affected by autism and more variable in their organization that those of typically developing controls. This work suggests that personalized brain mapping might be a critical first step for future biomarker discovery. Dr. Dickie also assists with the lab’s data management and analysis system, and builds automated tools for data analysis. In the past year, she has developed a new tool for surface-based analyses (ciftify) that has been publicly available and adopted by international groups.
+Dr. Erin Dickie (PhD, Neurological Sciences, McGill University) is a Project Scientist. Dr. Dickie’s research focus is personalized connectomics, or the ability to map brain organization at the level of the individual. She recently published a paper in Biological Psychiatry, finding that personalized brain mapping might facilitate biomarker discovery. In this paper, she introduced a novel tool for mapping neurodiversity (PINT), and showed that the brains of those affected by autism are more variable in their organization than those of typically developing controls. Dr. Dickie was recently awarded a NARSAD Young Investigator Award to investigate how individual mapping of brain function may be a critical first step for the design of targets for neurostimulation therapy. Dr. Dickie also founded the “ciftify” open software framework for surface-based analyses of MR data, with collaboration from the developers of the Human Connectome Project. She serves as an invited instructor and member in international initiatives for education and best scientific practices, including the International Neuroinformatics Coordinating Facility (INCF) working group for Reproducibility and Best Practices in Human Brain Imaging.
+
 
 
 Dr. Lindsay Oliver, Ph.D
@@ -49,7 +49,82 @@ Dr. Lindsay Oliver, Ph.D
         <a href="/images/ppl.l.oliver.jpg"><img src="/images/ppl.l.oliver.jpeg"></a>
 </figure>
 
-Dr. Lindsay Oliver (BSc, Neuroscience, University of Toronto; MSc, Human Cognitive Neuropsychology, University of Edinburgh; PhD, Neuroscience, University of Western Ontario) recently joined the lab as a postdoctoral fellow. Oliver’s work focuses on the neural circuitry and behavioural correlates of social cognition across psychiatric and neurologic disorders. Oliver is currently using behavioural modeling to examine the structure of social cognition in individuals with schizophrenia and healthy controls from the SPINS dataset. The goal is to determine whether lower-level (emotion recognition) and higher-level (inferring what someone else is thinking or feeling) social abilities are differentiable, and how they relate to symptom severity and every-day functioning in patients with schizophrenia. Going forward, Oliver hopes to identify biomarkers of social cognitive impairment in schizophrenia to inform intervention and targeted treatment options for these debilitating symptoms.
+Dr. Lindsay Oliver (PhD, Neuroscience, University of Western Ontario) is a postdoctoral fellow. Oliver’s work focuses on the neural circuitry and behavioural correlates of social cognition across psychiatric and neurologic disorders. Oliver is currently using behavioural modeling to examine the structure of social cognition in individuals with schizophrenia and healthy controls from the SPINS dataset. Her recently published work used structural equation modeling to identify lower-level (e.g., emotion recognition) and higher-level (e.g., inferring others' intentions) social abilities. Oliver revealed an association between these higher-level abilities and everyday functioning in schizophrenia spectrum disorder and healthy control groups. Now, Dr. Oliver is incorporating brain imaging data to understand neural networks underlying social cognitive deficits. The overall goal is to identify biomarkers of social cognitive impairment to inform targeted treatment options for these symptoms.
+
+
+
+Hajer Nakua, BSc.
+----------------------------
+
+<figure>
+        <a href="/images/hajer_nakua.jpg"><img src="/images/hajer_nakua.jpg"></a>
+</figure>
+
+Hajer Nakua (BSc. Psychology, Neuroscience, & Behaviour, McMaster University) joined the lab as a Master’s student in September. She hopes to explore the connections between the cerebral cortex and amygdala in children and adolescents with neurodevelopmental disorders; specifically, obsessive-compulsive disorder (OCD), autism spectrum disorder (ASD), and attention-deficit/hyperactivity disorder (ADHD). By comparing these connections with their behavioural correlates, we can better understand the mechanisms of disease and create more effective treatment plans.
+
+
+
+Dr. Christin Schifani, Ph.D
+-----------------------------
+<figure>
+        <a href="/images/Christin_schifani.jpg"><img src="/images/Christin_schifani.jpg"></a>
+</figure>
+
+
+Dr. Schifani (PhD, Neuroscience, Ruprecht-Karls University of Heidelberg) joined the lab in September 2018. She will be using advanced MRI techniques to work with data from the rTMS-WM study. Schifani’s work will first explore the impact of rTMS on the structure of the cortex, using a cutting-edge method called Neuritic Orientation Dispersion and Density Imaging (NODDI). Next, Schifani intends to explore how rTMS changes the functional brain networks underlying working memory function. With this, we aim to improve understanding of the therapeutic mechanisms of rTMS.  Data collection for rTMS-WM is almost completed, and analyses will begin shortly.
+
+
+
+
+Michael Joseph, M.Sc
+-----------------------------
+
+
+<figure>
+        <a href="/images/michael_joseph.jpg"><img src="/images/michael_joseph.jpg"></a>
+</figure>
+
+
+Joseph (BSc, Biology & Psychology, McMaster University; MSc, Physiology, University of Toronto) is a Research Analyst. He assists with improving the lab's MRI data management and quality control software. Michael previously performed a similar role at the Ontario Brain Institute, where he specialized in neuroimaging and clinical data collection databases. To this end, Michael teaches a monthly introductory course to train the hospital's research staff and scientists in using databases for their research projects. Michael is also involved in managing SPINS-ASD: a new study comparing autism-spectrum and schizophrenia-spectrum disorders led by lab collaborator Dr. Stephanie Ameis. Michael's primary interests lie in developing new software to automate MRI data analysis and understanding the statistical techniques involved.
+
+
+Dr. Natalie Forde, Ph.D
+-----------------------------
+
+<figure>
+        <a href="/images/natalie_forde.jpg"><img src="/images/natalie_forde.jpg"></a>
+</figure>
+
+
+Dr. Forde (BSc Chemistry, University College Cork, Ireland; MSc Neuropharmacology, National University of Ireland, Galway; PhD Psychiatry, University of Groningen, the Netherlands) joined the lab in January 2018 as a post-doctoral research fellow. Dr. Forde is interested in symptoms that appear across different neurodevelopmental disorders and investigates their neural correlates by integrating imaging data from multiple modalities. She uses this multi-modal approach to better understand brain connectivity, the relationship between brain structure and function, and the way this all relates to symptoms of neurodevelopmental disorders. Forde uses the uniquely large Province of Ontario Neurodevelopmental Disorders (POND) Network dataset of children and adolescents with various neurodevelopmental disorders to identify biomarkers that relate to symptoms across disorders. In the future, this may help design targeted interventions like transcranial magnetic stimulation to improve cross disorder symptoms and long-term outcomes for those with neurodevelopmental disorders. Dr. Forde was awarded a CAMH Discovery Fund award for this proposal.
+
+
+Gabrielle Herman, B.Sc
+-------------------
+<figure>
+        <a href="/images/gabrielle_herman.jpg"><img src="/images/gabrielle_herman.jpg"></a>
+</figure>
+
+Herman (BSc Psychology, Neuroscience, & Behaviour, McMaster University, 2018) joined the lab in May as a research analyst. She assists with data management and quality control for several studies in the lab. She has been especially involved in the OPTIMUM study on late-life depression, and has created a number of tools to track study recruitment. She also manages twice-yearly uploads of imaging and clinical data for the lab’s two NIH R01-funded studies (OPTIMUM and SPINS). Herman has also contributed code to various analysis and data management pipelines. She is interested in neurocognitive predictors of brain activity, and hopes to investigate brain networks and network flexibility.
+
+Jerrold Jeyachandra, M.Sc
+-----------------------
+<figure>
+        <a href="/images/jerrold_jeyachandra.jpg"><img src="/images/jerrold_jeyachandra.jpg"></a>
+</figure>
+
+Jeyachandra (M.Sc, Science, Queens University) joined the lab as a Research Analyst. He is responsible for maintaining and expanding upon the lab’s computational pipelines for processing imaging data. In addition, he manages the analysis of phantom data, which provides critical insight into scanner performance across the many research centres involved in the lab's studies. Jeyachandra is also interested in utilizing computational techniques to improve precision in therapeutic neurostimulation. To create personalized treatment, he is working to bringing together techniques for modeling rTMS-induced electrical fields with characterizing individualized resting state activity.
+
+Kevin Witczak
+----------------------------
+
+<figure>
+        <a href="/images/kevin_witczak.jpg"><img src="/images/kevin_witczak.jpg"></a>
+</figure>
+
+Witczak joined the lab in June and works to improve the lab’s compute cluster and general data processing resources. His specific focus in the lab has been on the development of reproducible software systems and high performance computing. He maintains and develops programming scripts, troubleshoots computing issues, and is involved with tracking inventory and maintaining the lab’s computers.
+
+
 
 Dr. Neda Rashidi-Ranjbar, M.D., M.Sc
 ------------------------------------
@@ -57,7 +132,21 @@ Dr. Neda Rashidi-Ranjbar, M.D., M.Sc
         <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.n.rashidi.jpeg"></a>
 </figure>
 
-Dr. Neda Rashidi-Ranjbar (MSc, Cognitive Science, Trento University; MD, University of Tehran) joined the lab as a doctoral student this year. She has extensive experience working with functional MRI and TMS, and is passionate about developing diagnostic and prognostic biomarkers for psychiatric disorders, especially depression. Rashidi-Ranjbar is primarily working with PACt-MD, a multi-center clinical trial that aims to identify stepwise patterns of disease progression in older participants with depression, mild cognitive impairment, and Alzheimer’s Disease. Specifically, Rashidi-Ranjbar will use the three neuroimaging scans provided by each participant over a span of six months to identify structural and functional brain measures associated with the observed delay or prevention of dementia, as well as investigate the effect of cognitive training and brain stimulation on brain structure and function. The hope is that this large, multi-site clinical trial will offer substantial new insights, guide the improvement of clinical care, and have felt effects for the quality of life of elderly patients.
+
+Dr. Rashidi (MSc, Cognitive Science, Trento University; MD, University of Tehran) is a doctoral student. She studies brain structure and function among older adults with varying levels of risk for dementia, and examines their connections with cognitive scores. Rashidi-Ranjbar is primarily working with PACt-MD, a multi-center clinical trial that aims to identify stepwise patterns of disease progression in older participants with depression, mild cognitive impairment, and Alzheimer’s Disease. Specifically, Rashidi-Ranjbar will use the three neuroimaging scans provided by each participant over a span of six months to identify structural and functional brain measures associated with the observed delay or prevention of dementia, as well as investigate the effect of cognitive training and brain stimulation on brain structure and function. In the coming year, Dr. Rashidi will use similarity network fusion (SNF), a modeling approach developed by lab collaborator Dr. Anna Goldenberg (SickKids), to identify similarity networks that integrate demographic, cognitive and imaging data. Rashidi anticipates that SNF will identify informative clusters of participants with similar profiles irrespective of diagnosis. This year, Rashidi has been awarded the Alzheimer Society Research Program Doctoral Award and the Faculty of Medicine GSEF Merit Scholarship.
+
+
+
+Mathuvanthi (Mathu) Manogaran
+-------------------
+<figure>
+        <a href="/images/mathuvanthi_manogaran.jpg"><img src/images/mathuvanthi_manogaran.jpg"></a>
+</figure>
+
+
+Manogaran (BSc Computer Science, University of Toronto Scarborough, expected 2021) joined the lab as a co-op student for the January - May term, and enjoyed it so much she stayed for an additional co-op term until August 2018. In collaboration with Dawn Smith and Dr. Erin Dickie, she supported many aspects of the lab’s computational infrastructure and contributed to software development. She is responsible for creating a program that can convert the lab’s native directory structure to a new reproducible data format (BIDS), and created several portable Docker images for Dr. Dickie’s Ciftify program. Manogaran also upgraded DTI processing pipelines and made several contributions to the lab’s quality control interface.
+
+
 
 
 Dr. Nick Neufeld, M.D., M.Sc
@@ -66,17 +155,9 @@ Dr. Nick Neufeld, M.D., M.Sc
 	<a href="/images/ppl.n.neufeld.jpg"><img src="/images/ppl.n.neufeld.jpg"></a>
 </figure>
 
-Dr. Nicholas Neufeld (BSc, University of Winnipeg; MSc, University College London; MD, University of Toronto) is a former Commonwealth Scholar and current fifth-year psychiatry resident in the Clinician Investigator Program at the University of Toronto. Dr. Neufeld’s primary project involves the analysis of brain imaging data from STOP-PD. In 2017, Dr. Neufeld received a Norris Scholar Award as well as a Resident Research Grant from the Physician Services Incorporated Foundation that will fund a pilot project on brain imaging biomarkers of antipsychotic (clozapine) response in an early intervention population. Ultimately, Dr. Neufeld’s goal is to harness the power of neuroimaging and other biomarkers to get patients with psychiatric disorders better, faster.
+Dr. Nicholas Neufeld (MSc, University College London; MD, University of Toronto) is a former Commonwealth Scholar and current research fellow. Dr. Neufeld’s primary project involves the analysis of brain imaging data from STOP-PD. In 2017, Dr. Neufeld received a Norris Scholar Award as well as a Resident Research Grant from the Physician Services Incorporated Foundation that will fund a pilot project on brain imaging biomarkers of antipsychotic (clozapine) response in an early intervention population. Ultimately, Dr. Neufeld’s goal is to harness the power of neuroimaging and other biomarkers to get patients with psychiatric disorders better, faster.
 
 [ResearchGate](http://www.researchgate.net/profile/Nick_Neufeld) - [Academia.edu](https://utoronto.academia.edu/NicholasNeufeld) - [Frontiers](http://community.frontiersin.org/people/nicholasneufeld/18293)
-
-Nikhil Bhagwat, M.Sc
---------------------
-<figure>
-	<a href="/images/ppl.n.bhagwat.jpg"><img src="/images/ppl.n.bhagwat.jpg"></a>
-</figure>
-
-Currently I am working on developing novel biomakers and diagnostic applications for neurodegenerative disorders using machine-learning techniques. My research interest include, computational neuroscience, machine-learning, signal processing and related areas.
 
 Dawn Smith, B.Sc
 ----------------
@@ -84,7 +165,7 @@ Dawn Smith, B.Sc
 	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpg"></a>
 </figure>
 
-Dawn Smith (BSc, Psychology, York University; BSc, Computer Science, York University) is a Research Analyst, responsible for improving existing and creating new software to manage MRI data and perform quality control. Smith also works to keep the lab’s technical systems running smoothly in the face of heavy demand and constant change. Smith’s primary interest is in developing and deploying new tools to automate common preprocessing tasks, and make the computational aspects imaging analysis easier for the lab’s scientists. To this end, she has recently worked closely with Dr. Erin Dickie to develop Ciftify, a Python-based tool that allows for the seamless application of others’ tools to our datasets.
+Dawn Smith (BSc Psychology, York University; BSc Computer Science, York University) is a Research Methods Specialist, responsible for improving existing and creating new software to manage MRI data and perform quality control. Smith also works to keep the lab’s technical systems running smoothly in the face of heavy demand and constant change. Smith’s primary interest is in developing and deploying new tools to automate common preprocessing and quality control tasks, and make the computational aspects of imaging analysis easier for the lab’s scientists. Recently, her focus has been on updating the quality control dashboard and its underlying code, and she presented on this facilitated review process at INCF.
 
 
 Grace Jacobs, B.Sc
@@ -93,33 +174,7 @@ Grace Jacobs, B.Sc
 	<a href="/images/ppl.g.jacobs.jpg"><img src="/images/ppl.g.jacobs.jpg"></a>
 </figure>
 
-Grace Jacobs (BSc, Biomedical Science, University of Ottawa) is entering her second year of the MSc program at the Institute of Medical Science under the supervision of Dr. Voineskos. Her work focuses on youth with psychosis spectrum symptoms, and aims to understand the underlying neural mechanisms of symptom development, as well as sex-specific differences. Jacobs uses structural and functional MRI data to characterize connectivity of a circuit involving the striatum, thalamus, and cortical areas to determine if patterns of alterations known in adult chronic schizophrenia are also observable during critical neurodevelopmental periods. The hope is that, if this circuit proves an early biomarker, identifying it and understanding its underlying mechanisms can improve illness risk detection, and allow personalized intervention in a youth population.
-
-
-Amy Miles, MA
--------------
-<figure>
-	<a href="/images/ppl.a.miles.jpg"><img src="/images/ppl.a.miles.jpg"></a>
-</figure>
-
-Amy Miles (BA, Psychology & French Language and Literature, University of Maryland; MA Developmental Psychology, Columbia) is a fifth year PhD candidate under the supervision of Drs. Allan Kaplan and Aristotle Voineskos. She is interested in the neurobiological underpinnings and developmental trajectories of eating disorders and has designed a structural MRI study to explore the neuroanatomical correlates of risk for and manifestation of Anorexia Nervosa (AN). Ultimately, Amy hopes to use this information to identify novel therapeutic targets for AN, the most fatal psychiatric disorder and one for which there are currently no evidence-based treatments.
-
-Vincent Man, BSc
-----------------
-<figure>
-	<a href="/images/ppl.v.man.jpg"><img src="/images/ppl.v.man.jpg"></a>
-</figure>
-
-
-Joseph Viviano, M.Sc
---------------------
-<figure>
-	<a href="/images/ppl.j.viviano.jpg"><img src="/images/ppl.j.viviano.jpg"></a>
-</figure>
-
-Joseph Viviano (BA, Psychology, Queens University; MSc, Biology, York University) is responsible for the design and implementation of a data management platform used by researchers in the lab and beyond, as well as the lab’s general computational infrastructure. Viviano’s role also involves the design and implementation of analytic code used by the lab’s scientists, and the development of novel prognostics tools utilizing MRI scans to guide patient-specific treatment. Over the past year, Viviano has worked to develop a fully-automated method for identifying patients with schizophrenia and comorbid severe cognitive impairment, as well as a method for predicting Alzheimer’s onset.
-
-[Download CV](https://github.com/josephdviviano/resume/blob/master/jdv-cv.pdf?raw=true) - [Personal Website](http://www.viviano.ca)
+Grace Jacobs (BSc, Biomedical Science, University of Ottawa) is a third year PhD candidate in the Institute of Medical Science under Dr. Voineskos’ supervision. Her work focuses on youth with psychosis spectrum symptoms, and aims to understand the neural mechanisms underlying symptom development, as well as sex-specific differences. Jacobs uses structural and functional MRI data to characterize connectivity of a circuit involving the striatum, thalamus and cortical areas. She asks if activity alterations known  to occur in adult chronic schizophrenia can also be seen during critical neurodevelopmental periods. The hope is that, if this circuit is an early biomarker for schizophrenia, identifying it and understanding its underlying mechanisms can improve illness risk detection and allow personalized intervention in youth.
 
 
 Sonja Stojanovski, B.Sc.
@@ -129,7 +184,7 @@ Sonja Stojanovski, B.Sc.
         <a href="/images/ppl.s.stojanovski.jpg"><img src="/images/ppl.s.stojanovski.jpg"></a>
 </figure>
 
-Sonja Stojanovski (BSc Neuroscience, Psychology, & Physiology, University of Toronto) is a first-year Master's student in the Department of Physiology working with lab alumnus Dr. Anne Wheeler. Over the past year, Stojanovski collaborated with the lab as a research assistant to explore how traumatic brain injuries (TBI) affects the etiology of ADHD. Specially, she investigated if TBI alters diffusion properties of white matter and volumes of subcortical structures in a pediatric population sample, in order to understand how alterations may relate to later ADHD symptoms. A paper reporting her findings is currently under preparation and features many Kimel Lab members as coauthors. Stojanovski recently won a Sickkids Restracomp scholarship for three consecutive terms starting this fall, as well as a University of Toronto Travel Award, and a Canadian TBI Research Consortium Travel award to present at the consortia's private meeting.  Stojanovski looks forward to a new collaboration with the lab for which she will lab alumnus Dr. Arash Nazeri's Superficial White Matter methods to identify how TBI affects these structures in youth and the elderly.
+Sonja Stojanovski (BSc Neuroscience, Psychology, & Physiology, University of Toronto) is a second-year Doctoral Candidate in the Department of Physiology working with lab alumnus Dr. Anne Wheeler. Over the past year, Stojanovski collaborated with current lab members and lab alumnus Dr. Arash Nazeri's to apply his Superficial White Matter methods to identify how TBI affects these structures in youth and the elderly. Recently, Stojanovski collaborated with the lab to explore how traumatic brain injuries (TBI) affects the etiology of ADHD. The paper reporting her findings features many Kimel Lab members as coauthors, and was recently published at Biological Psychiatry. Stojanovski recently won the Margaret & Howard GAMBLE Research Grant for three consecutive terms starting this fall, and holds Sickkids Restracomp scholarship for the rest of her degree. Stojanovski looks forward to continued collaboration with the lab.
 
 Navona Calarco, B.A.H.
 ----------------------
@@ -137,7 +192,8 @@ Navona Calarco, B.A.H.
         <a href="/images/ppl.n.calarco.jpg"><img src="/images/ppl.n.calarco.jpg"></a>
 </figure>
 
-Navona Calarco (BA Philosophy, University of Toronto; BA Cognitive Science, York University) is a Research Analyst. Calarco assists with data management and quality control for several studies in the lab. In the past year, she has analyzed clinical, cognitive, and imaging data for several ongoing projects, and contributed to the preparation of presentations, posters, and manuscripts. Calarco is most interested in understanding the theory underlying various imaging and statistical methods, and what these methods can and cannot tell us about human cognition.
+Calarco (BA Philosophy, University of Toronto; BA Cognitive Science, York University) is starting an MSc. in the Institute of Medical Science program, under the direction of Dr. Voineskos, after spending three years in the lab as an RA. Her thesis work will support the central aims of Dr. Voineskos’ OMHF-funded longitudinal study examining the neurobiology of persistent negative symptoms (PNS) in first-episode psychosis. Specifically, Navona will describe disruptions in white matter network circuitry, and test if these disruptions can be used by a machine learning classifier to accurately predict which individuals will go on to develop PNS. If successful, this work will advance early identification and inform intervention efforts. This project was funded by CIHR CGS-M and CAMH’s Discovery Fund award. Navona will also work as an RA for lab alumnus and collaborator Dr. Yuliya Nikolova, on a project aiming to test the “accelerated aging” hypothesis of depression.
+
 
 Judy Kwan, B.Sc.
 ----------------
@@ -146,15 +202,6 @@ Judy Kwan, B.Sc.
 </figure>
 
 Judy Kwan (BSc., Animal Physiology, University of Toronto) is a Research Analyst working on both SPINS and STOP-PD. For both studies, she takes the lead collecting neuropsychological and social cognitive assessments from research participants, and coordinating shared visits for the sample collection lab and MRI. Kwan is also responsible for providing training to new study staff.
-
-Sinead Ramsaroop
-----------------
-
-<figure>
-        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
-</figure>
-
-Sinead Ramsaroop (BA, Psychology, York University, expected 2017) spends two days each week with the lab to provide administrative support to its students, staff, and Dr. Voineskos. She appreciates that her role affords her an inside view of hospital bureaucracy, academic administration, and the scientific process. Ramsaroop is also very committed to community advocacy, and outside of the lab, runs her own charity called Project Reset, which helps facilitate a psycho-education treatment program for women accessing city shelters.
 
 
 Dielle Miranda, MA (Clin Psy)
@@ -166,6 +213,16 @@ Dielle Miranda, MA (Clin Psy)
 
 Alumni
 ======
+
+Sinead Ramsaroop
+----------------
+
+<figure>
+        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+</figure>
+
+Sinead Ramsaroop (BA, Psychology, York University, expected 2017) spends two days each week with the lab to provide administrative support to its students, staff, and Dr. Voineskos. She appreciates that her role affords her an inside view of hospital bureaucracy, academic administration, and the scientific process. Ramsaroop is also very committed to community advocacy, and outside of the lab, runs her own charity called Project Reset, which helps facilitate a psycho-education treatment program for women accessing city shelters.
+
 
 Rutwik Bangali
 --------------
@@ -380,3 +437,14 @@ Dr. Tina Roostaei, M.D., M.P.H.
 </figure>
 
 Dr. Tina Roostaei (MD, Tehran University of Medical Sciences) completed a postdoctoral fellowship in imaging-genetics in neurodegenerative disorders under the mentorship of Dr. Voineskos in 2016. She has now joined the Center for Translational and Computational Neuroimmunology, Columbia University, New York, as a postdoctoral research scientist. Tina is continuing her studies on the genetic basis of susceptibility and progression of brain neurodegenerative disorders, with focus on the functional genomics of Multiple Sclerosis and Alzheimer’s disease. Her goal is to contribute to the advancement of understanding of the pathophysiology of these brain disorders and to find targets for their treatment and prevention.
+
+
+
+Alumni
+------------------------
+Nikhil Bhagwat, M.Sc
+Amy Miles, MA
+
+Vincent Man, BSc
+
+Joseph Viviano, M.Sc
