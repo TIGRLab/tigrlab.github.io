@@ -74,6 +74,17 @@ Dr. Christin Schifani, Ph.D
 Dr. Schifani (PhD, Neuroscience, Ruprecht-Karls University of Heidelberg) joined the lab in September 2018. She will be using advanced MRI techniques to work with data from the rTMS-WM study. Schifani’s work will first explore the impact of rTMS on the structure of the cortex, using a cutting-edge method called Neuritic Orientation Dispersion and Density Imaging (NODDI). Next, Schifani intends to explore how rTMS changes the functional brain networks underlying working memory function. With this, we aim to improve understanding of the therapeutic mechanisms of rTMS.  Data collection for rTMS-WM is almost completed, and analyses will begin shortly.
 
 
+Dr. John Anderson, Ph.D
+-----------------------------
+<figure>
+        <a href="/images/ppl.j.anderson.jpg"><img src="/images/ppl.j.anderson.jpg"></a>
+</figure>
+
+Depression is known to be a significant risk factor for conversion from healthy aging to mild cognitive impairment (MCI), and from MCI to Alzheimer's Disease (AD).  The pathways affected by depression and dementia are thought to overlap; however, evidence linking the two is tenuous.  At the Kimel lab at CAMH, I am exploring how depression affects grey and white matter microstructure across the spectrum of healthy aging to dementia using multi-shell DWI acquisitions. We hope that by identifying common pathways underlying depression and dementia, we can identify individuals at-risk for dementia earlier, and perhaps prevent conversion by treating the depressive symptoms.   
+
+
+
+
 
 
 Michael Joseph, M.Sc
