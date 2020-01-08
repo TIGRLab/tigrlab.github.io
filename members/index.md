@@ -186,6 +186,29 @@ Grace Jacobs, B.Sc
 Grace Jacobs (BSc, Biomedical Science, University of Ottawa) is a third year PhD candidate in the Institute of Medical Science under Dr. Voineskos’ supervision. Her work focuses on youth with psychosis spectrum symptoms, and aims to understand the neural mechanisms underlying symptom development, as well as sex-specific differences. Jacobs uses structural and functional MRI data to characterize connectivity of a circuit involving the striatum, thalamus and cortical areas. She asks if activity alterations known  to occur in adult chronic schizophrenia can also be seen during critical neurodevelopmental periods. The hope is that, if this circuit is an early biomarker for schizophrenia, identifying it and understanding its underlying mechanisms can improve illness risk detection and allow personalized intervention in youth.
 
 
+
+
+Ella Wiljer
+----------------
+<figure>
+        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+</figure>
+
+Wiljer (BSc Molecular Biology and Genetics, expected 2021) returned to the lab for a third year as a summer student. Under the supervision of Dr. Dickie, she performed an investigation of population anatomical variability within and between a set of brain atlases frequently used in clinical resting state studies. She analysed cortical folding and sulcal depth patterns in these atlases using the publically available Human Connectome Project (HCP) dataset. She evaluated the degree of similarity from correlation matrices of individual participants across atlases. Wiljer looks forward to publishing her findings in a paper currently in preparation.   
+
+
+
+
+
+Anagha Vadarevu
+----------------
+<figure>
+        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+</figure>
+
+Anagha (BSc- Molecular Biology and Biotechnology, University of Toronto Scarborough, expected 2021) joined the lab as a co-op student for the September to December 2019 term. Under the supervision of Dr. Hawco she will be working on data analysis and quality control of the NEUR study, which involves analyzing TMS-fMRI data collected from both healthy participants and participants with Schizophrenia. The goal is to be able to create an “Open Science” framework where the data can be uploaded to a repository and shared with other researchers.
+
+
 Sonja Stojanovski, B.Sc.
 ------------------------
 
@@ -225,6 +248,17 @@ Dielle Miranda, MA (Clin Psy)
 
 Alumni
 ======
+
+Salim Mansour
+----------------
+
+<figure>
+        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+</figure>
+
+Salim (BSc Computer Science, University of Toronto Scarborough, expected 2020) joined the lab as a co-op student for the May to August 2019 term. Under the supervision of Drs. Forde and Hawco, he preprocessed diffusion-weighted data for their CARTBIND, TMS_fMRI, COMPULS, and NEUR studies.
+In collaboration with Michael Joseph, he also developed efficient and customizable pipelines under the Nipype framework for DWI preprocessing and tractography generation. He also configured the deep learning method Synb0-DISCO to work with the lab's system, generating synthesized b0s to open up new opportunies for DWI preprocessing.
+
 
 Sinead Ramsaroop
 ----------------
@@ -327,7 +361,8 @@ Dawson Overton, M.Sc
 	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
 </figure>
 
-Dawson Overton (BSc, Computer Science, University of Toronto, MSc, Cognitive Neuroscience, University of Toronto) is interested in the characterization and identification of psychosis spectrum disorders using the BOLD signal and ASL neuroimaging data, especially using predictive computational techniques, such as support vector machines, neural networks, and other machine learning models. He recently left the lab to attend medical school at the Schulich School of Medicine.
+Dawson Overton (BSc, Computer Science, University of Toronto, MSc, Cognitive Neuroscience, University of Toronto) is interested in the characterization and identification of psychosis spectrum disorders using the BOLD signal and ASL neuroimaging data, especially using predictive computational techniques, such as support vector machines, neural networks, and other machine learning models. He most recently worked in the lab in summer 2019 as a research student, and is in his third year of medical school at the Schulich School of Medicine in London ON.
+
 
 Daniel Felsky, Ph.D
 -------------------
@@ -335,7 +370,7 @@ Daniel Felsky, Ph.D
 	<a href="/images/ppl.d.felsky.jpg"><img src="/images/ppl.d.felsky.jpg"></a>
 </figure>
 
-Dr. Daniel Felsky (PhD, Institute of Medical Science, University of Toronto) completed his doctoral training under Dr. Voineskos in 2016, and has since completed a productive first year of his postdoctoral fellowship at Brigham and Women’s Hospital and Harvard Medical School, and recently transitioned to a postdoctoral scientist position in the newly founded Center for Translational and Computational Neuroimmunology at Columbia University Medical Center. In addition, Dr. Felsky is continuing his investigations into the complex genomic foundations of aging and Alzheimer’s disease as an associate scientist at the Broad Institute of MIT and Harvard. Since starting his fellowship, Dr. Felsky has published four peer-reviewed articles, been invited to speak at three national and international conferences, and, in 2016, was awarded the CIHR Institute of Aging Fellowship Prize of Excellence in Research on Aging.
+Dr. Daniel Felsky (PhD, Institute of Medical Science, University of Toronto) completed his doctoral training under Dr. Voineskos in 2016, and has since completed a productive first year of his postdoctoral fellowship at Brigham and Women’s Hospital and Harvard Medical School, and recently transitioned to a postdoctoral scientist position in the newly founded Center for Translational and Computational Neuroimmunology at Columbia University Medical Center. In addition, Dr. Felsky is continuing his investigations into the complex genomic foundations of aging and Alzheimer’s disease as an associate scientist at the Broad Institute of MIT and Harvard. Since starting his fellowship, Dr. Felsky has published four peer-reviewed articles, been invited to speak at three national and international conferences, and, in 2016, was awarded the CIHR Institute of Aging Fellowship Prize of Excellence in Research on Aging. Recently, Dr. Felsky has returned to CAMH as the Head of Whole Person Modeling at the Krembil Centre for Neuroinformatics. 
 
 Julie Winterburn, M.Sc
 ----------------------
