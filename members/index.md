@@ -29,7 +29,7 @@ Dr. Colin Hawco, Ph.D
 	<a href="/images/ppl.c.hawco.jpg"><img src="/images/ppl.c.hawco.jpg"></a>
 </figure>
 
-Dr. Hawco (PhD, Neuroscience, McGill University) is a project scientist. He develops new approaches to uncover meaningful patterns of individual variability in complex neuroimaging data. He hopes this work will lead to better understanding of biological variability in patient samples, and inform personalized medicine approaches in psychiatry. In 2018, Dr. Hawco was appointed to the Department of Psychiatry as an Assistant Professor, published six papers (four as first author) and four conference poster presentations. Dr. Hawco has also submitted his first large project grants as senior investigator to CIHR and the National Institute of Mental Health, developing neuroimaging markers to predict response to brain stimulation therapies.
+Dr. Hawco (PhD, Neuroscience, McGill University) is an independent scientist at CAMH's Brain Health Imaging Centre. He develops new approaches to uncover meaningful patterns of individual variability in complex neuroimaging data. He hopes this work will lead to better understanding of biological variability in patient samples, and inform personalized medicine approaches in psychiatry. In 2018, Dr. Hawco was appointed to the Department of Psychiatry.Dr. Hawco also was a co-Principal Investigator on grant funded by the National Institute of Mental Health in the US, using brain imaging to better understand magnetic seizure therapy, a new and powerful treatment for depression. 
 
 [ResearchGate](http://www.researchgate.net/profile/Colin_Hawco)
 
@@ -39,7 +39,8 @@ Dr. Erin W. Dickie, Ph.D
 	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.e.dickie.jpeg"></a>
 </figure>
 
-Dr. Erin Dickie (PhD, Neurological Sciences, McGill University) is a Project Scientist. Dr. Dickie’s research focus is personalized connectomics, or the ability to map brain organization at the level of the individual. She recently published a paper in Biological Psychiatry, finding that personalized brain mapping might facilitate biomarker discovery. In this paper, she introduced a novel tool for mapping neurodiversity (PINT), and showed that the brains of those affected by autism are more variable in their organization than those of typically developing controls. Dr. Dickie was recently awarded a NARSAD Young Investigator Award to investigate how individual mapping of brain function may be a critical first step for the design of targets for neurostimulation therapy. Dr. Dickie also founded the “ciftify” open software framework for surface-based analyses of MR data, with collaboration from the developers of the Human Connectome Project. She serves as an invited instructor and member in international initiatives for education and best scientific practices, including the International Neuroinformatics Coordinating Facility (INCF) working group for Reproducibility and Best Practices in Human Brain Imaging.
+Dr. Erin Dickie (PhD, Neurological Sciences, McGill University) is a Project Scientist. Dr. Dickie’s research focus is personalized connectomics, or the ability to map brain organization at the level of the individual. Dr. Dickie received a NARSAD Young Investigator Award to investigate how personalized mapping may be a critical first step for the design of targets for neurostimulation therapy.  Dr. Dickie founded the “ciftify” open software framework for surface-based analyses of MR data, collaborating with the Human Connectome Project. A paper describing this technique was recently published in NeuroImage. This year, Dr. Dickie was appointed to the Department of Psychiatry as Assistant Professor as well as a cross-appointment with the Krembil Centre for Neuroinformatics. She is an invited instructor and member of international initiatives for education and best scientific practices.
+
 
 
 
@@ -49,7 +50,7 @@ Dr. Lindsay Oliver, Ph.D
         <a href="/images/ppl.l.oliver.jpg"><img src="/images/ppl.l.oliver.jpeg"></a>
 </figure>
 
-Dr. Lindsay Oliver (PhD, Neuroscience, University of Western Ontario) is a postdoctoral fellow. Oliver’s work focuses on the neural circuitry and behavioural correlates of social cognition across psychiatric and neurologic disorders. Oliver is currently using behavioural modeling to examine the structure of social cognition in individuals with schizophrenia and healthy controls from the SPINS dataset. Her recently published work used structural equation modeling to identify lower-level (e.g., emotion recognition) and higher-level (e.g., inferring others' intentions) social abilities. Oliver revealed an association between these higher-level abilities and everyday functioning in schizophrenia spectrum disorder and healthy control groups. Now, Dr. Oliver is incorporating brain imaging data to understand neural networks underlying social cognitive deficits. The overall goal is to identify biomarkers of social cognitive impairment to inform targeted treatment options for these symptoms.
+Dr. Oliver works with data from the SPINS project, exploring the neural circuitry and behavioural correlates of social cognition across people with schizophrenia spectrum disorders (SSDs) and healthy individuals. The overall goal is to identify biomarkers of social cognitive impairment to inform intervention and targeted treatment options. She has been using advanced statistical analyses to detect brain networks involved in social cognition and examine their interaction during naturalistic social processing as a function of lower-level (e.g., emotion recognition) and higher-level (e.g., inferring others' intentions) social abilities. Results suggest that network segregation may be particularly important for social cognitive performance across individuals with SSDs and healthy controls. Dr. Oliver's next project aims to disentangle brain-behaviour relationships during higher- and lower-level social cognitive fMRI tasks across an even larger group of SSDs and controls.
 
 
 
@@ -60,18 +61,8 @@ Hajer Nakua, BSc.
         <a href="/images/hajer_nakua.jpg"><img src="/images/hajer_nakua.jpg"></a>
 </figure>
 
-Hajer Nakua (BSc. Psychology, Neuroscience, & Behaviour, McMaster University) joined the lab as a Master’s student in September. She hopes to explore the connections between the cerebral cortex and amygdala in children and adolescents with neurodevelopmental disorders; specifically, obsessive-compulsive disorder (OCD), autism spectrum disorder (ASD), and attention-deficit/hyperactivity disorder (ADHD). By comparing these connections with their behavioural correlates, we can better understand the mechanisms of disease and create more effective treatment plans.
+Hajer Nakua (BSc. Psychology, Neuroscience, & Behaviour, McMaster University) is a second year Masters student in the lab.  Her main research focuses on understanding the brain-behaviour relationship between the cortico-amygdalar network and externalizing/internalizing behaviour in children with neurodevelopmental disorders. She uses multi-modal imaging (structural, functional and diffusion) and large datasets featuring children diagnosed with many different types of neurodevelopmental disorders. She is also interested in improving quality control procedures for brain imaging acquisitions. 
 
-
-
-Dr. Christin Schifani, Ph.D
------------------------------
-<figure>
-        <a href="/images/Christin_schifani.jpg"><img src="/images/Christin_schifani.jpg"></a>
-</figure>
-
-
-Dr. Schifani (PhD, Neuroscience, Ruprecht-Karls University of Heidelberg) joined the lab in September 2018. She will be using advanced MRI techniques to work with data from the rTMS-WM study. Schifani’s work will first explore the impact of rTMS on the structure of the cortex, using a cutting-edge method called Neuritic Orientation Dispersion and Density Imaging (NODDI). Next, Schifani intends to explore how rTMS changes the functional brain networks underlying working memory function. With this, we aim to improve understanding of the therapeutic mechanisms of rTMS.  Data collection for rTMS-WM is almost completed, and analyses will begin shortly.
 
 
 Dr. John Anderson, Ph.D
@@ -83,6 +74,22 @@ Dr. John Anderson, Ph.D
 Depression is known to be a significant risk factor for conversion from healthy aging to mild cognitive impairment (MCI), and from MCI to Alzheimer's Disease (AD).  The pathways affected by depression and dementia are thought to overlap; however, evidence linking the two is tenuous.  At the Kimel lab at CAMH, I am exploring how depression affects grey and white matter microstructure across the spectrum of healthy aging to dementia using multi-shell DWI acquisitions. We hope that by identifying common pathways underlying depression and dementia, we can identify individuals at-risk for dementia earlier, and perhaps prevent conversion by treating the depressive symptoms.   
 
 
+Dr. Hideaki Tani, MD, PhD
+-----------------------------
+<figure>
+        <a href="/images/"><img src="/images/"></a>
+</figure>
+
+Dr. Tani (MD, PhD in Medicine, Keio University School of Medicine, Japan) joined the lab in April 2019 as a postdoctoral fellow. Dr. Tani studies the effect of antipsychotics on brain metabolite change compared with placebo using proton magnetic resonance spectroscopy (1H-MRS) in patients with psychotic depression. He also investigates the neural correlates between neurochemical findings and structural connectivity assessed with diffusion tensor imaging (DTI). These works will contribute to our knowledge on the biological effects of antipsychotics on the brain, as well as improve the neuroscientific understanding of how antipsychotic medication change brain function and structure in treatment response.
+
+
+Dr. Iska Moxon-Emre, PhD
+-----------------------------
+<figure>
+        <a href="/images/"><img src="/images/"></a>
+</figure>
+
+Dr. Moxon-Emre (PhD, Psychology, University of Toronto) joined the lab in April 2019. Dr. Moxon-Emre studies how neurobiology contributes to cognitive processes that influence social/emotional behaviour, and ultimately functional outcomes. Dr. Moxon-Emre will be working with the SPIN-ASD dataset, and will utilize multimodal neuroimaging combined with an extensive battery to evaluate social cognition in individuals with autism and schizophrenia, to identify patterns of brain-behaviour relationships that cut across these diagnoses and relate to social cognition. Understanding the links between brain structure, function and behaviour may help develop targeted treatments to improve outcomes in persons with autism and schizophrenia where few treatment options exist.
 
 
 
@@ -99,15 +106,6 @@ Michael Joseph, M.Sc
 Joseph (BSc, Biology & Psychology, McMaster University; MSc, Physiology, University of Toronto) is a Research Analyst. He assists with improving the lab's MRI data management and quality control software. Michael previously performed a similar role at the Ontario Brain Institute, where he specialized in neuroimaging and clinical data collection databases. To this end, Michael teaches a monthly introductory course to train the hospital's research staff and scientists in using databases for their research projects. Michael is also involved in managing SPINS-ASD: a new study comparing autism-spectrum and schizophrenia-spectrum disorders led by lab collaborator Dr. Stephanie Ameis. Michael's primary interests lie in developing new software to automate MRI data analysis and understanding the statistical techniques involved.
 
 
-Dr. Natalie Forde, Ph.D
------------------------------
-
-<figure>
-        <a href="/images/natalie_forde.jpg"><img src="/images/natalie_forde.jpg"></a>
-</figure>
-
-
-Dr. Forde (BSc Chemistry, University College Cork, Ireland; MSc Neuropharmacology, National University of Ireland, Galway; PhD Psychiatry, University of Groningen, the Netherlands) joined the lab in January 2018 as a post-doctoral research fellow. Dr. Forde is interested in symptoms that appear across different neurodevelopmental disorders and investigates their neural correlates by integrating imaging data from multiple modalities. She uses this multi-modal approach to better understand brain connectivity, the relationship between brain structure and function, and the way this all relates to symptoms of neurodevelopmental disorders. Forde uses the uniquely large Province of Ontario Neurodevelopmental Disorders (POND) Network dataset of children and adolescents with various neurodevelopmental disorders to identify biomarkers that relate to symptoms across disorders. In the future, this may help design targeted interventions like transcranial magnetic stimulation to improve cross disorder symptoms and long-term outcomes for those with neurodevelopmental disorders. Dr. Forde was awarded a CAMH Discovery Fund award for this proposal.
 
 
 Gabrielle Herman, B.Sc
@@ -124,7 +122,8 @@ Jerrold Jeyachandra, M.Sc
         <a href="/images/jerrold_jeyachandra.jpg"><img src="/images/jerrold_jeyachandra.jpg"></a>
 </figure>
 
-Jeyachandra (M.Sc, Science, Queens University) joined the lab as a Research Analyst. He is responsible for maintaining and expanding upon the lab’s computational pipelines for processing imaging data. In addition, he manages the analysis of phantom data, which provides critical insight into scanner performance across the many research centres involved in the lab's studies. Jeyachandra is also interested in utilizing computational techniques to improve precision in therapeutic neurostimulation. To create personalized treatment, he is working to bringing together techniques for modeling rTMS-induced electrical fields with characterizing individualized resting state activity.
+Jeyachandra (M.Sc, Science, Queens University) joined the lab as a Research Analyst. He is responsible for maintaining and expanding upon the lab’s computational pipelines for processing imaging data. In addition, he manages the analysis of phantom data, which provides critical insight into scanner performance across the many research centres involved in the lab's studies. Jeyachandra is also interested in utilizing computational techniques to improve precision in therapeutic neurostimulation. He is the lead developer of BOONStim (Bayesian Optimization of NeuroStimulation), a pipeline utilizing cutting-edge technologies from neuroimaging and TMS electrical field modelling, to automatically calculate an optimal TMS coil position given a target region of any size or shape. 
+
 
 Kevin Witczak
 ----------------------------
@@ -133,7 +132,7 @@ Kevin Witczak
         <a href="/images/kevin_witczak.jpg"><img src="/images/kevin_witczak.jpg"></a>
 </figure>
 
-Witczak joined the lab in June and works to improve the lab’s compute cluster and general data processing resources. His specific focus in the lab has been on the development of reproducible software systems and high performance computing. He maintains and develops programming scripts, troubleshoots computing issues, and is involved with tracking inventory and maintaining the lab’s computers.
+Witczak joined the lab in June of 2018 and works to improve the lab’s compute cluster and general data processing resources. His specific focus in the lab has been on the development of reproducible software systems and high performance computing. He maintains and develops programming scripts, troubleshoots computing issues, and is involved with tracking inventory and maintaining the lab’s computers.
 
 
 
@@ -183,8 +182,26 @@ Grace Jacobs, B.Sc
 	<a href="/images/ppl.g.jacobs.jpg"><img src="/images/ppl.g.jacobs.jpg"></a>
 </figure>
 
-Grace Jacobs (BSc, Biomedical Science, University of Ottawa) is a third year PhD candidate in the Institute of Medical Science under Dr. Voineskos’ supervision. Her work focuses on youth with psychosis spectrum symptoms, and aims to understand the neural mechanisms underlying symptom development, as well as sex-specific differences. Jacobs uses structural and functional MRI data to characterize connectivity of a circuit involving the striatum, thalamus and cortical areas. She asks if activity alterations known  to occur in adult chronic schizophrenia can also be seen during critical neurodevelopmental periods. The hope is that, if this circuit is an early biomarker for schizophrenia, identifying it and understanding its underlying mechanisms can improve illness risk detection and allow personalized intervention in youth.
+Grace Jacobs (BSc, Biomedical Science, University of Ottawa) is in her fourth year of the PhD program at the Institute of Medical Science under Dr. Voineskos’ supervision. She recently published her work (Jacobs et al, Neuropsychopharmacology) using structural and functional MRI data to better understand the neural mechanisms of psychosis symptom development in youth, including sex and age dependent differences. Jacobs is currently studying neurodevelopmental disorders ADHD, ASD, and OCD, which have many overlaps in symptoms, genetic risk, and neurobiology as well as tremendous variation in presentation within disorder. Her work focuses on integrating behavioural and multimodal structural neuroimaging measures from these three groups to identify data-driven subgroups that cut across diagnoses and have distinct biological profiles. Potentially, this can one day change how we define diagnostic labels altogether.
 
+
+Jovanka Skocic
+----------------
+<figure>
+        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+</figure>
+
+Jovanka Skocic (BA Psychology & Anthropology, University of Toronto) joined the lab as a Research Analyst in September 2019.  She will be assisting in utilizing and streamlining the lab’s existing pipelines for processing multi-modal imaging data. Jovanka performed a similar role at the Hospital for Sick Children, where she explored differences in brain structure and function through Diffusion Tensor Imaging, Magnetization Transfer Imaging, Arterial Spin Labeling and Functional Magnetic Resonance Imaging. Jovanka is interested in making day to day operations more efficient and assists with training and onboarding new staff, REB applications and troubleshooting any issues as they arise. Outside of the lab, Jovanka’s interests include living an active lifestyle and you’ll find her at the yoga studio, dance studio or out for a run.
+
+
+
+Thomas Tan
+----------------
+<figure>
+        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+</figure>
+
+Thomas Tan (Bsc, Psychology & Neuroscience, University of Toronto) returned to the lab as a Research Assistant. He assists with improving the lab’s functional MRI processing pipelines and quality control for several studies in the lab. He has been especially worked with Dr. Ameis and Dr. Hawco to analyze resting and functional MRI scans of rTMS ASD study. He is also involved in managing and analyzing fMRI scans for SPINS study. He is interested in functional networks and hopes to investigate psychiatric disorders by using multimodality imaging techniques.
 
 
 
@@ -195,8 +212,6 @@ Ella Wiljer
 </figure>
 
 Wiljer (BSc Molecular Biology and Genetics, expected 2021) returned to the lab for a third year as a summer student. Under the supervision of Dr. Dickie, she performed an investigation of population anatomical variability within and between a set of brain atlases frequently used in clinical resting state studies. She analysed cortical folding and sulcal depth patterns in these atlases using the publically available Human Connectome Project (HCP) dataset. She evaluated the degree of similarity from correlation matrices of individual participants across atlases. Wiljer looks forward to publishing her findings in a paper currently in preparation.   
-
-
 
 
 
@@ -224,7 +239,8 @@ Navona Calarco, B.A.H.
         <a href="/images/ppl.n.calarco.jpg"><img src="/images/ppl.n.calarco.jpg"></a>
 </figure>
 
-Calarco (BA Philosophy, University of Toronto; BA Cognitive Science, York University) is starting an MSc. in the Institute of Medical Science program, under the direction of Dr. Voineskos, after spending three years in the lab as an RA. Her thesis work will support the central aims of Dr. Voineskos’ OMHF-funded longitudinal study examining the neurobiology of persistent negative symptoms (PNS) in first-episode psychosis. Specifically, Navona will describe disruptions in white matter network circuitry, and test if these disruptions can be used by a machine learning classifier to accurately predict which individuals will go on to develop PNS. If successful, this work will advance early identification and inform intervention efforts. This project was funded by CIHR CGS-M and CAMH’s Discovery Fund award. Navona will also work as an RA for lab alumnus and collaborator Dr. Yuliya Nikolova, on a project aiming to test the “accelerated aging” hypothesis of depression.
+Calarco (BA Philosophy, University of Toronto; BA Cognitive Science, York University) is entering the second year of an MSc in the Institute of Medical Science program, under the direction of Dr. Voineskos. Her thesis work supports Dr. Voineskos’ OMHF-funded longitudinal study examining the neurobiology of persistent negative symptoms (PNS) in first-episode psychosis. Specifically, Navona is working to describe disruptions in white matter network circuitry, and test if these disruptions can be used by a machine-learning classifier to accurately predict who will go on to develop PNS. If successful, this work will advance early identification and inform intervention efforts. This project was funded by OGS and a Cleghorn Award for Schizophrenia Research. Navona is also working as an RA for lab alumnus Dr. Yuliya Nikolova, on a project aiming to test the usefulness of neuromelanin as a biomarker of depression in older adults.
+
 
 
 Judy Kwan, B.Sc.
@@ -248,6 +264,40 @@ Dielle Miranda, MA (Clin Psy)
 
 Alumni
 ======
+
+
+Dr. Christin Schifani, Ph.D
+-----------------------------
+<figure>
+        <a href="/images/Christin_schifani.jpg"><img src="/images/Christin_schifani.jpg"></a>
+</figure>
+
+
+Dr. Schifani (PhD, Neuroscience, Ruprecht-Karls University of Heidelberg) joined the lab in September 2018. She used advanced MRI techniques to work with data from the rTMS-WM study. Schifani’s work explored the impact of rTMS on the structure of the cortex, using a cutting-edge method called Neuritic Orientation Dispersion and Density Imaging (NODDI). Dr. Schifani now works as a Project Scientist in the CAMH PET Centre, collaborating with Dr. Neil Vasdev.
+
+
+
+Dr. Natalie Forde, Ph.D
+-----------------------------
+
+<figure>
+        <a href="/images/natalie_forde.jpg"><img src="/images/natalie_forde.jpg"></a>
+</figure>
+
+
+Dr. Forde (BSc Chemistry, University College Cork, Ireland; MSc Neuropharmacology, National University of Ireland, Galway; PhD Psychiatry, University of Groningen, the Netherlands) joined the lab in January 2018 as a post-doctoral research fellow. Dr. Forde is interested in symptoms that appear across different neurodevelopmental disorders and investigates their neural correlates by integrating imaging data from multiple modalities. Forde uses the uniquely large Province of Ontario Neurodevelopmental Disorders (POND) Network dataset of children and adolescents with various neurodevelopmental disorders to identify biomarkers that relate to symptoms across disorders. In the future, this may help design targeted interventions like transcranial magnetic stimulation to improve cross disorder symptoms and long-term outcomes for those with neurodevelopmental disorders.
+
+
+
+Sophie Mulsant
+----------------
+
+<figure>
+        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+</figure>
+
+Mulsant (BSc Pharmacology, McGill, expected 2022) joined the lab as a summer student in 2019. She worked with Dr. Dickie to organize the data and learn coding skills. She aided with quality control for multiple lab datasets, primary for STOP-PD under the supervision of Dr. Nick Neufeld. 
+
 
 Salim Mansour
 ----------------
