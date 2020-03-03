@@ -54,6 +54,18 @@ Dr. Oliver works with data from the SPINS project, exploring the neural circuitr
 
 
 
+
+Dr. Peter Zhukovsky, Ph.D
+------------------------
+<figure>
+        <a href="/images/"><img src="/images/"></a>
+</figure>
+
+Dr. Peter Zhukovsky (PhD, Experimental Psychology and Psychiatry, University of Cambridge, UK) is a postdoctoral fellow. Peter’s work focuses on the neurobiological mechanisms of major depressive disorder, particularly on late-life treatment resistant depression. In particular, he uses whole brain structural and functional connectivity to identify depression “biotypes” in large scale databases (UK Biobank) and predict cognitive outcomes in a depression treatment trial (OPTIMUM dataset). He combines functional connectivity measures from resting-state fMRI and structural connectivity measures from morphometric similarity mapping and diffusion weighted images with advanced statistical approaches such as partial least squares, clustering and deep neural networks. He hopes to reveal the associations between brain connectivity, cognition and clinical symptoms. 
+
+
+
+
 Hajer Nakua, BSc.
 ----------------------------
 
