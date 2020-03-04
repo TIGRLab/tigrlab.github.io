@@ -226,6 +226,17 @@ Ella Wiljer
 Wiljer (BSc Molecular Biology and Genetics, expected 2021) returned to the lab for a third year as a summer student. Under the supervision of Dr. Dickie, she performed an investigation of population anatomical variability within and between a set of brain atlases frequently used in clinical resting state studies. She analysed cortical folding and sulcal depth patterns in these atlases using the publically available Human Connectome Project (HCP) dataset. She evaluated the degree of similarity from correlation matrices of individual participants across atlases. Wiljer looks forward to publishing her findings in a paper currently in preparation.   
 
 
+Dr. Christin Schifani, Ph.D
+-----------------------------
+<figure>
+        <a href="/images/Christin_schifani.jpg"><img src="/images/Christin_schifani.jpg"></a>
+</figure>
+
+
+Dr. Schifani (PhD, Neuroscience, Ruprecht-Karls University of Heidelberg) joined the lab in September 2018. She used advanced MRI techniques to work with data from the rTMS-WM study. Schifani’s work explored the impact of rTMS on the structure of the cortex, using a cutting-edge method called Neuritic Orientation Dispersion and Density Imaging (NODDI). Dr. Schifani now works as a Project Scientist in the CAMH PET Centre, collaborating with Dr. Neil Vasdev.
+
+
+
 
 Anagha Vadarevu
 ----------------
@@ -276,17 +287,6 @@ Dielle Miranda, MA (Clin Psy)
 
 Alumni
 ======
-
-
-Dr. Christin Schifani, Ph.D
------------------------------
-<figure>
-        <a href="/images/Christin_schifani.jpg"><img src="/images/Christin_schifani.jpg"></a>
-</figure>
-
-
-Dr. Schifani (PhD, Neuroscience, Ruprecht-Karls University of Heidelberg) joined the lab in September 2018. She used advanced MRI techniques to work with data from the rTMS-WM study. Schifani’s work explored the impact of rTMS on the structure of the cortex, using a cutting-edge method called Neuritic Orientation Dispersion and Density Imaging (NODDI). Dr. Schifani now works as a Project Scientist in the CAMH PET Centre, collaborating with Dr. Neil Vasdev.
-
 
 
 Dr. Natalie Forde, Ph.D
