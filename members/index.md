@@ -58,7 +58,7 @@ Dr. Oliver works with data from the SPINS project, exploring the neural circuitr
 Dr. Peter Zhukovsky, Ph.D
 ------------------------
 <figure>
-        <a href="/images/"><img src="/images/"></a>
+        <a href="/images/ppl.p.zhukovsky.jpg"><img src="/images/ppl.p.zhukovsky.jpg"></a>
 </figure>
 
 Dr. Peter Zhukovsky (PhD, Experimental Psychology and Psychiatry, University of Cambridge, UK) is a postdoctoral fellow. Peter’s work focuses on the neurobiological mechanisms of major depressive disorder, particularly on late-life treatment resistant depression. In particular, he uses whole brain structural and functional connectivity to identify depression “biotypes” in large scale databases (UK Biobank) and predict cognitive outcomes in a depression treatment trial (OPTIMUM dataset). He combines functional connectivity measures from resting-state fMRI and structural connectivity measures from morphometric similarity mapping and diffusion weighted images with advanced statistical approaches such as partial least squares, clustering and deep neural networks. He hopes to reveal the associations between brain connectivity, cognition and clinical symptoms. 
@@ -89,7 +89,7 @@ Depression is known to be a significant risk factor for conversion from healthy 
 Dr. Hideaki Tani, MD, PhD
 -----------------------------
 <figure>
-        <a href="/images/"><img src="/images/"></a>
+        <a href="/images/ppl.h.tani.jpg"><img src="/images/ppl.h.tani.jpg"></a>
 </figure>
 
 Dr. Tani (MD, PhD in Medicine, Keio University School of Medicine, Japan) joined the lab in April 2019 as a postdoctoral fellow. Dr. Tani studies the effect of antipsychotics on brain metabolite change compared with placebo using proton magnetic resonance spectroscopy (1H-MRS) in patients with psychotic depression. He also investigates the neural correlates between neurochemical findings and structural connectivity assessed with diffusion tensor imaging (DTI). These works will contribute to our knowledge on the biological effects of antipsychotics on the brain, as well as improve the neuroscientific understanding of how antipsychotic medication change brain function and structure in treatment response.
@@ -98,7 +98,7 @@ Dr. Tani (MD, PhD in Medicine, Keio University School of Medicine, Japan) joined
 Dr. Iska Moxon-Emre, PhD
 -----------------------------
 <figure>
-        <a href="/images/"><img src="/images/"></a>
+        <a href="/images/Iska_headshot_2018.png"><img src="/images/Iska_headshot_2018.png"></a>
 </figure>
 
 Dr. Moxon-Emre (PhD, Psychology, University of Toronto) joined the lab in April 2019. Dr. Moxon-Emre studies how neurobiology contributes to cognitive processes that influence social/emotional behaviour, and ultimately functional outcomes. Dr. Moxon-Emre will be working with the SPIN-ASD dataset, and will utilize multimodal neuroimaging combined with an extensive battery to evaluate social cognition in individuals with autism and schizophrenia, to identify patterns of brain-behaviour relationships that cut across these diagnoses and relate to social cognition. Understanding the links between brain structure, function and behaviour may help develop targeted treatments to improve outcomes in persons with autism and schizophrenia where few treatment options exist.
@@ -123,7 +123,7 @@ Joseph (BSc, Biology & Psychology, McMaster University; MSc, Physiology, Univers
 Gabrielle Herman, B.Sc
 -------------------
 <figure>
-        <a href="/images/gabrielle_herman.jpg"><img src="/images/gabrielle_herman.jpg"></a>
+        <a href="/images/ppl.g.herman.jpg"><img src="/images/ppl.g.herman.jpg"></a>
 </figure>
 
 Herman (BSc Psychology, Neuroscience, & Behaviour, McMaster University, 2018) joined the lab in May as a research analyst. She assists with data management and quality control for several studies in the lab. She has been especially involved in the OPTIMUM study on late-life depression, and has created a number of tools to track study recruitment. She also manages twice-yearly uploads of imaging and clinical data for the lab’s two NIH R01-funded studies (OPTIMUM and SPINS). Herman has also contributed code to various analysis and data management pipelines. She is interested in neurocognitive predictors of brain activity, and hopes to investigate brain networks and network flexibility.
@@ -151,7 +151,7 @@ Witczak joined the lab in June of 2018 and works to improve the lab’s compute 
 Dr. Neda Rashidi-Ranjbar, M.D., M.Sc
 ------------------------------------
 <figure>
-        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.n.rashidi.jpeg"></a>
+        <a href="/images/ppl.n.rashidi.jpeg"><img src="/images/ppl.n.rashidi.jpeg"></a>
 </figure>
 
 
@@ -162,9 +162,8 @@ Dr. Rashidi (MSc, Cognitive Science, Trento University; MD, University of Tehran
 Mathuvanthi (Mathu) Manogaran
 -------------------
 <figure>
-        <a href="/images/mathuvanthi_manogaran.jpg"><img src/images/mathuvanthi_manogaran.jpg"></a>
+	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
 </figure>
-
 
 Manogaran (BSc Computer Science, University of Toronto Scarborough, expected 2021) joined the lab as a co-op student for the January - May term, and enjoyed it so much she stayed for an additional co-op term until August 2018. In collaboration with Dawn Smith and Dr. Erin Dickie, she supported many aspects of the lab’s computational infrastructure and contributed to software development. She is responsible for creating a program that can convert the lab’s native directory structure to a new reproducible data format (BIDS), and created several portable Docker images for Dr. Dickie’s Ciftify program. Manogaran also upgraded DTI processing pipelines and made several contributions to the lab’s quality control interface.
 
@@ -182,7 +181,7 @@ Dr. Nicholas Neufeld (MSc, University College London; MD, University of Toronto)
 Dawn Smith, B.Sc
 ----------------
 <figure>
-	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpg"></a>
+	<a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
 </figure>
 
 Dawn Smith (BSc Psychology, York University; BSc Computer Science, York University) is a Research Methods Specialist, responsible for improving existing and creating new software to manage MRI data and perform quality control. Smith also works to keep the lab’s technical systems running smoothly in the face of heavy demand and constant change. Smith’s primary interest is in developing and deploying new tools to automate common preprocessing and quality control tasks, and make the computational aspects of imaging analysis easier for the lab’s scientists. Recently, her focus has been on updating the quality control dashboard and its underlying code, and she presented on this facilitated review process at INCF.
@@ -200,7 +199,7 @@ Grace Jacobs (BSc, Biomedical Science, University of Ottawa) is in her fourth ye
 Jovanka Skocic
 ----------------
 <figure>
-        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+        <a href="/images/ppl.j.skocic.jpg"><img src="/images/ppl.j.skocic.jpg"></a>
 </figure>
 
 Jovanka Skocic (BA Psychology & Anthropology, University of Toronto) joined the lab as a Research Analyst in September 2019.  She will be assisting in utilizing and streamlining the lab’s existing pipelines for processing multi-modal imaging data. Jovanka performed a similar role at the Hospital for Sick Children, where she explored differences in brain structure and function through Diffusion Tensor Imaging, Magnetization Transfer Imaging, Arterial Spin Labeling and Functional Magnetic Resonance Imaging. Jovanka is interested in making day to day operations more efficient and assists with training and onboarding new staff, REB applications and troubleshooting any issues as they arise. Outside of the lab, Jovanka’s interests include living an active lifestyle and you’ll find her at the yoga studio, dance studio or out for a run.
@@ -210,7 +209,7 @@ Jovanka Skocic (BA Psychology & Anthropology, University of Toronto) joined the 
 Thomas Tan
 ----------------
 <figure>
-        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+        <a href="/images/ppl.t.tan.jpg"><img src="/images/ppl.t.tan.jpg"></a>
 </figure>
 
 Thomas Tan (Bsc, Psychology & Neuroscience, University of Toronto) returned to the lab as a Research Assistant. He assists with improving the lab’s functional MRI processing pipelines and quality control for several studies in the lab. He has been especially worked with Dr. Ameis and Dr. Hawco to analyze resting and functional MRI scans of rTMS ASD study. He is also involved in managing and analyzing fMRI scans for SPINS study. He is interested in functional networks and hopes to investigate psychiatric disorders by using multimodality imaging techniques.
@@ -220,7 +219,7 @@ Thomas Tan (Bsc, Psychology & Neuroscience, University of Toronto) returned to t
 Ella Wiljer
 ----------------
 <figure>
-        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+        <a href="/images/ppl.e.wiljer.jpg"><img src="/images/ppl.e.wiljer.jpg"></a>
 </figure>
 
 Wiljer (BSc Molecular Biology and Genetics, expected 2021) returned to the lab for a third year as a summer student. Under the supervision of Dr. Dickie, she performed an investigation of population anatomical variability within and between a set of brain atlases frequently used in clinical resting state studies. She analysed cortical folding and sulcal depth patterns in these atlases using the publically available Human Connectome Project (HCP) dataset. She evaluated the degree of similarity from correlation matrices of individual participants across atlases. Wiljer looks forward to publishing her findings in a paper currently in preparation.   
@@ -241,7 +240,7 @@ Dr. Schifani (PhD, Neuroscience, Ruprecht-Karls University of Heidelberg) joined
 Anagha Vadarevu
 ----------------
 <figure>
-        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+        <a href="/images/AnaghaVadarevu_HeadShot.jpeg"><img src="/images/AnaghaVadarevu_HeadShot.jpeg"></a>
 </figure>
 
 Anagha (BSc- Molecular Biology and Biotechnology, University of Toronto Scarborough, expected 2021) joined the lab as a co-op student for the September to December 2019 term. Under the supervision of Dr. Hawco she will be working on data analysis and quality control of the NEUR study, which involves analyzing TMS-fMRI data collected from both healthy participants and participants with Schizophrenia. The goal is to be able to create an “Open Science” framework where the data can be uploaded to a repository and shared with other researchers.
@@ -315,7 +314,7 @@ Salim Mansour
 ----------------
 
 <figure>
-        <a href="/images/ppl.stock.jpeg"><img src="/images/ppl.stock.jpeg"></a>
+        <a href="/images/salim_mansour.png"><img src="/images/salim_mansour.png"></a>
 </figure>
 
 Salim (BSc Computer Science, University of Toronto Scarborough, expected 2020) joined the lab as a co-op student for the May to August 2019 term. Under the supervision of Drs. Forde and Hawco, he preprocessed diffusion-weighted data for their CARTBIND, TMS_fMRI, COMPULS, and NEUR studies.
