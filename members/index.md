@@ -32,7 +32,7 @@ Dr. Colin Hawco, Ph.D
 
 Dr. Hawco (PhD, Neuroscience, McGill University) is an independent scientist at CAMH's Brain Health Imaging Centre. He develops new approaches to uncover meaningful patterns of individual variability in complex neuroimaging data. He hopes this work will lead to better understanding of biological variability in patient samples, and inform personalized medicine approaches in psychiatry. In 2018, Dr. Hawco was appointed to the Department of Psychiatry.Dr. Hawco also was a co-Principal Investigator on grant funded by the National Institute of Mental Health in the US, using brain imaging to better understand magnetic seizure therapy, a new and powerful treatment for depression.
 
-[ResearchGate](http://www.researchgate.net/profile/Colin_Hawco)
+[ResearchGate](https://www.researchgate.net/profile/Colin_Hawco)
 
 
 Dr. Erin W. Dickie, Ph.D
@@ -49,16 +49,8 @@ Dr. Nicholas Neufeld, M.D., M.Sc
 <figure>
     <a href="/images/ppl.n.neufeld.jpg"><img src="/images/ppl.n.neufeld.jpg"></a>
 </figure>
-<!-- 2021-06-21 Nick slacks:
-     "i should pass the appointment to assistant professor and hear back next week
-     can i get back to you later this summer?"
-     Let’s update then. -Kevin
 
-     2021-07-05 update:
-     Nick submits a blurb including his assistant professorship.
-     Ask him if he’s has any more he’d like to add later. -Kevin -->
-
-Nicholas Neufeld (MD, University of Toronto; MSc, University College London) is an Assistant Professor in the Department of Psychiatry, Temerty Faculty of Medicine, University of Toronto, and Clinician Scientist at the Centre for Addiction and Mental Health (CAMH). The core mission of Dr Neufeld’s research program is to investigate the neurobiology of severe mental illness across the lifespan and develop biomarkers, with a specific focus on schizophrenia and depression. Dr Neufeld’s research philosophy centers on integrating multimodal neuroimaging measures within clinical research to develop a comprehensive and impactful understanding of the mechanisms underlying treatment trajectories. An example of this work is the Magnetic Seizure Therapy for Schizophrenia – Neurocircuitry (MAST-Neuro) study funded by a NARSAD Young Investigator Grant (PI: Nicholas Neufeld). This study is embedded within the MAST-Trial, a federally funded clinical trial that compares electroconvulsive therapy and magnetic seizure therapy for Clozapine and non-Clozapine treatment augmentation in patients with treatment resistant-schizophrenia. MAST-Neuro aims to identify neuroimaging biomarkers of therapeutic effects and cognitive side effects in the ongoing MAST-Trial. Fundamentally, the MAST-Trial is positioned to lead to an indication for MST as a next-generation therapy for treatment-resistant schizophrenia, thereby increasing the number of therapeutic options available to the most severely ill patients with schizophrenia. MAST-Neuro is poised to improve our mechanistic understanding of the risks and benefits of this novel brain stimulation intervention and bring the field one step closer to personalized medicine.
+Nicholas Neufeld (MD, University of Toronto; MSc, University College London) is an Assistant Professor in the Department of Psychiatry, Temerty Faculty of Medicine, University of Toronto, and Clinician Scientist at the Centre for Addiction and Mental Health (CAMH). The core mission of Dr Neufeld’s research program is to investigate the neurobiology of severe mental illness across the lifespan and develop biomarkers, with a specific focus on schizophrenia and depression. Dr Neufeld’s research philosophy centres on integrating multimodal neuroimaging measures within clinical research to develop a comprehensive and impactful understanding of the mechanisms underlying treatment trajectories. An example of this work is the Magnetic Seizure Therapy for Schizophrenia – Neurocircuitry (MAST-Neuro) study funded by a NARSAD Young Investigator Grant (PI: Nicholas Neufeld). This study is embedded within the MAST-Trial, a federally funded clinical trial that compares electroconvulsive therapy and magnetic seizure therapy for Clozapine and non-Clozapine treatment augmentation in patients with treatment resistant-schizophrenia. MAST-Neuro aims to identify neuroimaging biomarkers of therapeutic effects and cognitive side effects in the ongoing MAST-Trial. Fundamentally, the MAST-Trial is positioned to lead to an indication for MST as a next-generation therapy for treatment-resistant schizophrenia, thereby increasing the number of therapeutic options available to the most severely ill patients with schizophrenia. MAST-Neuro is poised to improve our mechanistic understanding of the risks and benefits of this novel brain stimulation intervention and bring the field one step closer to personalized medicine.
 
 
 Dr. Lindsay Oliver, Ph.D
@@ -69,7 +61,7 @@ Dr. Lindsay Oliver, Ph.D
 
 Dr. Lindsay Oliver (PhD, Neuroscience, Western University; MSc, Human Cognitive Neuropsychology, University of Edinburgh) works with data from the SPINS project, exploring the neural circuitry and behavioural correlates of social cognition across people with schizophrenia spectrum disorders (SSDs) and healthy individuals. She has been using advanced statistical analyses to detect brain networks involved in social cognition and examine their interaction during naturalistic social processing as a function of lower-level (e.g., emotion recognition) and higher-level (e.g., inferring others’ intentions) social abilities. Her overall goal is to identify biomarkers of social cognitive impairment to inform intervention and targeted treatment options for individuals affected by these debilitating symptoms.
 
-[Google Scholar](https://scholar.google.ca/citations?user=RY3wSMQAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.ca/citations?user=RY3wSMQAAAAJ&hl=en) - [ResearchGate](https://www.researchgate.net/profile/Lindsay-Oliver-3)
 
 
 Dr. Peter Zhukovsky, Ph.D
@@ -98,7 +90,10 @@ Dr. Iska Moxon-Emre, Ph.D
         <a href="/images/ppl.i.moxon-emre.png"><img src="/images/ppl.i.moxon-emre.png"></a>
 </figure>
 
-Dr. Moxon-Emre (PhD, Psychology, University of Toronto) joined the lab in April 2019. Dr. Moxon-Emre studies how neurobiology contributes to cognitive processes that influence social/emotional behaviour, and ultimately functional outcomes. Dr. Moxon-Emre will be working with the SPIN-ASD dataset, and will utilize multimodal neuroimaging combined with an extensive battery to evaluate social cognition in individuals with autism and schizophrenia, to identify patterns of brain-behaviour relationships that cut across these diagnoses and relate to social cognition. Understanding the links between brain structure, function and behaviour may help develop targeted treatments to improve outcomes in persons with autism and schizophrenia where few treatment options exist.
+
+Dr. Moxon-Emre (PhD, Psychology, University of Toronto) is a postdoctoral fellow, investigating the links between brain function and behaviour, in persons with autism and schizophrenia. She is using magnetic resonance spectroscopy (MRS) and functional MRI to examine how non-invasive brain stimulation (repetitive transcranial magnetic stimulation; rTMS) alters brain metabolism, functional connectivity, and depression, in emerging adults with autism. She is also combining multi-modal neuroimaging and social cognition data, from individuals with autism and schizophrenia (SPIN-ASD dataset), to identify patterns of brain-behaviour relations that cut across these diagnoses and relate to social cognition. The overarching goal of Dr. Moxon-Emre’s research is to inform the development of targeted treatments to improve outcomes in clinical populations.
+
+[ResearchGate](https://www.researchgate.net/profile/Iska_Moxon-Emre/research) - [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/iska.moxon-emre.1/bibliography/public/)
 
 
 Michael Joseph, M.Sc
@@ -145,7 +140,7 @@ Dr. Neda Rashidi-Ranjbar, M.D., M.Sc
         <a href="/images/ppl.n.rashidi.jpg"><img src="/images/ppl.n.rashidi.jpg"></a>
 </figure>
 
-Dr. Rashidi (MSc, Cognitive Science, Trento University; MD, University of Tehran) is a doctoral student. She studies brain structure and function among older adults with varying levels of risk for dementia, and examines their connections with cognitive scores. Rashidi-Ranjbar is primarily working with PACt-MD, a multi-center clinical trial that aims to identify stepwise patterns of disease progression in older participants with depression, mild cognitive impairment, and Alzheimer’s Disease. Specifically, Rashidi-Ranjbar will use the three neuroimaging scans provided by each participant over a span of six months to identify structural and functional brain measures associated with the observed delay or prevention of dementia, as well as investigate the effect of cognitive training and brain stimulation on brain structure and function. In the coming year, Dr. Rashidi will use similarity network fusion (SNF), a modeling approach developed by lab collaborator Dr. Anna Goldenberg (SickKids), to identify similarity networks that integrate demographic, cognitive and imaging data. Rashidi anticipates that SNF will identify informative clusters of participants with similar profiles irrespective of diagnosis.
+Dr. Rashidi (MSc, Cognitive Science, Trento University; MD, University of Tehran) is a doctoral student. She studies brain structure and function among older adults with varying levels of risk for dementia, and examines their connections with cognitive scores. Rashidi-Ranjbar is primarily working with PACt-MD, a multi-centre clinical trial that aims to identify stepwise patterns of disease progression in older participants with depression, mild cognitive impairment, and Alzheimer’s Disease. Specifically, Rashidi-Ranjbar will use the three neuroimaging scans provided by each participant over a span of six months to identify structural and functional brain measures associated with the observed delay or prevention of dementia, as well as investigate the effect of cognitive training and brain stimulation on brain structure and function. In the coming year, Dr. Rashidi will use similarity network fusion (SNF), a modeling approach developed by lab collaborator Dr. Anna Goldenberg (SickKids), to identify similarity networks that integrate demographic, cognitive and imaging data. Rashidi anticipates that SNF will identify informative clusters of participants with similar profiles irrespective of diagnosis.
 
 
 Salim Mansour, B.S.c
@@ -189,6 +184,8 @@ Jovanka Skocic
 
 Jovanka Skocic (BA Psychology & Anthropology, University of Toronto) joined the lab as a Research Analyst in September 2019.  She will be assisting in utilizing and streamlining the lab’s existing pipelines for processing multi-modal imaging data. Jovanka performed a similar role at the Hospital for Sick Children, where she explored differences in brain structure and function through Diffusion Tensor Imaging, Magnetization Transfer Imaging, Arterial Spin Labeling and Functional Magnetic Resonance Imaging. Jovanka is interested in making day to day operations more efficient and assists with training and onboarding new staff, REB applications and troubleshooting any issues as they arise. Outside of the lab, Jovanka’s interests include living an active lifestyle and you’ll find her at the yoga studio, dance studio or out for a run.
 
+[ResearchGate](https://www.researchgate.net/profile/Jovanka-Skocic-2)
+
 
 Thomas Tan
 ----------------
@@ -204,10 +201,6 @@ Dr. Christin Schifani, Ph.D
 <figure>
         <a href="/images/ppl.c.schifani.jpg"><img src="/images/ppl.c.schifani.jpg"></a>
 </figure>
-
-<!-- Christin says this is badly out of date,
-    but hasn’t sent anything about how she wants
-    to update it. -Kevin 2021-07-05 -->
 
 Dr. Schifani (PhD, Neuroscience, Ruprecht-Karls University of Heidelberg) joined the lab in September 2018. She used advanced MRI techniques to work with data from the rTMS-WM study. Schifani’s work explored the impact of rTMS on the structure of the cortex, using a cutting-edge method called Neuritic Orientation Dispersion and Density Imaging (NODDI). Dr. Schifani now works as a Project Scientist in the CAMH PET Centre, collaborating with Dr. Neil Vasdev.
 
@@ -228,6 +221,11 @@ Sonja Stojanovski, B.Sc.
 </figure>
 
 Sonja Stojanovski (BSc Neuroscience, Psychology, & Physiology, University of Toronto) is a second-year Doctoral Candidate in the Department of Physiology working with lab alumnus Dr. Anne Wheeler. Over the past year, Stojanovski collaborated with current lab members and lab alumnus Dr. Arash Nazeri's to apply his Superficial White Matter methods to identify how TBI affects these structures in youth and the elderly. Recently, Stojanovski collaborated with the lab to explore how traumatic brain injuries (TBI) affects the etiology of ADHD. The paper reporting her findings features many Kimel Lab members as coauthors, and was recently published at Biological Psychiatry. Stojanovski recently won the Margaret & Howard GAMBLE Research Grant for three consecutive terms starting this fall, and holds Sickkids Restracomp scholarship for the rest of her degree. Stojanovski looks forward to continued collaboration with the lab.
+
+Julia Galluci, HBSc
+-------------------
+
+Julia (HBSc major in Neuroscience & Psychology, minor in Biology) is entering the second year of an MSc at the Institute of Medical Science, under the supervision of Dr. Colin Hawco. Her thesis work aims to examine individual variability in functional brain activity during working memory performance in those with Schizophrenia Spectrum Disorders (SSD). The intent of this project is to make a clinical impact by improving our ability to understand neurocognitive heterogeneity within SSD. Enhancing the field's understanding of the neurobiological diversity in patients with SSD may have implications for the identification of treatment-relevant ‘biotypes’, targeted interventions, and individualized treatment.
 
 
 Navona Calarco, B.A.H.
@@ -411,7 +409,7 @@ Dr. Mallar Chakravarty, Ph.D
 
 Magnetic resonance imaging (MRI) is one of the tools of choice for the analysis of the brain in normally functioning and diseased states. Different MRI acquisition protocols provide excellent contrast and resolution and can be analyzed using automated techniques. The goal of Dr. Chakravarty’s work is to develop and use computational neuroanatomical techniques to understand how the structure of the brain is altered in psychiatric disorders. These techniques include the automated identification of structures and computational metrics that quantify their shape.  He is currently working on adding information from diffusion tensor imaging in order to describe inter-structural connectivity.  Many of these techniques can be used to elucidate phenotypes that can help describe how known risk genes may be affecting brain anatomy and ultimately increasing susceptibility to psychiatric illness.  This work will aid in the early identification and treatment of those at high-risk of developing severe forms of mental illness.
 
-Dr. Chakravarty now heads the [CoBrA Lab](http://cobralab.ca/) at the [Douglas Institute, Montreal](http://www.douglas.qc.ca/?locale=en).
+Dr. Chakravarty now heads the [CoBrA Lab](https://cobralab.ca/) at the [Douglas Institute, Montreal](https://www.douglas.qc.ca/?locale=en).
 
 
 Dr. Tristram Lett, Ph.D
@@ -457,7 +455,7 @@ Tina Behdinan, MSc
     <a href="/images/ppl.t.behdinan.jpg"><img src="/images/ppl.t.behdinan.jpg"></a>
 </figure>
 
-Tina is now persuing her MD at the [Schulich School of Medicine & Dentistry](http://www.schulich.uwo.ca/).
+Tina is now persuing her MD at the [Schulich School of Medicine & Dentistry](https://www.schulich.uwo.ca/).
 
 
 Robert S.C. Amaral, B.Sc
@@ -466,7 +464,7 @@ Robert S.C. Amaral, B.Sc
     <a href="/images/ppl.r.amaral.jpg"><img src="/images/ppl.r.amaral.jpg"></a>
 </figure>
 
-Robert is pursuing graduate studies at the [CoBrA Lab](http://cobralab.ca/) at the [Douglas Institute, Montreal](http://www.douglas.qc.ca/?locale=en).
+Robert is pursuing graduate studies at the [CoBrA Lab](https://cobralab.ca/) at the [Douglas Institute, Montreal](https://www.douglas.qc.ca/?locale=en).
 
 
 Matt Park, B.Sc
@@ -475,7 +473,7 @@ Matt Park, B.Sc
     <a href="/images/ppl.m.park.jpg"><img src="/images/ppl.m.park.jpg"></a>
 </figure>
 
-Matt is now pursuing his MD at the [Schulich School of Medicine & Dentistry](http://www.schulich.uwo.ca/).
+Matt is now pursuing his MD at the [Schulich School of Medicine & Dentistry](https://www.schulich.uwo.ca/).
 
 
 Jon Pipitone, M.Sc
@@ -506,7 +504,7 @@ Dr. Arash Nazeri, M.D.
 
 Dr. Arash Nazeri (MD, Tehran University of Medical Sciences) completed a postdoctoral fellowship under the mentorship of Dr. Voineskos in 2016, and has since started his residency in Diagnostic Radiology at Washington University in St. Louis. Dr. Nazeri has maintained his collaboration with the lab from long distance and continues his research on gray matter tissue microstructure in brain health and disease using diffusion-weighted MRI. He has also recently joined Chen Ultrasound Laboratory in St. Louis as where he works on applications of focused ultrasound on the brain. His primary goal is to developing novel neuro-therapeutic and neuro-diagnostic approaches using focused ultrasound.
 
-[Github](https://github.com/arash-n/) -- [ORCiD](http://orcid.org/0000-0001-6983-0641)
+[Github](https://github.com/arash-n/) -- [ORCiD](https://orcid.org/0000-0001-6983-0641)
 
 
 Dr. Tina Roostaei, M.D., M.P.H.
@@ -551,4 +549,4 @@ Joseph Viviano, M.Sc
 
 Joseph Viviano (BA, Psychology, Queens University; MSc, Biology, York University) is responsible for the design and implementation of a data management platform used by researchers in the lab and beyond, as well as the lab’s general computational infrastructure. Viviano’s role also involves the design and implementation of analytic code used by the lab’s scientists, and the development of novel prognostics tools utilizing MRI scans to guide patient-specific treatment. Over the past year, Viviano has worked to develop a fully-automated method for identifying patients with schizophrenia and comorbid severe cognitive impairment, as well as a method for predicting Alzheimer’s onset.
 
-[Download CV](https://github.com/josephdviviano/resume/blob/master/jdv-cv.pdf?raw=true) - [Personal Website](http://www.viviano.ca)
+[Download CV](https://github.com/josephdviviano/resume/blob/master/jdv-cv.pdf?raw=true) - [Personal Website](https://www.viviano.ca)
