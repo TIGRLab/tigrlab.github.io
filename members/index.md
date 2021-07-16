@@ -131,7 +131,7 @@ Kevin Witczak
         <a href="/images/ppl.k.witczak.jpg"><img src="/images/ppl.k.witczak.jpg"></a>
 </figure>
 
-Kevin Witczak joined the lab in June of 2018 and works to improve the lab’s compute cluster and general data processing resources. His specific focus in the lab has been on the development of reproducible software systems and high performance computing. He maintains and develops programming scripts, troubleshoots computing issues, and is involved with tracking inventory and maintaining the lab’s computers.
+Kevin Witczak joined the lab in June of 2018 and works alongside Dawn Smith to run and improve the lab’s Beowulf cluster and data processing resources. His specific focus has been on the development of reproducible software systems for versioned data management, as well as broadly administering the lab’s Slurm load balancer which enables efficient high performance computing. He maintains and develops custom automation and scripting, troubleshoots computing issues, helps lead the training and development of lab members’ technical skillsets, and is involved with tracking inventory and maintaining the lab’s physical hardware.
 
 
 Dr. Neda Rashidi-Ranjbar, M.D., M.Sc
