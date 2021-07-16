@@ -114,6 +114,17 @@ Jerrold Jeyachandra, M.Sc
 Jeyachandra (M.Sc, Science, Queens University) joined the lab as a Research Analyst. He is responsible for maintaining and expanding upon the lab’s computational pipelines for processing imaging data. In addition, he manages the analysis of phantom data, which provides critical insight into scanner performance across the many research centres involved in the lab's studies. Jeyachandra is also interested in utilizing computational techniques to improve precision in therapeutic neurostimulation. He is the lead developer of BOONStim (Bayesian Optimization of NeuroStimulation), a pipeline utilizing cutting-edge technologies from neuroimaging and TMS electrical field modelling, to automatically calculate an optimal TMS coil position given a target region of any size or shape.
 
 
+Jovanka Skocic
+----------------
+<figure>
+        <a href="/images/ppl.j.skocic.jpg"><img src="/images/ppl.j.skocic.jpg"></a>
+</figure>
+
+Jovanka Skocic (BA Psychology & Anthropology, University of Toronto) joined the lab as a Research Analyst in September 2019.  She will be assisting in utilizing and streamlining the lab’s existing pipelines for processing multi-modal imaging data. Jovanka performed a similar role at the Hospital for Sick Children, where she explored differences in brain structure and function through Diffusion Tensor Imaging, Magnetization Transfer Imaging, Arterial Spin Labeling and Functional Magnetic Resonance Imaging. Jovanka is interested in making day to day operations more efficient and assists with training and onboarding new staff, REB applications and troubleshooting any issues as they arise. Outside of the lab, Jovanka’s interests include living an active lifestyle and you’ll find her at the yoga studio, dance studio or out for a run.
+
+[ResearchGate](https://www.researchgate.net/profile/Jovanka-Skocic-2)
+
+
 Eman Nishat, BSc
 ----------------
 <figure>
@@ -128,7 +139,7 @@ Eman Nishat (BSc Neuroscience, University of Toronto) is a second year Master's 
 Kevin Witczak
 ----------------------------
 <figure>
-        <a href="/images/ppl.k.witczak.jpg"><img src="/images/ppl.k.witczak.jpg"></a>
+        <a href="/images/ppl.k.witczak.png"><img src="/images/ppl.k.witczak.png"></a>
 </figure>
 
 Kevin Witczak joined the lab in June of 2018 and works alongside Dawn Smith to run and improve the lab’s Beowulf cluster and data processing resources. His specific focus has been on the development of reproducible software systems for versioned data management, as well as broadly administering the lab’s Slurm load balancer which enables efficient high performance computing. He maintains and develops custom automation and scripting, troubleshoots computing issues, helps lead the training and development of lab members’ technical skillsets, and is involved with tracking inventory and maintaining the lab’s physical hardware.
@@ -174,17 +185,6 @@ Grace Jacobs, B.Sc
 </figure>
 
 Grace Jacobs (BSc, Biomedical Science, University of Ottawa) is in her fourth year of the PhD program at the Institute of Medical Science under Dr. Voineskos’ supervision. She recently published her work (Jacobs et al, Neuropsychopharmacology) using structural and functional MRI data to better understand the neural mechanisms of psychosis symptom development in youth, including sex and age dependent differences. Jacobs is currently studying neurodevelopmental disorders ADHD, ASD, and OCD, which have many overlaps in symptoms, genetic risk, and neurobiology as well as tremendous variation in presentation within disorder. Her work focuses on integrating behavioural and multimodal structural neuroimaging measures from these three groups to identify data-driven subgroups that cut across diagnoses and have distinct biological profiles. Potentially, this can one day change how we define diagnostic labels altogether.
-
-
-Jovanka Skocic
-----------------
-<figure>
-        <a href="/images/ppl.j.skocic.jpg"><img src="/images/ppl.j.skocic.jpg"></a>
-</figure>
-
-Jovanka Skocic (BA Psychology & Anthropology, University of Toronto) joined the lab as a Research Analyst in September 2019.  She will be assisting in utilizing and streamlining the lab’s existing pipelines for processing multi-modal imaging data. Jovanka performed a similar role at the Hospital for Sick Children, where she explored differences in brain structure and function through Diffusion Tensor Imaging, Magnetization Transfer Imaging, Arterial Spin Labeling and Functional Magnetic Resonance Imaging. Jovanka is interested in making day to day operations more efficient and assists with training and onboarding new staff, REB applications and troubleshooting any issues as they arise. Outside of the lab, Jovanka’s interests include living an active lifestyle and you’ll find her at the yoga studio, dance studio or out for a run.
-
-[ResearchGate](https://www.researchgate.net/profile/Jovanka-Skocic-2)
 
 
 Thomas Tan
