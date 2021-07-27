@@ -8,3 +8,4 @@ _asset_bundler_cache
 .sass-cache
 Gemfile.lock
 archive/
+/TODO.org
