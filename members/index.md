@@ -228,15 +228,6 @@ Julia Galluci, HBSc
 Julia (HBSc major in Neuroscience & Psychology, minor in Biology) is entering the second year of an MSc at the Institute of Medical Science, under the supervision of Dr. Colin Hawco. Her thesis work aims to examine individual variability in functional brain activity during working memory performance in those with Schizophrenia Spectrum Disorders (SSD). The intent of this project is to make a clinical impact by improving our ability to understand neurocognitive heterogeneity within SSD. Enhancing the field's understanding of the neurobiological diversity in patients with SSD may have implications for the identification of treatment-relevant ‘biotypes’, targeted interventions, and individualized treatment.
 
 
-Navona Calarco, B.A.H.
-----------------------
-<figure>
-        <a href="/images/ppl.n.calarco.jpg"><img src="/images/ppl.n.calarco.jpg"></a>
-</figure>
-
-Calarco (BA Philosophy, University of Toronto; BA Cognitive Science, York University) is entering the second year of an MSc in the Institute of Medical Science program, under the direction of Dr. Voineskos. Her thesis work supports Dr. Voineskos’ OMHF-funded longitudinal study examining the neurobiology of persistent negative symptoms (PNS) in first-episode psychosis. Specifically, Navona is working to describe disruptions in white matter network circuitry, and test if these disruptions can be used by a machine-learning classifier to accurately predict who will go on to develop PNS. If successful, this work will advance early identification and inform intervention efforts. This project was funded by OGS and a Cleghorn Award for Schizophrenia Research. Navona is also working as an RA for lab alumnus Dr. Yuliya Nikolova, on a project aiming to test the usefulness of neuromelanin as a biomarker of depression in older adults.
-
-
 Judy Kwan, B.Sc.
 ----------------
 
@@ -279,6 +270,17 @@ Dr. John Anderson, Ph.D
 </figure>
 
 Depression is known to be a significant risk factor for conversion from healthy aging to mild cognitive impairment (MCI), and from MCI to Alzheimer's Disease (AD).  The pathways affected by depression and dementia are thought to overlap; however, evidence linking the two is tenuous.  At the Kimel lab at CAMH, I am exploring how depression affects grey and white matter microstructure across the spectrum of healthy aging to dementia using multi-shell DWI acquisitions. We hope that by identifying common pathways underlying depression and dementia, we can identify individuals at-risk for dementia earlier, and perhaps prevent conversion by treating the depressive symptoms.
+
+
+Navona Calarco, MSc
+----------------------
+<figure>
+        <a href="/images/ppl.n.calarco.jpg"><img src="/images/ppl.n.calarco.jpg"></a>
+</figure>
+
+Navona Calarco (MSc, Medical Science, UofT; BA, Cognitive Science, York University) completed her master's degree under the supervision of Dr. Aristotle Voineskos in December 2021. Her thesis analyzed data from the SPINS schizophrenia project, and established that white matter circuitry is dimensionally and strongly related to both neurocognition and social cognition, consistent with diagnosis, and predictive of functional outcomes. During her MSc, Navona also worked as an RA with lab alumnus Dr. Yuliya Nikolova, linking in vivo neuromelanin-contrast and cognitive performance in late-life depression. Navona is now completing a PhD in Medical Biophysics with Dr. Kâmil Uludağ at Toronto General Hospital. Her goal is to discover neural markers of disease and dysfunction relevant to early detection and intervention efforts.
+
+[Google Scholar](https://scholar.google.ca/citations?user=kE4iBC0AAAAJ&hl=en) - [Website](https://www.navonacalarco.ca/)
 
 
 Dr. Hideaki Tani, MD, Ph.D
