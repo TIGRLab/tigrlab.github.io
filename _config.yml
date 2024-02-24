@@ -20,9 +20,9 @@ gems:
 
 # Site owner
 owner:
-  name: Joseph D Viviano
-  web: http://viviano.ca
-  email: joseph@viviano.ca
+  name: TIGRLab
+  web: https://github.com/TIGRLab
+  email: TIGR.Lab@camh.ca
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json", "vendor"]
