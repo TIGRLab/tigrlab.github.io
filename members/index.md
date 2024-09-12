@@ -80,14 +80,6 @@ Dr. Katie Bingham, M.D., Ph.D
 
 Dr. Bingham (MD, Western University; PhD, University of Toronto) is a Geriatric Psychiatrist and Clinician Investigator with the University Health Network and University of Toronto. Her primary research focus is on cognition and functioning in major depression and related disorders. She joined the Kimel Lab in 2019, after completing her PhD, to gain experience in specialized neuroimaging techniques that can be applied to clinical research.
 
-## <ins>Post-doctoral and Research Fellows
-
-Ju-Chi Yu, PhD
-----------------------------
-
-Dr. Ju-Chi Yu (PhD, University of Texas at Dallas) is a postdoctoral research fellow focusing on developing multivariate techniques and applying them to brain imaging analysis. Currently, Dr. Yu is working on identifying transdiagnostic brain network biomarkers that contribute to the diversity under the diagnoses of Schizophrenia and Autism Spectrum Disorders. This project will provide insights into more sophisticated diagnoses that will be useful for developing personalized treatment plans for people with Schizophrenia and Autism Spectrum Disorders. She also collaborated with international scholars on developing sparsification techniques for multivariate statistical methods. Such development facilitates the interpretation of results from big data such as in brain imaging analysis.
-
-
 Dr. Peter Zhukovsky, Ph.D
 ------------------------
 <figure>
@@ -99,15 +91,16 @@ Dr. Peter Zhukovsky (PhD in Psychology, University of Cambridge) is a Scientist 
 [GitHub](https://github.com/peterzhukovsky/) - [ResearchGate](https://www.researchgate.net/profile/Peter-Zhukovsky/research) - [Twitter](https://twitter.com/peterzhukovsky)
 
 
-## Graduate Students
+## <ins>Post-doctoral and Research Fellows
 
-Hajer Nakua, BSc
+Ju-Chi Yu, PhD
 ----------------------------
-<figure>
-        <a href="/images/ppl.h.nakua.jpg"><img src="/images/ppl.h.nakua.jpg"></a>
-</figure>
 
-Hajer Nakua is a PhD student at the University of Toronto in her final year working with Dr. Stephanie Ameis and Dr. Sean Hill. Her PhD evaluates methodological decisions that influence the delineation of dimensional brain-behaviour relationships in transdiagnostic samples featuring children with different mental health diagnoses and those without. She is interested in using multivariate statistical methods to better understand how to delineate more stable and reproducible brain-behaviour relationships.
+Dr. Ju-Chi Yu (PhD, University of Texas at Dallas) is a postdoctoral research fellow focusing on developing multivariate techniques and applying them to brain imaging analysis. Currently, Dr. Yu is working on identifying transdiagnostic brain network biomarkers that contribute to the diversity under the diagnoses of Schizophrenia and Autism Spectrum Disorders. This project will provide insights into more sophisticated diagnoses that will be useful for developing personalized treatment plans for people with Schizophrenia and Autism Spectrum Disorders. She also collaborated with international scholars on developing sparsification techniques for multivariate statistical methods. Such development facilitates the interpretation of results from big data such as in brain imaging analysis.
+
+
+
+## Graduate Students
 
 Julia Galluci, M.Sc
 -------------------
@@ -129,8 +122,6 @@ Justin Ng, M.Sc
 
 Justin Ng is entering his first year of the PhD program at the Institute of Medical Science under the joint supervision of Dr. Colin Hawco and Dr. Jamie Feusner. His work focuses on understanding the neurobiology of cognitive domains, aiming to unravel the underlying brain mechanisms that drives the co-variability of cognitive performance - why and how general intelligences arise. He uses functional MRI data to test the hypothesis that advantageous brain network configuration and reconfiguration flexibility underlies general cognitive performance. The ultimate purpose of his current and projected studies is to provide pinpoint the biological mechanisms that should be altered to provide potent and lasting interventions for psychiatric, or even healthy populations.
 
-
-
 Eman Nishat, MSc
 ----------------
 <figure>
@@ -145,20 +136,10 @@ Ultimately, Nishat aims to empower the field of neuroscience by shedding light o
 
 [ResearchGate](https://www.researchgate.net/profile/Eman-Nishat) - [Twitter](https://twitter.com/eman_nishat)
 
-
-
 Ruyi Pan, Ph.D
 -----------------------------
 
 Ruyi Pan is a PhD student in statistics at the University of Toronto under the supervision of Dr. Jun Young Park and Dr. Aristotle Voineskos. Her research is developing statistical methods to analyze imaging data. She has developed a method CLEAN-V for testing reliability and heritability of imaging data. Currently she is building a new method to test the correlation of multimodal data.
-
-Dr. Neda Rashidi-Ranjbar, M.D., M.Sc
-------------------------------------
-<figure>
-        <a href="/images/ppl.n.rashidi.jpg"><img src="/images/ppl.n.rashidi.jpg"></a>
-</figure>
-
-Dr. Rashidi (MSc, Cognitive Science, Trento University; MD, University of Tehran) is a doctoral student. She studies brain structure and function among older adults with varying levels of risk for dementia, and examines their connections with cognitive scores. Rashidi-Ranjbar is primarily working with PACt-MD, a multi-centre clinical trial that aims to identify stepwise patterns of disease progression in older participants with depression, mild cognitive impairment, and Alzheimer’s Disease. Specifically, Rashidi-Ranjbar will use the three neuroimaging scans provided by each participant over a span of six months to identify structural and functional brain measures associated with the observed delay or prevention of dementia, as well as investigate the effect of cognitive training and brain stimulation on brain structure and function. In the coming year, Dr. Rashidi will use similarity network fusion (SNF), a modeling approach developed by lab collaborator Dr. Anna Goldenberg (SickKids), to identify similarity networks that integrate demographic, cognitive and imaging data. Rashidi anticipates that SNF will identify informative clusters of participants with similar profiles irrespective of diagnosis.
 
 Ayesha Rashidi, BS.c
 -----------------------------
@@ -173,25 +154,6 @@ Teodora Secara, BS.c
 </figure>
 
 Teodora Secara, University of Windsor, is a second-year PhD student at the Institute of Medical Science under the supervision of Dr. Colin Hawco. She focuses on understanding cognitive deficits and individual variability in schizophrenia spectrum disorders (SSD) and autism spectrum disorders (ASD). As part of her thesis, Teodora is examining how variability during rest and task-based functional connectivity relates to cognitive impairments and transdiagnostic connectivity profiles that underlie psychopathology. Her work aims to advance personalized treatments for SSD and ASD, while identifying more homogeneous subgroups with shared etiology, treatment response, and phenotypic characteristics.
-
-Thomas Tan
-----------------
-<figure>
-        <a href="/images/ppl.t.tan.jpg"><img src="/images/ppl.t.tan.jpg"></a>
-</figure>
-
-Thomas Tan (Bsc, Psychology & Neuroscience, University of Toronto) is a second-year master’s student in the Institute of Medical Science at the University of Toronto. He is supervised by Dr. Colin Hawco to investigate neural networks using fMRI and the effects of rTMS on resting state functional connectivity in Major Depressive Disorder (MDD). He is also interested in optimizing rTMS treatments by determining personalized targeting for MDD. Thomas is a research analyst for lab alumnus.
-
-Dr. Iska Moxon-Emre, Ph.D
------------------------------
-<figure>
-        <a href="/images/ppl.i.moxon-emre.png"><img src="/images/ppl.i.moxon-emre.png"></a>
-</figure>
-
-
-Dr. Moxon-Emre (PhD, Psychology, University of Toronto) is a postdoctoral fellow, investigating the links between brain function and behaviour, in persons with autism and schizophrenia. She is using magnetic resonance spectroscopy (MRS) and functional MRI to examine how non-invasive brain stimulation (repetitive transcranial magnetic stimulation; rTMS) alters brain metabolism, functional connectivity, and depression, in emerging adults with autism. She is also combining multi-modal neuroimaging and social cognition data, from individuals with autism and schizophrenia (SPIN-ASD dataset), to identify patterns of brain-behaviour relations that cut across these diagnoses and relate to social cognition. The overarching goal of Dr. Moxon-Emre’s research is to inform the development of targeted treatments to improve outcomes in clinical populations.
-
-[ResearchGate](https://www.researchgate.net/profile/Iska_Moxon-Emre/research) - [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/iska.moxon-emre.1/bibliography/public/)
 
 
 ## <ins>Undergrad Students
@@ -244,20 +206,6 @@ Dawn Smith, B.Sc
 
 Dawn Smith (BSc Psychology, York University; BSc Computer Science, York University) is a Research Methods Specialist responsible for keeping the Kimel Lab's technical infrastructure running smoothly in the face of heavy demand and constant change. Her primary interests are in developing and deploying new tools to automate common preprocessing tasks and improving MRI quality control processes. To this end, she has helped develop Datman, a python-based package for MRI data management, and helped create an MRI quality control dashboard to track image quality metrics.
 
-
-Yar Al Dabagh, B.Sc
-----------------
-<figure>
-        <a href="/images/ppl.y.adabagh.jpg"><img src="/images/ppl.y.adabagh.jpg"></a>
-</figure>
-
-Yar Al Dabagh (HBSc, McMaster University) is a Research Analyst who joined the Kimel lab in January 2023. He currently contributes to the processing and handling of data from the OPTIMUM study, which explores neuroimaging and molecular biomarkers associated with dementia risk in patients with treatment resistant late-life depression. He is also involved in developing data processing and data validation workflows for the Kimel Lab.
-
-Nandni Sharma, B.Sc
-----------------
-
-Nandni Sharma (HBSc, Ontario Tech University) is a Research Analyst who works on many different projects including ASCEND and SPIN-ASD. She analyzes neuropsychological and neuroimaging data within the Brain Health Imaging Centre, while improving data management and quality control software. She is also involved in REDCap operations to manage clinical research data.
-
 Ghazaleh Mohammadalinejad, M.Sc
 ----------------
 
@@ -298,6 +246,46 @@ Fariah Sandhu is an undergraduate student from York University. She is working i
 <ins>Alumni
 ======
 
+Hajer Nakua, BSc
+----------------------------
+<figure>
+        <a href="/images/ppl.h.nakua.jpg"><img src="/images/ppl.h.nakua.jpg"></a>
+</figure>
+
+Hajer Nakua is a PhD student at the University of Toronto in her final year working with Dr. Stephanie Ameis and Dr. Sean Hill. Her PhD evaluates methodological decisions that influence the delineation of dimensional brain-behaviour relationships in transdiagnostic samples featuring children with different mental health diagnoses and those without. She is interested in using multivariate statistical methods to better understand how to delineate more stable and reproducible brain-behaviour relationships.
+
+Thomas Tan
+----------------
+<figure>
+        <a href="/images/ppl.t.tan.jpg"><img src="/images/ppl.t.tan.jpg"></a>
+</figure>
+
+Thomas Tan (Bsc, Psychology & Neuroscience, University of Toronto) is a second-year master’s student in the Institute of Medical Science at the University of Toronto. He is supervised by Dr. Colin Hawco to investigate neural networks using fMRI and the effects of rTMS on resting state functional connectivity in Major Depressive Disorder (MDD). He is also interested in optimizing rTMS treatments by determining personalized targeting for MDD. Thomas is a research analyst for lab alumnus.
+
+Dr. Iska Moxon-Emre, Ph.D
+-----------------------------
+<figure>
+        <a href="/images/ppl.i.moxon-emre.png"><img src="/images/ppl.i.moxon-emre.png"></a>
+</figure>
+
+
+Dr. Moxon-Emre (PhD, Psychology, University of Toronto) is a postdoctoral fellow, investigating the links between brain function and behaviour, in persons with autism and schizophrenia. She is using magnetic resonance spectroscopy (MRS) and functional MRI to examine how non-invasive brain stimulation (repetitive transcranial magnetic stimulation; rTMS) alters brain metabolism, functional connectivity, and depression, in emerging adults with autism. She is also combining multi-modal neuroimaging and social cognition data, from individuals with autism and schizophrenia (SPIN-ASD dataset), to identify patterns of brain-behaviour relations that cut across these diagnoses and relate to social cognition. The overarching goal of Dr. Moxon-Emre’s research is to inform the development of targeted treatments to improve outcomes in clinical populations.
+
+[ResearchGate](https://www.researchgate.net/profile/Iska_Moxon-Emre/research) - [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/iska.moxon-emre.1/bibliography/public/)
+
+Yar Al Dabagh, B.Sc
+----------------
+<figure>
+        <a href="/images/ppl.y.adabagh.jpg"><img src="/images/ppl.y.adabagh.jpg"></a>
+</figure>
+
+Yar Al Dabagh (HBSc, McMaster University) is a Research Analyst who joined the Kimel lab in January 2023. He currently contributes to the processing and handling of data from the OPTIMUM study, which explores neuroimaging and molecular biomarkers associated with dementia risk in patients with treatment resistant late-life depression. He is also involved in developing data processing and data validation workflows for the Kimel Lab.
+
+Nandni Sharma, B.Sc
+----------------
+
+Nandni Sharma (HBSc, Ontario Tech University) is a Research Analyst who works on many different projects including ASCEND and SPIN-ASD. She analyzes neuropsychological and neuroimaging data within the Brain Health Imaging Centre, while improving data management and quality control software. She is also involved in REDCap operations to manage clinical research data.
+
 Michael Joseph, M.Sc
 -----------------------------
 <figure>
@@ -315,7 +303,13 @@ Jerrold Jeyachandra, M.Sc
 
 Jeyachandra (M.Sc, Science, Queens University) joined the lab as a Research Analyst. He is responsible for maintaining and expanding upon the lab’s computational pipelines for processing imaging data. In addition, he manages the analysis of phantom data, which provides critical insight into scanner performance across the many research centres involved in the lab's studies. Jeyachandra is also interested in utilizing computational techniques to improve precision in therapeutic neurostimulation. He is the lead developer of BOONStim (Bayesian Optimization of NeuroStimulation), a pipeline utilizing cutting-edge technologies from neuroimaging and TMS electrical field modelling, to automatically calculate an optimal TMS coil position given a target region of any size or shape.
 
+Dr. Neda Rashidi-Ranjbar, M.D., M.Sc
+------------------------------------
+<figure>
+        <a href="/images/ppl.n.rashidi.jpg"><img src="/images/ppl.n.rashidi.jpg"></a>
+</figure>
 
+Dr. Rashidi (MSc, Cognitive Science, Trento University; MD, University of Tehran) is a doctoral student. She studies brain structure and function among older adults with varying levels of risk for dementia, and examines their connections with cognitive scores. Rashidi-Ranjbar is primarily working with PACt-MD, a multi-centre clinical trial that aims to identify stepwise patterns of disease progression in older participants with depression, mild cognitive impairment, and Alzheimer’s Disease. Specifically, Rashidi-Ranjbar will use the three neuroimaging scans provided by each participant over a span of six months to identify structural and functional brain measures associated with the observed delay or prevention of dementia, as well as investigate the effect of cognitive training and brain stimulation on brain structure and function. In the coming year, Dr. Rashidi will use similarity network fusion (SNF), a modeling approach developed by lab collaborator Dr. Anna Goldenberg (SickKids), to identify similarity networks that integrate demographic, cognitive and imaging data. Rashidi anticipates that SNF will identify informative clusters of participants with similar profiles irrespective of diagnosis.
 
 Sonja Stojanovski, B.Sc.
 ------------------------
