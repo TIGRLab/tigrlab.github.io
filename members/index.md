@@ -216,6 +216,11 @@ Judy Kwan, B.Sc
 
 Judy Kwan (BSc., Animal Physiology, University of Toronto) is a Research Analyst working on both SPINS and STOP-PD. For both studies, she takes the lead collecting neuropsychological and social cognitive assessments from research participants, and coordinating shared visits for the sample collection lab and MRI. Kwan is also responsible for providing training to new study staff.
 
+Hassan Abdulrasul, M.A.
+----------------
+
+Hassan Abdulrasul (BSc Neuroscience, University of Toronto; M.A. Developmental Psychology with a specialization in Neuroscience, University of Toronto) joined our lab as a Research Analyst after graduating from the University of Toronto, where he studied the effects of early life experiences and adversity on neural networks in refugee children. In the lab, Hassan is involved in quality control, data management, and the development of preprocessing pipelines. He also contributes to data analysis and the ongoing refinement of research methodologies.
+
 ## <ins>Co-op and Summer Trainees
 
 Oliver Chen
