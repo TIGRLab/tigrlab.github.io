@@ -150,10 +150,18 @@ Ayesha Rashidi a first-year Master of Science student at U of T's Institute of M
 Teodora Secara, BS.c
 -----------------------------
 <figure>
-        <a href="/images/ppl.t.secara.jpg"><img src="/images/ppl.t.secara.jpg"></a>
+        <a href="/images/ppl.t.secara.JPG"><img src="/images/ppl.t.secara.JPG"></a>
 </figure>
 
 Teodora Secara, University of Windsor, is a second-year PhD student at the Institute of Medical Science under the supervision of Dr. Colin Hawco. She focuses on understanding cognitive deficits and individual variability in schizophrenia spectrum disorders (SSD) and autism spectrum disorders (ASD). As part of her thesis, Teodora is examining how variability during rest and task-based functional connectivity relates to cognitive impairments and transdiagnostic connectivity profiles that underlie psychopathology. Her work aims to advance personalized treatments for SSD and ASD, while identifying more homogeneous subgroups with shared etiology, treatment response, and phenotypic characteristics.
+
+Nafia Mirza, M.Sc
+-----------------------------
+<figure>
+        <a href="/images/ppl.n.mirza.jpg"><img src="/images/ppl.n.mirza.jpg"></a>
+</figure>
+
+Nafia is a PhD student at the Institute of Medical Science, co-supervised by Dr. Bernard LeFoll and Dr. Colin Hawco. Her project focuses on using the Enhancing NeuroImaging and Genetics with Meta Analysis (ENIGMA) consortium to investigate the structural and functional correlates of Substance Use Disorders (SUD). By collabroating with the ENIGMA Addictions Working Group, Nafia aims to identify neuroimaging biomarkers for treatment of SUDs.
 
 
 ## <ins>Undergrad Students
