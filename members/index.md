@@ -163,6 +163,9 @@ Nafia Mirza, M.Sc
 
 Nafia is a PhD student at the Institute of Medical Science, co-supervised by Dr. Bernard LeFoll and Dr. Colin Hawco. Her project focuses on using the Enhancing NeuroImaging and Genetics with Meta Analysis (ENIGMA) consortium to investigate the structural and functional correlates of Substance Use Disorders (SUD). By collabroating with the ENIGMA Addictions Working Group, Nafia aims to identify neuroimaging biomarkers for treatment of SUDs.
 
+Cathlyn Chen, B.Sc
+-----------------------------
+Cathlyn Chen (BSc. Computer & Cognitive Science) is a Master of Science student in the Institute of Medical Science under the supervision of Dr. Aristotle Voineskos. Her work aims to examine changes in the brain after treatments in older adults at high-risk for dementia with structural and functional MRI, leveraging data from the PACt-MD study (Preventing Alzheimer’s dementia with cognitive remediation plus transcranial direct current stimulation in mild cognitive impairment and depression). Ultimately, Cathlyn wishes to take advantage of computational tools and large-scale data to improve precision medicine and mental health.
 
 ## <ins>Undergrad Students
 
