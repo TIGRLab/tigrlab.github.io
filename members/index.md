@@ -98,6 +98,13 @@ Ju-Chi Yu, PhD
 
 Dr. Ju-Chi Yu (PhD, University of Texas at Dallas) is a postdoctoral research fellow focusing on developing multivariate techniques and applying them to brain imaging analysis. Currently, Dr. Yu is working on identifying transdiagnostic brain network biomarkers that contribute to the diversity under the diagnoses of Schizophrenia and Autism Spectrum Disorders. This project will provide insights into more sophisticated diagnoses that will be useful for developing personalized treatment plans for people with Schizophrenia and Autism Spectrum Disorders. She also collaborated with international scholars on developing sparsification techniques for multivariate statistical methods. Such development facilitates the interpretation of results from big data such as in brain imaging analysis.
 
+Stephanie Simpson, PhD
+----------------------------
+<figure>
+        <a href="/images/ppl.s.simpson.jpg"><img src="/images/ppl.s.simpson.jpg"></a>
+</figure>
+
+Dr. Stephanie Simpson (PhD and MA, University of Toronto) is a postdoctoral research fellow co-supervised by Drs. Colin Hawco and Daphne Voineskos. She is beginning a new research program that focuses on novel interventional treatments for refractory psychiatric conditions, with a special interest in identifying and developing neurophysiological markers of treatment response in the context of depression. Grounded in a strong cognitive neuroscience backgrounded, Dr. Simpson’s work combines multiple neuroimaging tools and clinical metrics to enhance our understanding of depression and optimize treatment strategies. Her work has been funded by competitive provincial and national award competitions and recognized at several conferences world-wide.
 
 
 ## Graduate Students
