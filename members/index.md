@@ -226,8 +226,11 @@ Dawn Smith (BSc Psychology, York University; BSc Computer Science, York Universi
 
 Ghazaleh Mohammadalinejad, M.Sc
 ----------------
+<figure>
+        <a href="/images/ppl.g.mohammadalinejad.png"><img src="/images/ppl.g.mohammadalinejad.png"></a>
+</figure>
 
-Ghazaleh Mohammadalinejad (BSc, Electrical Engineering, Sharif University of Technology, MSc, Neuroscience, University of Alberta) just graduated with a neuroscience major and joined the lab in the spring. She assists with improving the lab’s MRI data management and quality control. One of Ghazaleh's primary roles involves implementing preprocessing pipelines on the collected data.
+Ghazaleh Mohammadalinejad (BSc, Electrical Engineering, Sharif University of Technology, MSc, Neuroscience, University of Alberta) leads the pipeline design for the ScanD project. She collaborates with researchers to prepare reproducible computational workflows for multi-site schizophrenia investigations across Canada. Ghazaleh manages, integrates, and analyzes clinical, cognitive assessment, and brain imaging data while focusing on improving the lab’s MRI data management and quality control.
 
 Judy Kwan, B.Sc
 ----------------
