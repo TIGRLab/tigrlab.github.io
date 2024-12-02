@@ -95,8 +95,13 @@ Dr. Peter Zhukovsky (PhD in Psychology, University of Cambridge) is a Scientist 
 
 Ju-Chi Yu, PhD
 ----------------------------
+<figure>
+        <a href="/images/ppl.jc.yu.jpg"><img src="/images/ppl.jc.yu.jpg"></a>
+</figure>
 
 Dr. Ju-Chi Yu (PhD, University of Texas at Dallas) is a postdoctoral research fellow focusing on developing multivariate techniques and applying them to brain imaging analysis. Currently, Dr. Yu is working on identifying transdiagnostic brain network biomarkers that contribute to the diversity under the diagnoses of Schizophrenia and Autism Spectrum Disorders. This project will provide insights into more sophisticated diagnoses that will be useful for developing personalized treatment plans for people with Schizophrenia and Autism Spectrum Disorders. She also collaborated with international scholars on developing sparsification techniques for multivariate statistical methods. Such development facilitates the interpretation of results from big data such as in brain imaging analysis.
+
+[Website](https://www.juchiyu.com/) - [Github](https://github.com/juchiyu) - [Google Scholar](https://scholar.google.com.tw/citations?user=bkfSsy0AAAAJ&hl=en)
 
 Stephanie Simpson, PhD
 ----------------------------
